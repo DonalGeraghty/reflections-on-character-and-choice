@@ -44,6 +44,12 @@
   - [1. Build through progressive overload](#1-build-through-progressive-overload)
   - [2. Give aerobic fitness a central place](#2-give-aerobic-fitness-a-central-place)
   - [3. Arrange training in advance](#3-arrange-training-in-advance)
+- [Sleep and Recovery](#sleep-and-recovery)
+  - [1. Give sleep the priority it deserves](#1-give-sleep-the-priority-it-deserves)
+  - [2. Keep a consistent sleep schedule](#2-keep-a-consistent-sleep-schedule)
+  - [3. Prepare the environment for rest](#3-prepare-the-environment-for-rest)
+  - [4. Allow the mind to settle before bed](#4-allow-the-mind-to-settle-before-bed)
+  - [5. Protect sleep through daytime choices](#5-protect-sleep-through-daytime-choices)
 - [Mental Wellbeing](#mental-wellbeing)
 - [Money](#money)
   - [1. Begin with a budget](#1-begin-with-a-budget)
@@ -531,6 +537,60 @@ Make these arrangements during a calm moment, when the week can be considered as
 Allow for the predictable difficulties. A shorter session can be planned for a crowded day, and an alternative time can be identified when the usual one is unavailable. These choices can be settled in advance, with room to respond sensibly to illness, injury or a need for recovery.
 
 Review the routine when there is time to think. If the same session keeps being missed, examine its timing, preparation and demands. Adjust what repeatedly gets in the way. Build an arrangement that supports showing up on an ordinary day, including a day with little motivation.
+
+## Sleep and Recovery
+
+> The quality of tomorrow begins with the choices made tonight.
+
+### 1. Give sleep the priority it deserves
+
+> Protect the rest on which the next day depends.
+
+Sleep deserves a place in the day's plans rather than whatever time remains after everything else. A late evening can quietly extend through another episode, another game or a little more time on the phone. The enjoyment may be real, but so is the cost when the next morning arrives.
+
+Consider the trade before making it. Does another hour awake offer enough to justify an hour less of rest? Some occasions will. Time with loved ones, celebrations and unexpected opportunities are part of a life worth enjoying. The concern is not the occasional late night, but the familiar habit of staying awake without having chosen what matters more.
+
+Make adequate rest the usual arrangement. Decide when the evening needs to end, allowing enough time for sleep and the demands of the morning. Treat that decision as a way of caring for tomorrow, not as another rule to obey perfectly.
+
+### 2. Keep a consistent sleep schedule
+
+> Give rest a regular place in the day.
+
+A regular waking time gives the day a steady beginning and helps establish a familiar rhythm for sleep. Bedtime deserves similar consideration, with enough flexibility for the ordinary variations of life.
+
+Choose a schedule that allows sufficient sleep and can be kept on most days. Notice when the weekend drifts so far from the weekday pattern that returning to it becomes difficult. Consistency need not mean watching the clock anxiously or forcing sleep to arrive on command.
+
+The routine is there to support rest. When a night goes badly, return to a reasonable pattern instead of treating one disruption as a failure.
+
+### 3. Prepare the environment for rest
+
+> Make the room a place where rest comes easily.
+
+The surroundings can either support sleep or compete for attention. Light through the curtains, noise, uncomfortable temperature and a phone within reach can each make settling down more difficult.
+
+Prepare the bedroom while there is time to do something about it. Keep it dark, quiet and comfortably cool where possible. Arrange the bedding for comfort and reduce distractions that have no need to follow the day into bed.
+
+The aim is not to create a perfect room. Change what can reasonably be changed, and notice which adjustments make rest easier. Preparation removes small obstacles before tiredness makes them harder to address.
+
+### 4. Allow the mind to settle before bed
+
+> Let the day end before sleep begins.
+
+An evening filled with stimulation can leave little room to settle. Work, messages, games and endless scrolling each invite the mind to remain engaged, even after the time intended for sleep has arrived.
+
+Give the final part of the evening a different pace. Finish pressing tasks where possible, lower the light and choose quieter activities. Reading, preparing for the morning or sitting without a screen can provide a simple transition between the demands of the day and rest.
+
+A routine should not become another performance to perfect. Its purpose is to make stopping easier. If a difficult thought remains, acknowledge it and decide whether anything useful can be done tonight. A matter that cannot be settled now may be better approached with a rested mind.
+
+### 5. Protect sleep through daytime choices
+
+> Prepare for the night while the day is still young.
+
+Sleep does not begin with the decision to go to bed. Choices made earlier can influence how easily rest comes: time spent outdoors in daylight, activity during the day, caffeine late in the afternoon, alcohol in the evening or a heavy meal close to bedtime.
+
+Pay attention to recurring patterns rather than relying on a single good or bad night. Notice what leaves the evening calmer and what seems to interfere. Caffeine may remain stimulating long after its immediate effect feels gone; alcohol can make drowsiness easier while disturbing sleep later. Neither observation requires an inflexible rule for every occasion.
+
+Make adjustments that are practical to sustain. A useful routine considers both the hours awake and the hours asleep, leaving room for enjoyment while giving the body a fair opportunity to recover.
 
 ## Mental Wellbeing
 
