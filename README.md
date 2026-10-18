@@ -25,6 +25,7 @@ The current manuscript is in [book.md](book.md), with a linked table of contents
 - [Stoic Wisdom](book.md#stoic-wisdom)
 - [Food and Nutrition](book.md#food-and-nutrition)
 - [Exercise](book.md#exercise)
+- [Sleep and Recovery](book.md#sleep-and-recovery)
 - [Mental Wellbeing](book.md#mental-wellbeing)
 - [Money](book.md#money)
 
