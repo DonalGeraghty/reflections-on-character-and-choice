@@ -10,6 +10,7 @@
   - [5. Build systems that support the intention](#5-build-systems-that-support-the-intention)
   - [6. Prepare the environment](#6-prepare-the-environment)
   - [7. Prepare for obstacles](#7-prepare-for-obstacles)
+  - [8. Remember how it feels afterwards](#8-remember-how-it-feels-afterwards)
 - [Character and Integrity](#character-and-integrity)
   - [1. Speak about others with care](#1-speak-about-others-with-care)
   - [2. Let repeated actions define identity](#2-let-repeated-actions-define-identity)
@@ -149,6 +150,20 @@ A healthy frozen meal kept ready in the freezer is a simple example. If the day 
 Some interruptions call for a pause. Illness, urgent responsibilities and circumstances beyond control may change what is reasonable. A useful plan includes a way to resume once there is room to continue. One disrupted day need not determine the days that follow.
 
 Preparation has limits; every difficulty cannot be foreseen. Begin with the obstacles that are familiar or likely, and learn from those that arrive unexpectedly. Each interruption can reveal something the plan needs to accommodate.
+
+### 8. Remember how it feels afterwards
+
+> Do not let the reluctance to begin outweigh the satisfaction of having begun.
+
+The thought of doing something worthwhile can feel more difficult than the activity itself. Going for a run or sitting down to read may bring an initial reluctance, even when experience has repeatedly shown that both are rewarding.
+
+Before starting, attention settles on the immediate effort. Remaining comfortable seems easier than changing course. Yet once a run begins or a book is opened, that resistance often diminishes. Afterwards, there is satisfaction in having made the effort, and no regret for having begun.
+
+Remember that pattern when the reluctance returns. A feeling in the present does not erase what experience has already taught. The difficulty of starting is temporary; the value of having followed through is easier to recognise afterwards.
+
+Make the beginning manageable. Put on the running shoes, step outside or open the book. There is no need to wait until the desire to act arrives. Sometimes willingness grows from action.
+
+Rest can still be the wiser choice when illness, exhaustion or recovery calls for it. Ordinary reluctance, however, need not be treated as a reliable verdict on whether an activity is worth doing.
 
 ## Character and Integrity
 
