@@ -69,6 +69,7 @@ These principles give the reflections a shared direction, while leaving each exp
   - [10. Remember how it feels afterwards](#10-remember-how-it-feels-afterwards)
   - [11. Let leisure be leisure](#11-let-leisure-be-leisure)
   - [12. Avoid the space between work and rest](#12-avoid-the-space-between-work-and-rest)
+  - [13. Choose how far to pursue mastery](#13-choose-how-far-to-pursue-mastery)
 - [Character and Integrity](#character-and-integrity)
   - [1. Speak about others with care](#1-speak-about-others-with-care)
   - [2. Let repeated actions define identity](#2-let-repeated-actions-define-identity)
@@ -317,6 +318,22 @@ Choose deliberately. If the time is for work, give it attention. If it is for le
 Not every minute needs to be planned, and an occasional aimless diversion is no great failure. But when the same pattern repeatedly leaves dissatisfaction behind, it deserves examination.
 
 Better to work with purpose or rest with intention than spend the hour doing neither.
+
+### 13. Choose how far to pursue mastery
+
+> The possibility of further progress does not make it necessary.
+
+There is value in developing a skill. Learning, practising and improving can bring genuine satisfaction.
+
+Yet progress has no natural limit. Each achievement reveals another, often requiring greater time and effort.
+
+The question is not simply how far something can be taken, but how far it is worth taking.
+
+Some pursuits deserve years of dedication. Others may have already provided what was sought from them.
+
+Time devoted to one ambition is time unavailable for other worthwhile experiences. Recognising when enough has been achieved allows attention to turn towards something new.
+
+Knowing when to stop does not diminish the value of how far one has come.
 
 ---
 
