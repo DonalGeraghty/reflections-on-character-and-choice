@@ -34,6 +34,7 @@
   - [16. Know the destination](#16-know-the-destination)
   - [17. Recognise the freedom in distance](#17-recognise-the-freedom-in-distance)
   - [18. Speak with purpose, not compulsion](#18-speak-with-purpose-not-compulsion)
+  - [19. Remember what experience has taught](#19-remember-what-experience-has-taught)
 - [Food and Nutrition](#food-and-nutrition)
   - [1. Give weight to what has worked](#1-give-weight-to-what-has-worked)
   - [2. Make eating well easier to sustain](#2-make-eating-well-easier-to-sustain)
@@ -454,6 +455,24 @@ Remaining calm does not require remaining silent. A strong opinion can be expres
 A contribution need not change anyone's mind to have value. Giving a considered perspective can be worthwhile even when it settles nothing. The more useful measure afterwards is the conduct: was there honest expression, fair listening, respect for the others and a willingness to reconsider?
 
 Agreement lies beyond one person's control. Once a view has been offered with care, allow others to receive it as they choose. Neither silence nor speaking is always the wiser course; the judgement and character behind the choice matter more than winning the debate.
+
+### 19. Remember what experience has taught
+
+> Let the lessons of experience speak louder than the feelings of the moment.
+
+A curious pattern emerges when considering the reluctance to run or read and the desire to eat something indulgent.
+
+Before a run or a period of reading, the immediate effort can seem unappealing. The satisfaction that so often follows is easily forgotten, while the difficulty of beginning receives all the attention.
+
+With certain foods, the opposite occurs. The pleasure of eating is remembered clearly, while the discomfort that has followed on previous occasions slips from mind. The consequences return to attention only after the pleasure has passed. Repeating the choice can also work against a longer-term intention to maintain a healthier weight.
+
+These experiences appear different, yet reveal the same weakness in judgement. A feeling in the present moment is allowed to outweigh knowledge already gained through experience. Something worthwhile is avoided despite the satisfaction it brings; something briefly pleasurable is pursued despite its familiar cost.
+
+Neither problem necessarily requires a new lesson. Experience has already supplied one. The work is to remember it at the moment when a choice remains open.
+
+Before avoiding something worthwhile, recall how it has felt afterwards. Before choosing a fleeting pleasure, remember the whole experience, including what followed. The aim is not to distrust every desire or force every difficult activity. Rest may be needed, and enjoyment has its place. But a passing feeling need not carry more authority than repeated observation.
+
+Experience becomes useful wisdom when its lessons begin to shape the next decision.
 
 ## Food and Nutrition
 
