@@ -37,6 +37,7 @@
   - [17. Recognise the freedom in distance](#17-recognise-the-freedom-in-distance)
   - [18. Speak with purpose, not compulsion](#18-speak-with-purpose-not-compulsion)
   - [19. Remember what experience has taught](#19-remember-what-experience-has-taught)
+  - [20. Turn obstacles into opportunities](#20-turn-obstacles-into-opportunities)
 - [Food and Nutrition](#food-and-nutrition)
   - [1. Give weight to what has worked](#1-give-weight-to-what-has-worked)
   - [2. Make eating well easier to sustain](#2-make-eating-well-easier-to-sustain)
@@ -512,6 +513,22 @@ Neither problem necessarily requires a new lesson. Experience has already suppli
 Before avoiding something worthwhile, recall how it has felt afterwards. Before choosing a fleeting pleasure, remember the whole experience, including what followed. The aim is not to distrust every desire or force every difficult activity. Rest may be needed, and enjoyment has its place. But a passing feeling need not carry more authority than repeated observation.
 
 Experience becomes useful wisdom when its lessons begin to shape the next decision.
+
+### 20. Turn obstacles into opportunities
+
+> What stands in the way becomes the way.
+
+An obstacle can appear to be nothing more than an interruption to a plan. A difficult task, an unexpected setback or an uncomfortable conversation may seem to stand between the present and the intended destination.
+
+Yet the obstacle itself may provide an opportunity to practise the qualities needed to continue. A difficult task can develop perseverance. A disagreement can test patience and fairness. A failure can reveal a weakness in an approach that would otherwise remain unnoticed.
+
+This does not mean that every difficulty is a gift or that hardship should be welcomed without question. Some obstacles should be removed or avoided, and some losses must simply be acknowledged.
+
+The useful question is what remains possible in the circumstances that exist. When the original path becomes unavailable, consider whether the difficulty can teach something, strengthen a useful ability or reveal another way forward.
+
+Sometimes wisdom means persevering. Sometimes it means changing direction or walking away. The obstacle does not decide the response; reason and character guide how it is met.
+
+Progress is not always made by removing obstacles. Sometimes it is made through the way they are met.
 
 ## Food and Nutrition
 
