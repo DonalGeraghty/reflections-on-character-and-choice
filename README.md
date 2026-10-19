@@ -21,6 +21,7 @@
   - [9. Prepare for obstacles](#9-prepare-for-obstacles)
   - [10. Remember how it feels afterwards](#10-remember-how-it-feels-afterwards)
   - [11. Let leisure be leisure](#11-let-leisure-be-leisure)
+  - [12. Avoid the space between work and rest](#12-avoid-the-space-between-work-and-rest)
 - [Character and Integrity](#character-and-integrity)
   - [1. Speak about others with care](#1-speak-about-others-with-care)
   - [2. Let repeated actions define identity](#2-let-repeated-actions-define-identity)
@@ -246,6 +247,28 @@ This does not make every use of leisure equally wise. An activity that repeatedl
 The question is not whether every hour produced something useful, but whether the time was spent in a way worth choosing.
 
 A good life should contain time for living, not merely time spent preparing to live.
+
+### 12. Avoid the space between work and rest
+
+> Rest deliberately. Work deliberately. Avoid drifting through the space between them.
+
+Not every hour needs to be productive. Time spent relaxing, enjoying a hobby or doing very little can be worthwhile in its own right.
+
+Yet there is another way of spending time that offers neither the satisfaction of meaningful activity nor the restoration of genuine rest.
+
+An unexpected quiet period at work can become an hour spent moving between websites, scrolling through short videos and seeking one distraction after another. The time passes, but little seems to have been accomplished or enjoyed.
+
+The difficulty is not that the hour was unproductive. An hour deliberately spent resting would have served a purpose. The difficulty is that no purpose was chosen.
+
+The constant availability of stimulation makes this pattern easy to fall into. A moment of boredom can be answered immediately by a screen, without considering whether that is how the time would be best spent.
+
+When a quiet moment arrives, consider what it offers. There may be an opportunity to complete useful work, learn something worthwhile or simply rest. Responsibilities still deserve their due attention, but spare time need not become another demand for constant improvement.
+
+Choose deliberately. If the time is for work, give it attention. If it is for leisure, enjoy it without guilt. If rest is needed, allow the mind some peace rather than filling every moment with distraction.
+
+Not every minute needs to be planned, and an occasional aimless diversion is no great failure. But when the same pattern repeatedly leaves dissatisfaction behind, it deserves examination.
+
+Better to work with purpose or rest with intention than spend the hour doing neither.
 
 ---
 
