@@ -1,4 +1,4 @@
-# The Practised Life
+# Reflections on Character and Choice
 
 *Reflections on character, choice, and the daily practice of living well.*
 
