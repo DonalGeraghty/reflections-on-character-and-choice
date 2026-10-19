@@ -91,7 +91,7 @@ These principles give the reflections a shared direction, while leaving each exp
   - [14. Life is long enough when it is used well](#14-life-is-long-enough-when-it-is-used-well)
   - [15. Simple living leaves more room for good living](#15-simple-living-leaves-more-room-for-good-living)
   - [16. Know the destination](#16-know-the-destination)
-  - [17. Recognise the freedom in distance](#17-recognise-the-freedom-in-distance)
+  - [17. Not everything that leaves is a loss](#17-not-everything-that-leaves-is-a-loss)
   - [18. Speak with purpose, not compulsion](#18-speak-with-purpose-not-compulsion)
   - [19. Remember what experience has taught](#19-remember-what-experience-has-taught)
   - [20. Turn obstacles into opportunities](#20-turn-obstacles-into-opportunities)
@@ -599,19 +599,19 @@ A clear destination also gives a reason to decline. Something can be worthwhile 
 
 Review the direction as understanding grows, and adapt the route when circumstances require it. A setback may call for another approach; an unexpected opening may offer a better one. Keep the purpose clear enough to recognise when the wind can help.
 
-### 17. Recognise the freedom in distance
+### 17. Not everything that leaves is a loss
 
-> The silence of an unwelcome companion can be a gift.
+> What is lost may also bring freedom.
 
-When someone whose company is unwelcome chooses to withdraw, the first feeling may still be one of rejection. Silence or exclusion can provoke resentment even when the relationship itself brought little happiness.
+The absence of something familiar can feel like a loss, even when its presence brought little value.
 
-Consider what has actually been lost. If a relationship repeatedly brought tension, discomfort or unnecessary conflict, distance may offer peace rather than deprivation. Another person's decision not to remain close need not become a problem to solve.
+There is a tendency to hold onto things simply because they have been part of life, without considering whether they still deserve a place in it.
 
-There is no obligation to pursue approval merely because it has been withheld. Allow the distance to remain without demanding an explanation, trying to win the person back or turning their absence into a contest.
+An ending can bring peace, freedom, time or space for something more worthwhile.
 
-Acceptance does not excuse unkindness or remove the responsibility to examine personal conduct. If harm was caused, acknowledge it and make a reasonable effort to put it right. That effort can be made without insisting that the relationship continue. Nor does accepting distance require hostility, gossip or satisfaction in another person's misfortune.
+Rather than measuring only what has gone, consider what its absence makes possible.
 
-Wish no harm, hold no unnecessary bitterness and allow both lives to proceed. Peace sometimes comes not from repairing every connection, but from recognising which ones can be left alone.
+Sometimes, having less means gaining more.
 
 ### 18. Speak with purpose, not compulsion
 
