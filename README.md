@@ -74,6 +74,7 @@ These principles give the reflections a shared direction, while leaving each exp
   - [2. Let repeated actions define identity](#2-let-repeated-actions-define-identity)
   - [3. Share with discernment](#3-share-with-discernment)
   - [4. Contribute to the conversation worth having](#4-contribute-to-the-conversation-worth-having)
+  - [5. Let a decision stand on its own](#5-let-a-decision-stand-on-its-own)
 - [Stoic Wisdom](#stoic-wisdom)
   - [1. Find freedom from excess](#1-find-freedom-from-excess)
   - [2. Endurance is easier when the purpose is clear](#2-endurance-is-easier-when-the-purpose-is-clear)
@@ -384,6 +385,22 @@ Consider the purpose before forwarding a link or repeating another complaint. Do
 There is no need to force a cheerful response to a serious concern or correct another person's outlook at every opportunity. A useful contribution may simply be an overlooked fact, a hopeful development or a thoughtful change of subject.
 
 The aim is not to insist that the world is good, but to see it more completely. What is wrong deserves honest attention; what is good deserves not to be forgotten.
+
+### 5. Let a decision stand on its own
+
+> A decision needs consideration, not universal approval.
+
+A simple yes or no can be sufficient. Not every choice requires an explanation, and not every question creates an obligation to provide one.
+
+There can be a tendency to justify decisions to avoid disappointing others, prevent disagreement or gain their approval. Yet offering reasons can sometimes turn a settled decision into something open to negotiation.
+
+People of wealth, status or authority may find their decisions more readily accepted without question. But the freedom to make a personal choice does not depend on importance in the eyes of others.
+
+An explanation can be offered willingly when it serves a purpose. There is a difference between sharing a reason and feeling compelled to defend a choice.
+
+The aim is not to discourage questions or dismiss those who ask them, but to remain comfortable with a decision even when others do not understand or agree with it.
+
+A considered choice can stand without the approval of others.
 
 ---
 
