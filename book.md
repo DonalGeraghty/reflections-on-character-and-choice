@@ -1,4 +1,4 @@
-# The Practised Life
+# Reflections on Character and Choice
 
 ## Table of Contents
 
