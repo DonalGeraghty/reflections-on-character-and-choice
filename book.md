@@ -54,6 +54,7 @@
   - [3. Prepare the environment for rest](#3-prepare-the-environment-for-rest)
   - [4. Allow the mind to settle before bed](#4-allow-the-mind-to-settle-before-bed)
   - [5. Protect sleep through daytime choices](#5-protect-sleep-through-daytime-choices)
+  - [6. Rest is not wasted time](#6-rest-is-not-wasted-time)
 - [Mental Wellbeing](#mental-wellbeing)
 - [Money](#money)
   - [1. Begin with a budget](#1-begin-with-a-budget)
@@ -653,6 +654,22 @@ Sleep does not begin with the decision to go to bed. Choices made earlier can in
 Pay attention to recurring patterns rather than relying on a single good or bad night. Notice what leaves the evening calmer and what seems to interfere. Caffeine may remain stimulating long after its immediate effect feels gone; alcohol can make drowsiness easier while disturbing sleep later. Neither observation requires an inflexible rule for every occasion.
 
 Make adjustments that are practical to sustain. A useful routine considers both the hours awake and the hours asleep, leaving room for enjoyment while giving the body a fair opportunity to recover.
+
+### 6. Rest is not wasted time
+
+> Rest is not the absence of progress. It is part of what makes progress possible.
+
+There can be a temptation to regard sleep and rest as hours lost, time that could otherwise be spent working, learning, exercising or enjoying life. Yet the body and mind depend on recovery to function well.
+
+Sleep supports physical health, memory, concentration and emotional wellbeing. Sacrificing it to gain another hour of activity can leave the following day less productive and less enjoyable.
+
+Rest deserves the same consideration. Not every moment needs to produce a visible achievement. An afternoon spent recovering, a quiet evening or a full night's sleep can be worthwhile without anything else being accomplished.
+
+Discipline should not be confused with constant activity. Recognising when effort is needed also requires the judgement to recognise when recovery is necessary.
+
+There is a difference between avoiding something worthwhile through ordinary reluctance and choosing rest because the body or mind genuinely needs it. Learning to recognise that distinction allows ambition and recovery to support one another.
+
+A well-lived life is not measured by how many hours are spent being productive, but by how wisely those hours are used.
 
 ## Mental Wellbeing
 
