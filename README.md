@@ -7,8 +7,55 @@
 
 ---
 
+## Guiding Principles
+
+> A good life is not built through a single decision, but through the choices made repeatedly.
+
+The reflections that follow began as separate observations about health, relationships, discipline, work and everyday behaviour. Over time, common principles have emerged. They are not final answers, but reminders to examine, practise and refine as experience grows.
+
+### 🧭 Live deliberately, rather than automatically
+
+Give time and attention a purpose. Choose how to work, learn, rest and enjoy life instead of allowing habit or distraction to make every decision.
+
+*Explore:* [Do things with intention](#2-do-things-with-intention) · [Avoid the space between work and rest](#12-avoid-the-space-between-work-and-rest)
+
+### 🧠 Remember what experience has taught
+
+A present feeling does not always provide a complete account of what follows. Recall the satisfaction after worthwhile effort and the cost after fleeting pleasure before making the next choice.
+
+*Explore:* [Remember how it feels afterwards](#10-remember-how-it-feels-afterwards) · [Remember what experience has taught](#19-remember-what-experience-has-taught)
+
+### 📅 Prepare when circumstances are favourable
+
+Make decisions while calm and rested. Plans, routines and a prepared environment can help the better-considered choice remain available when hunger, fatigue or frustration arrive. Revise the plan when circumstances genuinely change.
+
+*Explore:* [Make decisions in moments of clarity](#3-make-decisions-in-moments-of-clarity) · [Build systems that support the intention](#7-build-systems-that-support-the-intention)
+
+### ⚖️ Judge conduct rather than outcomes
+
+Honesty, fairness, patience and care remain worth practising even when agreement, recognition or a preferred outcome cannot be secured.
+
+*Explore:* [Recognise what is up to us](#6-recognise-what-is-up-to-us) · [Speak with purpose, not compulsion](#18-speak-with-purpose-not-compulsion)
+
+### 🌿 Make room for enjoyment and recovery
+
+Discipline should support a good life, not demand endless productivity. Sleep, leisure, relationships and simple enjoyment deserve time without having to prove another benefit.
+
+*Explore:* [Let leisure be leisure](#11-let-leisure-be-leisure) · [Rest is not wasted time](#6-rest-is-not-wasted-time)
+
+### 💬 Contribute with honesty and care
+
+Words shape the experience of others. Speak fairly, avoid unnecessary gossip and make room for constructive or uplifting news without denying real problems.
+
+*Explore:* [Speak about others with care](#1-speak-about-others-with-care) · [Contribute to the conversation worth having](#4-contribute-to-the-conversation-worth-having)
+
+These principles give the reflections a shared direction, while leaving each experience and its lesson intact. As understanding changes, the connections may change too.
+
+---
+
 ## Table of Contents
 
+- [Guiding Principles](#guiding-principles)
 - [Living with Intention](#living-with-intention)
   - [1. If nothing changes, nothing changes](#1-if-nothing-changes-nothing-changes)
   - [2. Do things with intention](#2-do-things-with-intention)
