@@ -12,12 +12,14 @@
 - [Living with Intention](#living-with-intention)
   - [1. If nothing changes, nothing changes](#1-if-nothing-changes-nothing-changes)
   - [2. Do things with intention](#2-do-things-with-intention)
-  - [3. Create a vision of the future self](#3-create-a-vision-of-the-future-self)
-  - [4. Give ambitious goals a realistic pace](#4-give-ambitious-goals-a-realistic-pace)
-  - [5. Build systems that support the intention](#5-build-systems-that-support-the-intention)
-  - [6. Prepare the environment](#6-prepare-the-environment)
-  - [7. Prepare for obstacles](#7-prepare-for-obstacles)
-  - [8. Remember how it feels afterwards](#8-remember-how-it-feels-afterwards)
+  - [3. Make decisions in moments of clarity](#3-make-decisions-in-moments-of-clarity)
+  - [4. Begin with intention, end with reflection](#4-begin-with-intention-end-with-reflection)
+  - [5. Create a vision of the future self](#5-create-a-vision-of-the-future-self)
+  - [6. Give ambitious goals a realistic pace](#6-give-ambitious-goals-a-realistic-pace)
+  - [7. Build systems that support the intention](#7-build-systems-that-support-the-intention)
+  - [8. Prepare the environment](#8-prepare-the-environment)
+  - [9. Prepare for obstacles](#9-prepare-for-obstacles)
+  - [10. Remember how it feels afterwards](#10-remember-how-it-feels-afterwards)
 - [Character and Integrity](#character-and-integrity)
   - [1. Speak about others with care](#1-speak-about-others-with-care)
   - [2. Let repeated actions define identity](#2-let-repeated-actions-define-identity)
@@ -100,7 +102,43 @@ Once the purpose is clear, give the activity the attention it deserves. An inten
 
 A whole day cannot be settled in advance. Intention can begin again at the next decision, with a brief pause and a clearer sense of what matters.
 
-### 3. Create a vision of the future self
+### 3. Make decisions in moments of clarity
+
+> Let the rested mind prepare the path for the weary one.
+
+Important decisions are easier to consider when hunger, tiredness and immediate pressure are not demanding attention. A calm moment allows room to weigh what matters beyond the next hour. The same choice may feel quite different late in the day, when the easiest option has become the most appealing.
+
+Use the clearer moments to settle what can reasonably be decided in advance. Choose meals before hunger arrives, arrange exercise before motivation is tested and make space for sleep before the evening runs away. An earlier decision can reduce the burden of deciding again when circumstances are less favourable.
+
+Preparation is a way for a more rested, considered mind to help its future self. A plan does not need to be fought over afresh at every difficult moment. The useful choice has already been considered, and the next step can be made simple.
+
+Yet a plan is guidance, not a command. Illness, exhaustion, changing circumstances or new information may make a different response wiser. Honour the reason behind the decision rather than obeying its details blindly.
+
+Make good decisions when they are easier to make, so that they remain easier to follow when the day becomes difficult.
+
+### 4. Begin with intention, end with reflection
+
+> Prepare for the day ahead. Learn from the day behind.
+
+Reserve a little time to think deliberately rather than leaving reflection only for moments of difficulty. The day can begin with an intention and end with an honest examination of how it was lived.
+
+In the morning, consider what deserves attention, what can be prepared in advance and which predictable difficulties may arise. A few clear decisions can give the hours ahead direction without attempting to control every detail.
+
+During the day, pause when possible. Notice whether actions still serve the intention or whether urgency, habit or emotion has taken over. A pause need not be lengthy to allow a more deliberate next step.
+
+In the evening, look back without turning the day into a trial. What went well? Where did judgement or behaviour fall short? What can be learned, repaired or done differently? The purpose is understanding rather than self-reproach. Notice what was good as readily as what needs improvement.
+
+A reflection earns its value when it changes how the next day is approached. Carry forward one useful lesson and allow the rest of the day to end.
+
+**A simple daily practice**
+
+| When | Practice | Question |
+| :--- | :--- | :--- |
+| 🌅 Morning | Prepare | What matters today? |
+| ☀️ During the day | Pause | Is this still the right course? |
+| 🌙 Evening | Reflect | What can tomorrow learn from today? |
+
+### 5. Create a vision of the future self
 
 > Give the future a place in today.
 
@@ -112,7 +150,7 @@ Bring that work down to the scale of an ordinary day. What needs practising? Wha
 
 Begin before the whole picture feels within reach. Review progress through the decisions actually made, and refine the vision as understanding grows.
 
-### 4. Give ambitious goals a realistic pace
+### 6. Give ambitious goals a realistic pace
 
 > Let ambition allow time for growth.
 
@@ -124,7 +162,7 @@ The plan needs to survive ordinary days, including those with less enthusiasm th
 
 Ambition can give a direction while the next commitment remains modest. Progress deserves enough time to become established. The goal is worth returning to; so is the question of whether the path towards it can actually be followed.
 
-### 5. Build systems that support the intention
+### 7. Build systems that support the intention
 
 > Build for the day when motivation is absent.
 
@@ -138,7 +176,7 @@ Build a routine in which following through becomes familiar. Give the action a r
 
 When the same obstacle keeps defeating the plan, examine the arrangement. What repeatedly gets in the way, and what could be prepared, simplified or moved? A system earns its place by helping the work happen under the conditions of an ordinary life.
 
-### 6. Prepare the environment
+### 8. Prepare the environment
 
 > Prepare the surroundings for the life being built.
 
@@ -150,7 +188,7 @@ Make the useful action convenient. Put what it needs where it will be used. Give
 
 The environment will never settle every decision, but it can support the decision already made. Arrange it during a quiet moment, with the tired or distracted moment in mind. Let the surroundings offer a reminder of what matters and an easier way to begin.
 
-### 7. Prepare for obstacles
+### 9. Prepare for obstacles
 
 > Give difficulty an answer before it arrives.
 
@@ -164,7 +202,7 @@ Some interruptions call for a pause. Illness, urgent responsibilities and circum
 
 Preparation has limits; every difficulty cannot be foreseen. Begin with the obstacles that are familiar or likely, and learn from those that arrive unexpectedly. Each interruption can reveal something the plan needs to accommodate.
 
-### 8. Remember how it feels afterwards
+### 10. Remember how it feels afterwards
 
 > Do not let the reluctance to begin outweigh the satisfaction of having begun.
 
