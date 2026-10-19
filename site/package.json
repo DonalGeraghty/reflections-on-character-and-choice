@@ -1,0 +1,27 @@
+{
+  "name": "reflections-site",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "predev": "npm run convert",
+    "dev": "vite",
+    "convert": "node scripts/convert-content.mjs",
+    "prebuild": "npm run convert",
+    "build": "vite build",
+    "presmoke": "npm run convert",
+    "smoke": "node scripts/smoke.mjs",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@hugeicons/core-free-icons": "^4.3.5",
+    "@hugeicons/react": "^1.1.10",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.8"
+  }
+}
