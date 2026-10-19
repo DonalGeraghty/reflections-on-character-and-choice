@@ -24,6 +24,7 @@
   - [1. Speak about others with care](#1-speak-about-others-with-care)
   - [2. Let repeated actions define identity](#2-let-repeated-actions-define-identity)
   - [3. Share with discernment](#3-share-with-discernment)
+  - [4. Contribute to the conversation worth having](#4-contribute-to-the-conversation-worth-having)
 - [Stoic Wisdom](#stoic-wisdom)
   - [1. Find freedom from excess](#1-find-freedom-from-excess)
   - [2. Endurance is easier when the purpose is clear](#2-endurance-is-easier-when-the-purpose-is-clear)
@@ -276,6 +277,22 @@ What is repeatedly said also contributes to how a person is seen. Someone who co
 Choose words that fairly reflect what is being practised and built. A reputation deserves substance in conduct, and honesty in the account of it. There is room for imperfections without turning every one into a public identity. There is also room for privacy without inventing a more flattering life.
 
 Close relationships may deserve the fuller account, including uncertainty, difficulty and contradictions. Learning also requires room to ask questions and admit what is not yet understood. Choose the audience and purpose with care; let honesty remain possible within that choice.
+
+### 4. Contribute to the conversation worth having
+
+> Optimism is not believing everything is good. It is remembering that not everything is bad.
+
+A conversation can become dominated by complaints and accounts of what is going wrong. Each concern may be genuine and expressed with good intentions. Yet hearing only criticism can leave an incomplete picture, as though little is improving and nothing deserves appreciation.
+
+Problems deserve attention. Criticism can expose injustice, hold decisions to account and lead to necessary change. A balanced outlook does not require silence about what is wrong.
+
+But criticism need not be the only contribution. There are also acts of kindness, achievements, improvements and problems being solved. These deserve a place in conversation alongside the difficulties. When speaking about Ireland, or sharing news with friends, make a deliberate effort to notice and pass along developments that are constructive or uplifting.
+
+Consider the purpose before forwarding a link or repeating another complaint. Does it inform, help someone understand or encourage useful action? Does it offer perspective? Or does it merely add to a familiar cycle of frustration? News and online feeds can draw attention repeatedly towards conflict and alarming events; the selection of what to share need not follow that pattern.
+
+There is no need to force a cheerful response to a serious concern or correct another person's outlook at every opportunity. A useful contribution may simply be an overlooked fact, a hopeful development or a thoughtful change of subject.
+
+The aim is not to insist that the world is good, but to see it more completely. What is wrong deserves honest attention; what is good deserves not to be forgotten.
 
 ---
 
