@@ -42,11 +42,11 @@ This repository is a personal, evolving guide to living well, built from the aut
 
 ## Guiding Principles and visual overview
 
-- Keep a short, prominent **Guiding Principles** overview before the Table of Contents in `README.md` and `book.md`. It is an unnumbered introduction, not a replacement for individual reflections.
+- Keep a short, prominent **Guiding Principles** overview before the Table of Contents in `README.md`. It is an unnumbered introduction, not a replacement for individual reflections.
 - Preserve the six emerging themes unless the author's developing observations justify a considered revision. When new reflections illuminate an existing theme, consider updating its links; do not automatically add another theme or rewrite the overview for every entry.
 - Each theme uses a small, meaningful emoji icon paired with a concise heading, a short reflective explanation and links to specific existing reflections. This icon-and-text pairing is a deliberate author preference: it makes long passages inviting and skimmable, with a little colour.
 - Keep icons consistent, purposeful and accessible: headings must make sense without the icon; do not use icon-only labels, rainbow decoration or emoji on every reflection heading. GitHub Markdown does not support arbitrary icon colours or custom CSS reliably.
-- Preserve correct heading anchors and internal links when adding, moving or renumbering reflections. Keep both manuscript copies consistent.
+- Preserve correct heading anchors and internal links when adding, moving or renumbering reflections. Keep `README.md` as the only manuscript; never recreate `book.md` or other duplicate chapter files.
 
 ## Editing the repository
 
