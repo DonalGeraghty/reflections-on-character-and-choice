@@ -28,6 +28,18 @@ This repository is a personal, evolving guide to living well, built from the aut
 - Read new material alongside existing entries. Keep the distinctions clear: privacy should allow honest learning, acceptance should leave room for action, and discipline should support a life with rest and enjoyment. Develop the author's meaning without turning a memorable maxim into an absolute factual claim.
 - Use the Character and Integrity and Living with Intention chapters in `README.md` as the preferred style references. The author explicitly preferred these over the older nutrition wording. Lead with a clear principle, develop it naturally and use concrete examples where they help. Avoid repeated summaries of past experience and commentary about what belongs in the notes. Food and Nutrition has been revised to follow this approach.
 
+## Visual design and readability
+
+- The author welcomes restrained visual elements, including small touches of colour, because they break up long passages and make important distinctions easier to remember.
+- Design for GitHub's README reader, especially the mobile app, and for both light and dark mode. Keep the manuscript readable as plain Markdown.
+- Use GitHub-flavoured Markdown tables for genuine comparisons, especially when two experiences reveal opposing patterns or a shared lesson. Keep tables narrow and legible on phones; use prose instead for long cells.
+- Use occasional GitHub callouts (`> [!NOTE]`, `> [!TIP]`) for an important connection or practical reminder, never in every reflection. They should supplement rather than repeat the prose.
+- A sparing use of colour through familiar emojis (for example 🟢 and 🟠 for contrasting patterns) is welcome when their meaning is clear from accompanying text. Do not rely on colour alone to communicate a distinction.
+- Images or diagrams may be added when they make an actual insight easier to understand. Prefer local, accessible assets with useful alt text, restrained colours and small file sizes; avoid decorative stock images, heavy banners, excessive iconography and remote image dependencies. Never invent personal scenes or experiences in illustrations.
+- Use consistent spacing and horizontal rules between chapters. Preserve stable chapter and reflection headings so Markdown links continue to work.
+- A visual element should clarify, orient or give the eye a purposeful pause. Do not force one into each reflection, and never let formatting overpower the reflective voice.
+- When a new entry makes an existing table, callout or diagram inaccurate, update that visual in the same change.
+
 ## Editing the repository
 
 - Keep the entire handbook in the single manuscript `README.md`. Use its level-one heading for the book title, level-two headings for Table of Contents and chapters, and level-three headings for numbered reflections with short descriptive titles. Number reflections within each chapter. Do not recreate separate chapter files.
