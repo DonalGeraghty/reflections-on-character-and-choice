@@ -28,6 +28,16 @@ This repository is a personal, evolving guide to living well, built from the aut
 - Read new material alongside existing entries. Keep the distinctions clear: privacy should allow honest learning, acceptance should leave room for action, and discipline should support a life with rest and enjoyment. Develop the author's meaning without turning a memorable maxim into an absolute factual claim.
 - Use the Character and Integrity and Living with Intention chapters in `README.md` as the preferred style references. The author explicitly preferred these over the older nutrition wording. Lead with a clear principle, develop it naturally and use concrete examples where they help. Avoid repeated summaries of past experience and commentary about what belongs in the notes. Food and Nutrition has been revised to follow this approach.
 
+## Editorial lesson: simplicity and generality
+
+- The revision of reflection 17, **Not everything that leaves is a loss**, establishes an important style preference. The original idea came from one specific relationship, but the final preferred passage expressed the wider principle without being confined to that example.
+- Start from the author's concrete experience, identify the general insight beneath it, and, where that insight stands on its own, write at that level rather than retelling the incident.
+- Prefer short, clear, self-contained reflections. Remove illustrative lists, repeated explanations and closing restatements when the thought is already complete. Brevity is a choice guided by the idea, not an arbitrary word limit.
+- Avoid reflexive qualifications or a late "but" paragraph that reverses the direction of a reflection. If a thought needs precision, build that precision into the initial wording. Include a necessary distinction only when the principle would otherwise be misleading or harmful; do not weaken a clear observation by cataloguing remote exceptions.
+- Aim for one coherent movement from opening phrase to final sentence. Every paragraph should advance the same insight rather than defending it from hypothetical objections.
+- For reference, the preferred tone was captured in: **"Not everything that leaves is a loss."** The wording remains broad enough to apply to relationships, commitments, possessions and opportunities without enumerating them.
+- This preference does not forbid concrete examples or longer reflections elsewhere: use detail where it genuinely deepens understanding, especially when the author wants the particular experience preserved. Match the degree of abstraction and length to the purpose of each entry.
+
 ## Visual design and readability
 
 - The author welcomes restrained visual elements, including small touches of colour, because they break up long passages and make important distinctions easier to remember.
