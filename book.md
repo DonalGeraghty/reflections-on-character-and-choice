@@ -33,6 +33,7 @@
   - [15. Simple living leaves more room for good living](#15-simple-living-leaves-more-room-for-good-living)
   - [16. Know the destination](#16-know-the-destination)
   - [17. Recognise the freedom in distance](#17-recognise-the-freedom-in-distance)
+  - [18. Speak with purpose, not compulsion](#18-speak-with-purpose-not-compulsion)
 - [Food and Nutrition](#food-and-nutrition)
   - [1. Give weight to what has worked](#1-give-weight-to-what-has-worked)
   - [2. Make eating well easier to sustain](#2-make-eating-well-easier-to-sustain)
@@ -441,6 +442,18 @@ There is no obligation to pursue approval merely because it has been withheld. A
 Acceptance does not excuse unkindness or remove the responsibility to examine personal conduct. If harm was caused, acknowledge it and make a reasonable effort to put it right. That effort can be made without insisting that the relationship continue. Nor does accepting distance require hostility, gossip or satisfaction in another person's misfortune.
 
 Wish no harm, hold no unnecessary bitterness and allow both lives to proceed. Peace sometimes comes not from repairing every connection, but from recognising which ones can be left alone.
+
+### 18. Speak with purpose, not compulsion
+
+> Speak honestly, listen fairly, and remain at peace with the outcome.
+
+In a discussion about politics, there can be value in listening for a while before entering the debate. Hearing the other views first allows time to understand what is being argued and whether a contribution would serve a purpose.
+
+Remaining calm does not require remaining silent. A strong opinion can be expressed without anger, and disagreement need not become a contest. Equally, having an opinion does not mean it must always be voiced. Before speaking, consider what is drawing the words forward: something worth sharing, a point worth clarifying, or simply an urge to correct someone and be seen to be right.
+
+A contribution need not change anyone's mind to have value. Giving a considered perspective can be worthwhile even when it settles nothing. The more useful measure afterwards is the conduct: was there honest expression, fair listening, respect for the others and a willingness to reconsider?
+
+Agreement lies beyond one person's control. Once a view has been offered with care, allow others to receive it as they choose. Neither silence nor speaking is always the wiser course; the judgement and character behind the choice matter more than winning the debate.
 
 ## Food and Nutrition
 
