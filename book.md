@@ -32,6 +32,7 @@
   - [14. Life is long enough when it is used well](#14-life-is-long-enough-when-it-is-used-well)
   - [15. Simple living leaves more room for good living](#15-simple-living-leaves-more-room-for-good-living)
   - [16. Know the destination](#16-know-the-destination)
+  - [17. Recognise the freedom in distance](#17-recognise-the-freedom-in-distance)
 - [Food and Nutrition](#food-and-nutrition)
   - [1. Give weight to what has worked](#1-give-weight-to-what-has-worked)
   - [2. Make eating well easier to sustain](#2-make-eating-well-easier-to-sustain)
@@ -426,6 +427,20 @@ Consider an opportunity by where it leads. More responsibility may bring recogni
 A clear destination also gives a reason to decline. Something can be worthwhile in itself and still ask for time or effort needed elsewhere. Every available path need not be followed. Attention can remain with the one chosen deliberately.
 
 Review the direction as understanding grows, and adapt the route when circumstances require it. A setback may call for another approach; an unexpected opening may offer a better one. Keep the purpose clear enough to recognise when the wind can help.
+
+### 17. Recognise the freedom in distance
+
+> The silence of an unwelcome companion can be a gift.
+
+When someone whose company is unwelcome chooses to withdraw, the first feeling may still be one of rejection. Silence or exclusion can provoke resentment even when the relationship itself brought little happiness.
+
+Consider what has actually been lost. If a relationship repeatedly brought tension, discomfort or unnecessary conflict, distance may offer peace rather than deprivation. Another person's decision not to remain close need not become a problem to solve.
+
+There is no obligation to pursue approval merely because it has been withheld. Allow the distance to remain without demanding an explanation, trying to win the person back or turning their absence into a contest.
+
+Acceptance does not excuse unkindness or remove the responsibility to examine personal conduct. If harm was caused, acknowledge it and make a reasonable effort to put it right. That effort can be made without insisting that the relationship continue. Nor does accepting distance require hostility, gossip or satisfaction in another person's misfortune.
+
+Wish no harm, hold no unnecessary bitterness and allow both lives to proceed. Peace sometimes comes not from repairing every connection, but from recognising which ones can be left alone.
 
 ## Food and Nutrition
 
