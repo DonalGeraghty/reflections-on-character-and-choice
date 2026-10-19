@@ -13,6 +13,7 @@
   - [8. Prepare the environment](#8-prepare-the-environment)
   - [9. Prepare for obstacles](#9-prepare-for-obstacles)
   - [10. Remember how it feels afterwards](#10-remember-how-it-feels-afterwards)
+  - [11. Let leisure be leisure](#11-let-leisure-be-leisure)
 - [Character and Integrity](#character-and-integrity)
   - [1. Speak about others with care](#1-speak-about-others-with-care)
   - [2. Let repeated actions define identity](#2-let-repeated-actions-define-identity)
@@ -208,6 +209,26 @@ Remember that pattern when the reluctance returns. A feeling in the present does
 Make the beginning manageable. Put on the running shoes, step outside or open the book. There is no need to wait until the desire to act arrives. Sometimes willingness grows from action.
 
 Rest can still be the wiser choice when illness, exhaustion or recovery calls for it. Ordinary reluctance, however, need not be treated as a reliable verdict on whether an activity is worth doing.
+
+### 11. Let leisure be leisure
+
+> Not every hour needs to produce something. Some are worth living for their own sake.
+
+There can be a tendency to measure the value of time by what it produces. An hour spent working, learning or exercising appears worthwhile, while an hour spent playing a computer game may be dismissed as wasted.
+
+Yet a life made entirely of productive activities would leave little room for enjoyment.
+
+Rest and recreation deserve a place in a well-lived life. Reading a novel, watching a film, playing a game or spending an unhurried afternoon doing very little can each serve a worthwhile purpose.
+
+The value of recreation does not necessarily depend on its medium. A person who relaxes through reading is not automatically making better use of time than someone who enjoys a computer game. Both may have chosen an activity that brings pleasure, relaxation or a welcome change from the demands of the day.
+
+Nor does every pastime need to be defended by finding some productive benefit within it. A game need not improve cognitive ability, and a novel need not teach a lesson. Enjoyment can be sufficient reason.
+
+This does not make every use of leisure equally wise. An activity that repeatedly displaces sleep, responsibilities or important relationships deserves reconsideration. So does one that leaves less satisfaction than anticipated.
+
+The question is not whether every hour produced something useful, but whether the time was spent in a way worth choosing.
+
+A good life should contain time for living, not merely time spent preparing to live.
 
 ## Character and Integrity
 
