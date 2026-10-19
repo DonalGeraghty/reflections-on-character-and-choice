@@ -1,5 +1,12 @@
 # The Practised Life
 
+*Reflections on character, choice, and the daily practice of living well.*
+
+> [!TIP]
+> **Read slowly. Practise deliberately.** These are reminders to return to, not rules to complete.
+
+---
+
 ## Table of Contents
 
 - [Living with Intention](#living-with-intention)
@@ -32,6 +39,9 @@
   - [14. Life is long enough when it is used well](#14-life-is-long-enough-when-it-is-used-well)
   - [15. Simple living leaves more room for good living](#15-simple-living-leaves-more-room-for-good-living)
   - [16. Know the destination](#16-know-the-destination)
+  - [17. Recognise the freedom in distance](#17-recognise-the-freedom-in-distance)
+  - [18. Speak with purpose, not compulsion](#18-speak-with-purpose-not-compulsion)
+  - [19. Remember what experience has taught](#19-remember-what-experience-has-taught)
 - [Food and Nutrition](#food-and-nutrition)
   - [1. Give weight to what has worked](#1-give-weight-to-what-has-worked)
   - [2. Make eating well easier to sustain](#2-make-eating-well-easier-to-sustain)
@@ -54,6 +64,8 @@
 - [Mental Wellbeing](#mental-wellbeing)
 - [Money](#money)
   - [1. Begin with a budget](#1-begin-with-a-budget)
+
+---
 
 ## Living with Intention
 
@@ -165,6 +177,16 @@ Make the beginning manageable. Put on the running shoes, step outside or open th
 
 Rest can still be the wiser choice when illness, exhaustion or recovery calls for it. Ordinary reluctance, however, need not be treated as a reliable verdict on whether an activity is worth doing.
 
+**The pattern worth remembering**
+
+| Before beginning | Once underway | Afterwards |
+| :--- | :--- | :--- |
+| Reluctance to run or read | Resistance often eases | Satisfaction in having begun |
+
+The feeling before an activity is not always a reliable guide to its value.
+
+---
+
 ## Character and Integrity
 
 > Let character be visible in conduct.
@@ -214,6 +236,8 @@ What is repeatedly said also contributes to how a person is seen. Someone who co
 Choose words that fairly reflect what is being practised and built. A reputation deserves substance in conduct, and honesty in the account of it. There is room for imperfections without turning every one into a public identity. There is also room for privacy without inventing a more flattering life.
 
 Close relationships may deserve the fuller account, including uncertainty, difficulty and contradictions. Learning also requires room to ask questions and admit what is not yet understood. Choose the audience and purpose with care; let honesty remain possible within that choice.
+
+---
 
 ## Stoic Wisdom
 
@@ -427,6 +451,64 @@ A clear destination also gives a reason to decline. Something can be worthwhile 
 
 Review the direction as understanding grows, and adapt the route when circumstances require it. A setback may call for another approach; an unexpected opening may offer a better one. Keep the purpose clear enough to recognise when the wind can help.
 
+### 17. Recognise the freedom in distance
+
+> The silence of an unwelcome companion can be a gift.
+
+When someone whose company is unwelcome chooses to withdraw, the first feeling may still be one of rejection. Silence or exclusion can provoke resentment even when the relationship itself brought little happiness.
+
+Consider what has actually been lost. If a relationship repeatedly brought tension, discomfort or unnecessary conflict, distance may offer peace rather than deprivation. Another person's decision not to remain close need not become a problem to solve.
+
+There is no obligation to pursue approval merely because it has been withheld. Allow the distance to remain without demanding an explanation, trying to win the person back or turning their absence into a contest.
+
+Acceptance does not excuse unkindness or remove the responsibility to examine personal conduct. If harm was caused, acknowledge it and make a reasonable effort to put it right. That effort can be made without insisting that the relationship continue. Nor does accepting distance require hostility, gossip or satisfaction in another person's misfortune.
+
+Wish no harm, hold no unnecessary bitterness and allow both lives to proceed. Peace sometimes comes not from repairing every connection, but from recognising which ones can be left alone.
+
+### 18. Speak with purpose, not compulsion
+
+> Speak honestly, listen fairly, and remain at peace with the outcome.
+
+In a discussion about politics, there can be value in listening for a while before entering the debate. Hearing the other views first allows time to understand what is being argued and whether a contribution would serve a purpose.
+
+Remaining calm does not require remaining silent. A strong opinion can be expressed without anger, and disagreement need not become a contest. Equally, having an opinion does not mean it must always be voiced. Before speaking, consider what is drawing the words forward: something worth sharing, a point worth clarifying, or simply an urge to correct someone and be seen to be right.
+
+A contribution need not change anyone's mind to have value. Giving a considered perspective can be worthwhile even when it settles nothing. The more useful measure afterwards is the conduct: was there honest expression, fair listening, respect for the others and a willingness to reconsider?
+
+Agreement lies beyond one person's control. Once a view has been offered with care, allow others to receive it as they choose. Neither silence nor speaking is always the wiser course; the judgement and character behind the choice matter more than winning the debate.
+
+### 19. Remember what experience has taught
+
+> Let the lessons of experience speak louder than the feelings of the moment.
+
+A curious pattern emerges when considering the reluctance to run or read and the desire to eat something indulgent.
+
+Before a run or a period of reading, the immediate effort can seem unappealing. The satisfaction that so often follows is easily forgotten, while the difficulty of beginning receives all the attention.
+
+With certain foods, the opposite occurs. The pleasure of eating is remembered clearly, while the discomfort that has followed on previous occasions slips from mind. The consequences return to attention only after the pleasure has passed. Repeating the choice can also work against a longer-term intention to maintain a healthier weight.
+
+These experiences appear different, yet reveal the same weakness in judgement. A feeling in the present moment is allowed to outweigh knowledge already gained through experience. Something worthwhile is avoided despite the satisfaction it brings; something briefly pleasurable is pursued despite its familiar cost.
+
+Neither problem necessarily requires a new lesson. Experience has already supplied one. The work is to remember it at the moment when a choice remains open.
+
+Before avoiding something worthwhile, recall how it has felt afterwards. Before choosing a fleeting pleasure, remember the whole experience, including what followed. The aim is not to distrust every desire or force every difficult activity. Rest may be needed, and enjoyment has its place. But a passing feeling need not carry more authority than repeated observation.
+
+Experience becomes useful wisdom when its lessons begin to shape the next decision.
+
+**Two experiences, one lesson**
+
+| | Worthwhile effort 🟢 | Fleeting pleasure 🟠 |
+| :--- | :--- | :--- |
+| **Example** | Running or reading | Indulgent food |
+| **Before** | Reluctance takes centre stage | Desire takes centre stage |
+| **After** | Satisfaction is remembered | Discomfort is remembered |
+| **What gets overlooked** | The benefit of beginning | The cost that follows |
+
+> [!NOTE]
+> **The common thread:** A passing feeling can overshadow what experience has already taught. Remember the whole experience before deciding.
+
+---
+
 ## Food and Nutrition
 
 > Choose with the whole day in mind.
@@ -468,6 +550,8 @@ Give the hours after a meal some consideration. Physical comfort remains part of
 Less bloating was one of the benefits noticed while eating fewer carbohydrates. That matters in its own right. Comfort need not be overlooked simply because it is less immediate than the pleasure of the first few bites.
 
 When choosing a familiar food, recall how the body felt afterwards. Notice any recurring discomfort and which meals left a greater sense of ease. Bring that knowledge into the next choice.
+
+**A question before choosing:** *Will this still feel worthwhile after the meal is over?*
 
 ### 5. Review what actually happens
 
@@ -517,6 +601,8 @@ Bring the intentions for health and [the budget](#1-begin-with-a-budget) into th
 
 A small shop can still fill a genuine gap. Keep it specific: buy what is missing, then return to the arrangement already chosen. Make the regular shop thoughtful enough that everyday eating can be straightforward.
 
+---
+
 ## Exercise
 
 > Build patiently. Return consistently.
@@ -552,6 +638,8 @@ Make these arrangements during a calm moment, when the week can be considered as
 Allow for the predictable difficulties. A shorter session can be planned for a crowded day, and an alternative time can be identified when the usual one is unavailable. These choices can be settled in advance, with room to respond sensibly to illness, injury or a need for recovery.
 
 Review the routine when there is time to think. If the same session keeps being missed, examine its timing, preparation and demands. Adjust what repeatedly gets in the way. Build an arrangement that supports showing up on an ordinary day, including a day with little motivation.
+
+---
 
 ## Sleep and Recovery
 
@@ -607,9 +695,13 @@ Pay attention to recurring patterns rather than relying on a single good or bad 
 
 Make adjustments that are practical to sustain. A useful routine considers both the hours awake and the hours asleep, leaving room for enjoyment while giving the body a fair opportunity to recover.
 
+---
+
 ## Mental Wellbeing
 
 > A troubled moment need not rule the day.
+
+---
 
 ## Money
 
