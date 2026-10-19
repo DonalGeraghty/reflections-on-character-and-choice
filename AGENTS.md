@@ -40,6 +40,14 @@ This repository is a personal, evolving guide to living well, built from the aut
 - A visual element should clarify, orient or give the eye a purposeful pause. Do not force one into each reflection, and never let formatting overpower the reflective voice.
 - When a new entry makes an existing table, callout or diagram inaccurate, update that visual in the same change.
 
+## Guiding Principles and visual overview
+
+- Keep a short, prominent **Guiding Principles** overview before the Table of Contents in `README.md` and `book.md`. It is an unnumbered introduction, not a replacement for individual reflections.
+- Preserve the six emerging themes unless the author's developing observations justify a considered revision. When new reflections illuminate an existing theme, consider updating its links; do not automatically add another theme or rewrite the overview for every entry.
+- Each theme uses a small, meaningful emoji icon paired with a concise heading, a short reflective explanation and links to specific existing reflections. This icon-and-text pairing is a deliberate author preference: it makes long passages inviting and skimmable, with a little colour.
+- Keep icons consistent, purposeful and accessible: headings must make sense without the icon; do not use icon-only labels, rainbow decoration or emoji on every reflection heading. GitHub Markdown does not support arbitrary icon colours or custom CSS reliably.
+- Preserve correct heading anchors and internal links when adding, moving or renumbering reflections. Keep both manuscript copies consistent.
+
 ## Editing the repository
 
 - Keep the entire handbook in the single manuscript `README.md`. Use its level-one heading for the book title, level-two headings for Table of Contents and chapters, and level-three headings for numbered reflections with short descriptive titles. Number reflections within each chapter. Do not recreate separate chapter files.
