@@ -110,6 +110,7 @@ These principles give the reflections a shared direction, while leaving each exp
   - [1. Build through progressive overload](#1-build-through-progressive-overload)
   - [2. Give aerobic fitness a central place](#2-give-aerobic-fitness-a-central-place)
   - [3. Arrange training in advance](#3-arrange-training-in-advance)
+  - [4. Train beyond comfort](#4-train-beyond-comfort)
 - [Sleep and Recovery](#sleep-and-recovery)
   - [1. Give sleep the priority it deserves](#1-give-sleep-the-priority-it-deserves)
   - [2. Keep a consistent sleep schedule](#2-keep-a-consistent-sleep-schedule)
@@ -836,6 +837,22 @@ Make these arrangements during a calm moment, when the week can be considered as
 Allow for the predictable difficulties. A shorter session can be planned for a crowded day, and an alternative time can be identified when the usual one is unavailable. These choices can be settled in advance, with room to respond sensibly to illness, injury or a need for recovery.
 
 Review the routine when there is time to think. If the same session keeps being missed, examine its timing, preparation and demands. Adjust what repeatedly gets in the way. Build an arrangement that supports showing up on an ordinary day, including a day with little motivation.
+
+### 4. Train beyond comfort
+
+> Difficulty is not always the limit. Sometimes it is where the work begins.
+
+There is a difference between exercising and truly challenging the body. Movement alone does not guarantee progress, and effort that never challenges existing ability may leave much of its potential unexplored.
+
+As training becomes demanding, the instinct is to slow down or stop. Yet the first feeling of discomfort is not necessarily the body's limit. There may be considerably more effort available than initially seems possible.
+
+Training hard requires mental discipline. It demands concentration, determination and a willingness to remain with physical discomfort rather than immediately seeking relief.
+
+Through repeated, progressive challenges, the body adapts and the mind learns what sustained effort feels like. What once seemed beyond reach can gradually become manageable.
+
+The purpose is not exhaustion for its own sake, but to provide enough challenge to produce meaningful improvement.
+
+The body grows stronger through appropriate demands. The mind grows stronger through the discipline of meeting them.
 
 ---
 
