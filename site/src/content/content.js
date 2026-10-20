@@ -1565,6 +1565,38 @@ export default {
               "text": "Review the routine when there is time to think. If the same session keeps being missed, examine its timing, preparation and demands. Adjust what repeatedly gets in the way. Build an arrangement that supports showing up on an ordinary day, including a day with little motivation."
             }
           ]
+        },
+        {
+          "number": 4,
+          "title": "Train beyond comfort",
+          "slug": "4-train-beyond-comfort",
+          "phrase": "Difficulty is not always the limit. Sometimes it is where the work begins.",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "There is a difference between exercising and truly challenging the body. Movement alone does not guarantee progress, and effort that never challenges existing ability may leave much of its potential unexplored."
+            },
+            {
+              "type": "p",
+              "text": "As training becomes demanding, the instinct is to slow down or stop. Yet the first feeling of discomfort is not necessarily the body's limit. There may be considerably more effort available than initially seems possible."
+            },
+            {
+              "type": "p",
+              "text": "Training hard requires mental discipline. It demands concentration, determination and a willingness to remain with physical discomfort rather than immediately seeking relief."
+            },
+            {
+              "type": "p",
+              "text": "Through repeated, progressive challenges, the body adapts and the mind learns what sustained effort feels like. What once seemed beyond reach can gradually become manageable."
+            },
+            {
+              "type": "p",
+              "text": "The purpose is not exhaustion for its own sake, but to provide enough challenge to produce meaningful improvement."
+            },
+            {
+              "type": "p",
+              "text": "The body grows stronger through appropriate demands. The mind grows stronger through the discipline of meeting them."
+            }
+          ]
         }
       ]
     },
