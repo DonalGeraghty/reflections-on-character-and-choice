@@ -99,6 +99,7 @@ These principles give the reflections a shared direction, while leaving each exp
   - [20. Turn obstacles into opportunities](#20-turn-obstacles-into-opportunities)
   - [21. The road not taken](#21-the-road-not-taken)
   - [22. Let regret become wisdom](#22-let-regret-become-wisdom)
+  - [23. Wisdom comes with time](#23-wisdom-comes-with-time)
 - [Food and Nutrition](#food-and-nutrition)
   - [1. Give weight to what has worked](#1-give-weight-to-what-has-worked)
   - [2. Make eating well easier to sustain](#2-make-eating-well-easier-to-sustain)
@@ -739,6 +740,20 @@ Where something can be put right, take responsibility and act. Where nothing can
 Once the lesson has been understood, returning endlessly to the mistake serves little purpose. Reflection should lead to better conduct, not become a habit of self-punishment.
 
 The past deserves an honest examination, but it does not deserve the rest of our lives.
+
+### 23. Wisdom comes with time
+
+> We cannot expect our younger selves to possess the wisdom that experience has yet to teach.
+
+Looking back, it is easy to see how life might have been lived differently. Decisions that once seemed sensible may now appear mistaken, while opportunities once overlooked seem obvious.
+
+Yet understanding often comes from experience. The mistakes, difficulties and passing years we might wish to undo have helped shape what we now know.
+
+There is little value in wishing to have known everything sooner. We can appreciate what experience has taught without resenting the time it took to learn.
+
+And just as we look back on our younger selves today, we may one day look back on who we are now with greater understanding.
+
+The wisdom we wish we had yesterday is the wisdom we have available to use today.
 
 ---
 
