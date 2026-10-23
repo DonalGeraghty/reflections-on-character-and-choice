@@ -98,6 +98,7 @@ These principles give the reflections a shared direction, while leaving each exp
   - [19. Remember what experience has taught](#19-remember-what-experience-has-taught)
   - [20. Turn obstacles into opportunities](#20-turn-obstacles-into-opportunities)
   - [21. The road not taken](#21-the-road-not-taken)
+  - [22. Let regret become wisdom](#22-let-regret-become-wisdom)
 - [Food and Nutrition](#food-and-nutrition)
   - [1. Give weight to what has worked](#1-give-weight-to-what-has-worked)
   - [2. Make eating well easier to sustain](#2-make-eating-well-easier-to-sustain)
@@ -722,6 +723,22 @@ There is little value in measuring a life against possibilities that can never b
 Learn from past decisions without becoming attached to the lives they might have produced.
 
 The road not taken asks for imagination. The road ahead asks for attention.
+
+### 22. Let regret become wisdom
+
+> Regret should teach us how to live, not keep us living in the past.
+
+There will be decisions we wish we had made differently, words we wish we had not spoken and opportunities we wish we had taken.
+
+Regret can serve a useful purpose. It asks us to examine our actions, recognise where we fell short and consider what should change.
+
+Yet the past is often judged with wisdom gained only afterwards. We cannot expect our former selves to have possessed everything experience has since taught us.
+
+Where something can be put right, take responsibility and act. Where nothing can be changed, accept what happened and carry forward what has been learned.
+
+Once the lesson has been understood, returning endlessly to the mistake serves little purpose. Reflection should lead to better conduct, not become a habit of self-punishment.
+
+The past deserves an honest examination, but it does not deserve the rest of our lives.
 
 ---
 
