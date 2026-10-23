@@ -97,6 +97,7 @@ These principles give the reflections a shared direction, while leaving each exp
   - [18. Speak with purpose, not compulsion](#18-speak-with-purpose-not-compulsion)
   - [19. Remember what experience has taught](#19-remember-what-experience-has-taught)
   - [20. Turn obstacles into opportunities](#20-turn-obstacles-into-opportunities)
+  - [21. The road not taken](#21-the-road-not-taken)
 - [Food and Nutrition](#food-and-nutrition)
   - [1. Give weight to what has worked](#1-give-weight-to-what-has-worked)
   - [2. Make eating well easier to sustain](#2-make-eating-well-easier-to-sustain)
@@ -705,6 +706,22 @@ The useful question is what remains possible in the circumstances that exist. Wh
 Sometimes wisdom means persevering. Sometimes it means changing direction or walking away. The obstacle does not decide the response; reason and character guide how it is met.
 
 Progress is not always made by removing obstacles. Sometimes it is made through the way they are met.
+
+### 21. The road not taken
+
+> The path not chosen is imagined; the path taken is lived.
+
+Every meaningful choice closes off other possibilities. It is natural to wonder what might have happened had a different direction been taken.
+
+Yet the life not lived exists only in imagination. Its opportunities are easy to picture, while its difficulties remain unknown.
+
+The path chosen is experienced in full, with its successes, disappointments and ordinary challenges. Comparing that reality with an imagined alternative can make the present seem poorer than it is.
+
+There is little value in measuring a life against possibilities that can never be known.
+
+Learn from past decisions without becoming attached to the lives they might have produced.
+
+The road not taken asks for imagination. The road ahead asks for attention.
 
 ---
 
