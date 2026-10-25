@@ -76,6 +76,7 @@ These principles give the reflections a shared direction, while leaving each exp
   - [3. Share with discernment](#3-share-with-discernment)
   - [4. Contribute to the conversation worth having](#4-contribute-to-the-conversation-worth-having)
   - [5. Let a decision stand on its own](#5-let-a-decision-stand-on-its-own)
+  - [6. Do not depend on recognition](#6-do-not-depend-on-recognition)
 - [Stoic Wisdom](#stoic-wisdom)
   - [1. Find freedom from excess](#1-find-freedom-from-excess)
   - [2. Endurance is easier when the purpose is clear](#2-endurance-is-easier-when-the-purpose-is-clear)
@@ -422,6 +423,20 @@ An explanation can be offered willingly when it serves a purpose. There is a dif
 The aim is not to discourage questions or dismiss those who ask them, but to remain comfortable with a decision even when others do not understand or agree with it.
 
 A considered choice can stand without the approval of others.
+
+### 6. Do not depend on recognition
+
+> Do what is expected of you with care, whether or not anyone acknowledges it.
+
+Much of what we do in life comes with responsibility rather than recognition. Fulfilling an obligation, keeping a promise or doing good work may pass without thanks or praise.
+
+There is a blunt reminder in the phrase “That's what the money is for.” When work is compensated, doing it well is part of the responsibility accepted. Praise may be welcome, but it is not the measure of whether the work was worth doing.
+
+Recognition should not determine the quality of our effort. Take pride in meeting your own standards rather than depending on another person's approval.
+
+Still, fair compensation does not excuse disrespect, and what we need not demand for ourselves we can offer freely to others. Acknowledging another person's contribution is an expression of generosity and good character.
+
+Be measured in the recognition you expect, and generous in the recognition you give.
 
 ---
 
