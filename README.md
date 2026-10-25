@@ -76,8 +76,9 @@ These principles give the reflections a shared direction, while leaving each exp
   - [2. Let repeated actions define identity](#2-let-repeated-actions-define-identity)
   - [3. Share with discernment](#3-share-with-discernment)
   - [4. Contribute to the conversation worth having](#4-contribute-to-the-conversation-worth-having)
-  - [5. Let a decision stand on its own](#5-let-a-decision-stand-on-its-own)
-  - [6. Do not depend on recognition](#6-do-not-depend-on-recognition)
+  - [5. Take time before responding](#5-take-time-before-responding)
+  - [6. Let a decision stand on its own](#6-let-a-decision-stand-on-its-own)
+  - [7. Do not depend on recognition](#7-do-not-depend-on-recognition)
 - [Stoic Wisdom](#stoic-wisdom)
   - [1. Find freedom from excess](#1-find-freedom-from-excess)
   - [2. Endurance is easier when the purpose is clear](#2-endurance-is-easier-when-the-purpose-is-clear)
@@ -428,7 +429,23 @@ There is no need to force a cheerful response to a serious concern or correct an
 
 The aim is not to insist that the world is good, but to see it more completely. What is wrong deserves honest attention; what is good deserves not to be forgotten.
 
-### 5. Let a decision stand on its own
+### 5. Take time before responding
+
+> A question does not always require an immediate answer.
+
+There can be a quiet pressure to respond as soon as something is asked of us. We agree before considering our commitments, offer opinions before forming them and explain ourselves before deciding whether an explanation is necessary.
+
+Yet a thoughtful response often requires time. The ability to answer immediately does not mean doing so is wise.
+
+Others may expect a quick decision, but their expectation need not determine our judgement. We can acknowledge a question, consider what is being asked and respond when we are ready.
+
+There is no weakness in saying that something requires thought. Nor is there an obligation to justify every decision once it has been made.
+
+Take the time that a matter deserves. Some questions require an immediate answer; others benefit from patience and reflection.
+
+Let your response be guided by consideration, not by the pressure to respond.
+
+### 6. Let a decision stand on its own
 
 > A decision needs consideration, not universal approval.
 
@@ -444,7 +461,7 @@ The aim is not to discourage questions or dismiss those who ask them, but to rem
 
 A considered choice can stand without the approval of others.
 
-### 6. Do not depend on recognition
+### 7. Do not depend on recognition
 
 > Do what is expected of you with care, whether or not anyone acknowledges it.
 
