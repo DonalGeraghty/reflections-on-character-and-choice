@@ -81,7 +81,7 @@ try {
   }
 
   // --- deep link route renders the same page ---
-  const deep = render(routes, '/stoic-wisdom/17-not-everything-that-leaves-is-a-loss');
+  const deep = render(routes, '/stoic-wisdom/15-not-everything-that-leaves-is-a-loss');
   assert.ok(includes(deep, 'Not everything that leaves is a loss'), 'deep link target missing');
 
   console.log(`smoke: home, sidebar and all ${chapters.length} chapter pages render with expected content`);
