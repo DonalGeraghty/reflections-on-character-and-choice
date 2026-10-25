@@ -117,9 +117,9 @@ function TimeExplorer() {
 }
 
 const explorers = {
-  'living-with-intention/10-remember-how-it-feels-afterwards': EffortExplorer,
-  'living-with-intention/12-avoid-the-space-between-work-and-rest': TimeExplorer,
-  'stoic-wisdom/6-recognise-what-is-up-to-us': ControlExplorer,
+  'living-with-intention/11-remember-how-it-feels-afterwards': EffortExplorer,
+  'living-with-intention/13-avoid-the-space-between-work-and-rest': TimeExplorer,
+  'stoic-wisdom/1-recognise-what-is-up-to-us': ControlExplorer,
   'money/1-begin-with-a-budget': BudgetExplorer,
 };
 
