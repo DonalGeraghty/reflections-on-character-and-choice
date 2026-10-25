@@ -17,31 +17,31 @@ The reflections that follow began as separate observations about health, relatio
 
 Give time and attention a purpose. Choose how to work, learn, rest and enjoy life instead of allowing habit or distraction to make every decision.
 
-*Explore:* [Do things with intention](#2-do-things-with-intention) · [Avoid the space between work and rest](#12-avoid-the-space-between-work-and-rest)
+*Explore:* [Do things with intention](#3-do-things-with-intention) · [Avoid the space between work and rest](#13-avoid-the-space-between-work-and-rest)
 
 ### 🧠 Remember what experience has taught
 
 A present feeling does not always provide a complete account of what follows. Recall the satisfaction after worthwhile effort and the cost after fleeting pleasure before making the next choice.
 
-*Explore:* [Remember how it feels afterwards](#10-remember-how-it-feels-afterwards) · [Remember what experience has taught](#19-remember-what-experience-has-taught)
+*Explore:* [Remember how it feels afterwards](#11-remember-how-it-feels-afterwards) · [Remember what experience has taught](#17-remember-what-experience-has-taught)
 
 ### 📅 Prepare when circumstances are favourable
 
 Make decisions while calm and rested. Plans, routines and a prepared environment can help the better-considered choice remain available when hunger, fatigue or frustration arrive. Revise the plan when circumstances genuinely change.
 
-*Explore:* [Make decisions in moments of clarity](#3-make-decisions-in-moments-of-clarity) · [Build systems that support the intention](#7-build-systems-that-support-the-intention)
+*Explore:* [Make decisions in moments of clarity](#5-make-decisions-in-moments-of-clarity) · [Build systems that support the intention](#8-build-systems-that-support-the-intention)
 
 ### ⚖️ Judge conduct rather than outcomes
 
 Honesty, fairness, patience and care remain worth practising even when agreement, recognition or a preferred outcome cannot be secured.
 
-*Explore:* [Recognise what is up to us](#6-recognise-what-is-up-to-us) · [Speak with purpose, not compulsion](#18-speak-with-purpose-not-compulsion)
+*Explore:* [Recognise what is up to us](#1-recognise-what-is-up-to-us) · [Speak with purpose, not compulsion](#23-speak-with-purpose-not-compulsion)
 
 ### 🌿 Make room for enjoyment and recovery
 
 Discipline should support a good life, not demand endless productivity. Sleep, leisure, relationships and simple enjoyment deserve time without having to prove another benefit.
 
-*Explore:* [Let leisure be leisure](#11-let-leisure-be-leisure) · [Rest is not wasted time](#6-rest-is-not-wasted-time)
+*Explore:* [Let leisure be leisure](#12-let-leisure-be-leisure) · [Rest is not wasted time](#6-rest-is-not-wasted-time)
 
 ### 💬 Contribute with honesty and care
 
@@ -51,26 +51,57 @@ Words shape the experience of others. Speak fairly, avoid unnecessary gossip and
 
 These principles give the reflections a shared direction, while leaving each experience and its lesson intact. As understanding changes, the connections may change too.
 
+**The path through the book**
+
+**Life is finite → Choose what matters → Think with clarity → Act with character → Practise through daily life → Find fulfilment in living well.**
+
+The chapters follow this path, while each reflection remains a reminder that can be read on its own.
+
 ---
 
 ## Table of Contents
 
 - [Guiding Principles](#guiding-principles)
 - [Living with Intention](#living-with-intention)
-  - [1. If nothing changes, nothing changes](#1-if-nothing-changes-nothing-changes)
-  - [2. Do things with intention](#2-do-things-with-intention)
-  - [3. Make decisions in moments of clarity](#3-make-decisions-in-moments-of-clarity)
-  - [4. Begin with intention, end with reflection](#4-begin-with-intention-end-with-reflection)
-  - [5. Create a vision of the future self](#5-create-a-vision-of-the-future-self)
-  - [6. Give ambitious goals a realistic pace](#6-give-ambitious-goals-a-realistic-pace)
-  - [7. Build systems that support the intention](#7-build-systems-that-support-the-intention)
-  - [8. Prepare the environment](#8-prepare-the-environment)
-  - [9. Prepare for obstacles](#9-prepare-for-obstacles)
-  - [10. Remember how it feels afterwards](#10-remember-how-it-feels-afterwards)
-  - [11. Let leisure be leisure](#11-let-leisure-be-leisure)
-  - [12. Avoid the space between work and rest](#12-avoid-the-space-between-work-and-rest)
-  - [13. Choose how far to pursue mastery](#13-choose-how-far-to-pursue-mastery)
-  - [14. Live while life is yours](#14-live-while-life-is-yours)
+  - [1. Live while life is yours](#1-live-while-life-is-yours)
+  - [2. If nothing changes, nothing changes](#2-if-nothing-changes-nothing-changes)
+  - [3. Do things with intention](#3-do-things-with-intention)
+  - [4. Create a vision of the future self](#4-create-a-vision-of-the-future-self)
+  - [5. Make decisions in moments of clarity](#5-make-decisions-in-moments-of-clarity)
+  - [6. Begin with intention, end with reflection](#6-begin-with-intention-end-with-reflection)
+  - [7. Give ambitious goals a realistic pace](#7-give-ambitious-goals-a-realistic-pace)
+  - [8. Build systems that support the intention](#8-build-systems-that-support-the-intention)
+  - [9. Prepare the environment](#9-prepare-the-environment)
+  - [10. Prepare for obstacles](#10-prepare-for-obstacles)
+  - [11. Remember how it feels afterwards](#11-remember-how-it-feels-afterwards)
+  - [12. Let leisure be leisure](#12-let-leisure-be-leisure)
+  - [13. Avoid the space between work and rest](#13-avoid-the-space-between-work-and-rest)
+  - [14. Choose how far to pursue mastery](#14-choose-how-far-to-pursue-mastery)
+- [Stoic Wisdom](#stoic-wisdom)
+  - [1. Recognise what is up to us](#1-recognise-what-is-up-to-us)
+  - [2. Pause between the event and the judgement](#2-pause-between-the-event-and-the-judgement)
+  - [3. Examine the weight added by judgement](#3-examine-the-weight-added-by-judgement)
+  - [4. A calm mind is a stronger fortress than anger](#4-a-calm-mind-is-a-stronger-fortress-than-anger)
+  - [5. Meet this moment with reason and good character](#5-meet-this-moment-with-reason-and-good-character)
+  - [6. Embody the philosophy](#6-embody-the-philosophy)
+  - [7. Seek mastery over desire](#7-seek-mastery-over-desire)
+  - [8. Keep appetite within the bounds of choice](#8-keep-appetite-within-the-bounds-of-choice)
+  - [9. Wanting less is often easier than acquiring more](#9-wanting-less-is-often-easier-than-acquiring-more)
+  - [10. Find freedom from excess](#10-find-freedom-from-excess)
+  - [11. Simple living leaves more room for good living](#11-simple-living-leaves-more-room-for-good-living)
+  - [12. Endurance is easier when the purpose is clear](#12-endurance-is-easier-when-the-purpose-is-clear)
+  - [13. Turn obstacles into opportunities](#13-turn-obstacles-into-opportunities)
+  - [14. Make room for a new beginning](#14-make-room-for-a-new-beginning)
+  - [15. Not everything that leaves is a loss](#15-not-everything-that-leaves-is-a-loss)
+  - [16. Allow the awkwardness of learning](#16-allow-the-awkwardness-of-learning)
+  - [17. Remember what experience has taught](#17-remember-what-experience-has-taught)
+  - [18. The road not taken](#18-the-road-not-taken)
+  - [19. Let regret become wisdom](#19-let-regret-become-wisdom)
+  - [20. Wisdom comes with time](#20-wisdom-comes-with-time)
+  - [21. Life is long enough when it is used well](#21-life-is-long-enough-when-it-is-used-well)
+  - [22. Know the destination](#22-know-the-destination)
+  - [23. Speak with purpose, not compulsion](#23-speak-with-purpose-not-compulsion)
+  - [24. Do not live in the minds of others](#24-do-not-live-in-the-minds-of-others)
 - [Character and Integrity](#character-and-integrity)
   - [1. Speak about others with care](#1-speak-about-others-with-care)
   - [2. Let repeated actions define identity](#2-let-repeated-actions-define-identity)
@@ -79,31 +110,12 @@ These principles give the reflections a shared direction, while leaving each exp
   - [5. Take time before responding](#5-take-time-before-responding)
   - [6. Let a decision stand on its own](#6-let-a-decision-stand-on-its-own)
   - [7. Do not depend on recognition](#7-do-not-depend-on-recognition)
-- [Stoic Wisdom](#stoic-wisdom)
-  - [1. Find freedom from excess](#1-find-freedom-from-excess)
-  - [2. Endurance is easier when the purpose is clear](#2-endurance-is-easier-when-the-purpose-is-clear)
-  - [3. A calm mind is a stronger fortress than anger](#3-a-calm-mind-is-a-stronger-fortress-than-anger)
-  - [4. Embody the philosophy](#4-embody-the-philosophy)
-  - [5. Meet this moment with reason and good character](#5-meet-this-moment-with-reason-and-good-character)
-  - [6. Recognise what is up to us](#6-recognise-what-is-up-to-us)
-  - [7. Make room for a new beginning](#7-make-room-for-a-new-beginning)
-  - [8. Keep appetite within the bounds of choice](#8-keep-appetite-within-the-bounds-of-choice)
-  - [9. Wanting less is often easier than acquiring more](#9-wanting-less-is-often-easier-than-acquiring-more)
-  - [10. Examine the weight added by judgement](#10-examine-the-weight-added-by-judgement)
-  - [11. Pause between the event and the judgement](#11-pause-between-the-event-and-the-judgement)
-  - [12. Seek mastery over desire](#12-seek-mastery-over-desire)
-  - [13. Allow the awkwardness of learning](#13-allow-the-awkwardness-of-learning)
-  - [14. Life is long enough when it is used well](#14-life-is-long-enough-when-it-is-used-well)
-  - [15. Simple living leaves more room for good living](#15-simple-living-leaves-more-room-for-good-living)
-  - [16. Know the destination](#16-know-the-destination)
-  - [17. Not everything that leaves is a loss](#17-not-everything-that-leaves-is-a-loss)
-  - [18. Speak with purpose, not compulsion](#18-speak-with-purpose-not-compulsion)
-  - [19. Remember what experience has taught](#19-remember-what-experience-has-taught)
-  - [20. Turn obstacles into opportunities](#20-turn-obstacles-into-opportunities)
-  - [21. The road not taken](#21-the-road-not-taken)
-  - [22. Let regret become wisdom](#22-let-regret-become-wisdom)
-  - [23. Wisdom comes with time](#23-wisdom-comes-with-time)
-  - [24. Do not live in the minds of others](#24-do-not-live-in-the-minds-of-others)
+- [Mental Wellbeing](#mental-wellbeing)
+- [Exercise](#exercise)
+  - [1. Build through progressive overload](#1-build-through-progressive-overload)
+  - [2. Give aerobic fitness a central place](#2-give-aerobic-fitness-a-central-place)
+  - [3. Arrange training in advance](#3-arrange-training-in-advance)
+  - [4. Train beyond comfort](#4-train-beyond-comfort)
 - [Food and Nutrition](#food-and-nutrition)
   - [1. Give weight to what has worked](#1-give-weight-to-what-has-worked)
   - [2. Make eating well easier to sustain](#2-make-eating-well-easier-to-sustain)
@@ -113,11 +125,6 @@ These principles give the reflections a shared direction, while leaving each exp
   - [6. Keep an honest record of food](#6-keep-an-honest-record-of-food)
   - [7. Decide meals while the mind is relaxed](#7-decide-meals-while-the-mind-is-relaxed)
   - [8. Shop with a plan](#8-shop-with-a-plan)
-- [Exercise](#exercise)
-  - [1. Build through progressive overload](#1-build-through-progressive-overload)
-  - [2. Give aerobic fitness a central place](#2-give-aerobic-fitness-a-central-place)
-  - [3. Arrange training in advance](#3-arrange-training-in-advance)
-  - [4. Train beyond comfort](#4-train-beyond-comfort)
 - [Sleep and Recovery](#sleep-and-recovery)
   - [1. Give sleep the priority it deserves](#1-give-sleep-the-priority-it-deserves)
   - [2. Keep a consistent sleep schedule](#2-keep-a-consistent-sleep-schedule)
@@ -125,7 +132,6 @@ These principles give the reflections a shared direction, while leaving each exp
   - [4. Allow the mind to settle before bed](#4-allow-the-mind-to-settle-before-bed)
   - [5. Protect sleep through daytime choices](#5-protect-sleep-through-daytime-choices)
   - [6. Rest is not wasted time](#6-rest-is-not-wasted-time)
-- [Mental Wellbeing](#mental-wellbeing)
 - [Money](#money)
   - [1. Begin with a budget](#1-begin-with-a-budget)
 
@@ -135,7 +141,28 @@ These principles give the reflections a shared direction, while leaving each exp
 
 > If nothing changes, nothing changes.
 
-### 1. If nothing changes, nothing changes
+Life is finite, and the work of living well cannot always be postponed. Begin with what matters, then turn that intention into choices, habits and action.
+
+### 1. Live while life is yours
+
+> We do not know how much life remains, only that the life before us is ours to use.
+
+It is easy to live as though time were guaranteed. We make plans for distant years, postpone worthwhile experiences and assume there will always be another opportunity.
+
+Yet life does not promise us a particular length of time. Some lives end before their possibilities have had the chance to unfold. Others reach old age, but no number of years can make the future certain.
+
+Remembering this need not bring fear or sadness into every day. It can instead bring clarity about what deserves our attention.
+
+There is work worth doing, love worth expressing, experiences worth having and ordinary moments worth appreciating. These things need not be postponed until some imagined future when life is less busy or more complete.
+
+Living purposefully does not mean filling every hour with achievement. Rest, enjoyment and time with others are themselves part of a good life.
+
+We cannot determine how long our story will be, but we have some say in how we live the pages given to us.
+
+The uncertainty of life's length is a reason to live deliberately, not fearfully.
+
+
+### 2. If nothing changes, nothing changes
 
 > Let intention become action.
 
@@ -149,7 +176,7 @@ Circumstances can change without permission, and effort cannot guarantee a parti
 
 Let these notes lead to a change that can be put into practice today.
 
-### 2. Do things with intention
+### 3. Do things with intention
 
 > Do things with intention.
 
@@ -163,7 +190,19 @@ Once the purpose is clear, give the activity the attention it deserves. An inten
 
 A whole day cannot be settled in advance. Intention can begin again at the next decision, with a brief pause and a clearer sense of what matters.
 
-### 3. Make decisions in moments of clarity
+### 4. Create a vision of the future self
+
+> Give the future a place in today.
+
+Form a clear picture of the person worth becoming. Give that picture enough detail to guide a decision. What qualities would be evident in daily life? How would time be spent, the body cared for, difficulties met and other people treated?
+
+An imagined future is easy to enjoy. Its demands deserve equal attention. Greater fitness requires time given to training. Integrity requires honesty when the truth is inconvenient. A more deliberate life requires some familiar habits to change. Each part of the vision carries work that belongs in the present.
+
+Bring that work down to the scale of an ordinary day. What needs practising? What needs making room for? What needs giving up? A useful vision makes the next step clearer, including the parts that seem repetitive or unappealing. Those parts remain necessary after the excitement of imagining the result has passed.
+
+Begin before the whole picture feels within reach. Review progress through the decisions actually made, and refine the vision as understanding grows.
+
+### 5. Make decisions in moments of clarity
 
 > Let the rested mind prepare the path for the weary one.
 
@@ -177,7 +216,7 @@ Yet a plan is guidance, not a command. Illness, exhaustion, changing circumstanc
 
 Make good decisions when they are easier to make, so that they remain easier to follow when the day becomes difficult.
 
-### 4. Begin with intention, end with reflection
+### 6. Begin with intention, end with reflection
 
 > Prepare for the day ahead. Learn from the day behind.
 
@@ -199,19 +238,7 @@ A reflection earns its value when it changes how the next day is approached. Car
 | ☀️ During the day | Pause | Is this still the right course? |
 | 🌙 Evening | Reflect | What can tomorrow learn from today? |
 
-### 5. Create a vision of the future self
-
-> Give the future a place in today.
-
-Form a clear picture of the person worth becoming. Give that picture enough detail to guide a decision. What qualities would be evident in daily life? How would time be spent, the body cared for, difficulties met and other people treated?
-
-An imagined future is easy to enjoy. Its demands deserve equal attention. Greater fitness requires time given to training. Integrity requires honesty when the truth is inconvenient. A more deliberate life requires some familiar habits to change. Each part of the vision carries work that belongs in the present.
-
-Bring that work down to the scale of an ordinary day. What needs practising? What needs making room for? What needs giving up? A useful vision makes the next step clearer, including the parts that seem repetitive or unappealing. Those parts remain necessary after the excitement of imagining the result has passed.
-
-Begin before the whole picture feels within reach. Review progress through the decisions actually made, and refine the vision as understanding grows.
-
-### 6. Give ambitious goals a realistic pace
+### 7. Give ambitious goals a realistic pace
 
 > Let ambition allow time for growth.
 
@@ -223,7 +250,7 @@ The plan needs to survive ordinary days, including those with less enthusiasm th
 
 Ambition can give a direction while the next commitment remains modest. Progress deserves enough time to become established. The goal is worth returning to; so is the question of whether the path towards it can actually be followed.
 
-### 7. Build systems that support the intention
+### 8. Build systems that support the intention
 
 > Build for the day when motivation is absent.
 
@@ -237,7 +264,7 @@ Build a routine in which following through becomes familiar. Give the action a r
 
 When the same obstacle keeps defeating the plan, examine the arrangement. What repeatedly gets in the way, and what could be prepared, simplified or moved? A system earns its place by helping the work happen under the conditions of an ordinary life.
 
-### 8. Prepare the environment
+### 9. Prepare the environment
 
 > Prepare the surroundings for the life being built.
 
@@ -249,7 +276,7 @@ Make the useful action convenient. Put what it needs where it will be used. Give
 
 The environment will never settle every decision, but it can support the decision already made. Arrange it during a quiet moment, with the tired or distracted moment in mind. Let the surroundings offer a reminder of what matters and an easier way to begin.
 
-### 9. Prepare for obstacles
+### 10. Prepare for obstacles
 
 > Give difficulty an answer before it arrives.
 
@@ -263,7 +290,7 @@ Some interruptions call for a pause. Illness, urgent responsibilities and circum
 
 Preparation has limits; every difficulty cannot be foreseen. Begin with the obstacles that are familiar or likely, and learn from those that arrive unexpectedly. Each interruption can reveal something the plan needs to accommodate.
 
-### 10. Remember how it feels afterwards
+### 11. Remember how it feels afterwards
 
 > Do not let the reluctance to begin outweigh the satisfaction of having begun.
 
@@ -285,7 +312,7 @@ Rest can still be the wiser choice when illness, exhaustion or recovery calls fo
 
 The feeling before an activity is not always a reliable guide to its value.
 
-### 11. Let leisure be leisure
+### 12. Let leisure be leisure
 
 > Not every hour needs to produce something. Some are worth living for their own sake.
 
@@ -305,7 +332,7 @@ The question is not whether every hour produced something useful, but whether th
 
 A good life should contain time for living, not merely time spent preparing to live.
 
-### 12. Avoid the space between work and rest
+### 13. Avoid the space between work and rest
 
 > Rest deliberately. Work deliberately. Avoid drifting through the space between them.
 
@@ -327,7 +354,7 @@ Not every minute needs to be planned, and an occasional aimless diversion is no 
 
 Better to work with purpose or rest with intention than spend the hour doing neither.
 
-### 13. Choose how far to pursue mastery
+### 14. Choose how far to pursue mastery
 
 > The possibility of further progress does not make it necessary.
 
@@ -343,29 +370,364 @@ Time devoted to one ambition is time unavailable for other worthwhile experience
 
 Knowing when to stop does not diminish the value of how far one has come.
 
-### 14. Live while life is yours
+---
 
-> We do not know how much life remains, only that the life before us is ours to use.
+## Stoic Wisdom
 
-It is easy to live as though time were guaranteed. We make plans for distant years, postpone worthwhile experiences and assume there will always be another opportunity.
+> Give care to what can be governed.
 
-Yet life does not promise us a particular length of time. Some lives end before their possibilities have had the chance to unfold. Others reach old age, but no number of years can make the future certain.
+Clear judgement makes deliberate living possible. Learn to distinguish events from interpretations, needs from desires, and what can be governed from what must be accepted.
 
-Remembering this need not bring fear or sadness into every day. It can instead bring clarity about what deserves our attention.
+### 1. Recognise what is up to us
 
-There is work worth doing, love worth expressing, experiences worth having and ordinary moments worth appreciating. These things need not be postponed until some imagined future when life is less busy or more complete.
+> Some things are up to us; some things are not.
 
-Living purposefully does not mean filling every hour with achievement. Rest, enjoyment and time with others are themselves part of a good life.
+Effort, preparation and the care taken with a response deserve attention. Other people's decisions, events already past and the eventual outcome of an effort cannot be settled by wanting them to be different.
 
-We cannot determine how long our story will be, but we have some say in how we live the pages given to us.
+Make that distinction clear within the difficulty at hand. What can be done now? What depends on someone else? What has already happened and needs to be dealt with? Separating these questions can reveal a useful action where the whole situation first seemed overwhelming.
 
-The uncertainty of life's length is a reason to live deliberately, not fearfully.
+Influence still matters where control is incomplete. A conversation can be approached honestly without securing agreement. Work can be prepared carefully without guaranteeing recognition. Give the part open to effort its due care, while allowing the outcome to remain uncertain.
+
+Acceptance begins with recognising the conditions that actually exist. A missed opportunity cannot be made available again by resentment, but its lesson can inform the next choice. Another person's conduct may be disappointing, while a boundary or a decision about future contact remains possible.
+
+Return attention to the responsibility within reach. What response would be reasonable? What action would reflect good character? Enough work may already be waiting there, without taking on the impossible task of deciding everything that follows.
+
+### 2. Pause between the event and the judgement
+
+> Pause between the event and the judgement of it.
+
+A remark is made, a message goes unanswered or a plan changes. An explanation can arrive almost as quickly: disrespect, rejection, failure. Before accepting it, consider how much is actually known.
+
+Describe the event plainly. A reply has not arrived. The reason may still be unknown. A short answer was given. Its tone may have been misunderstood. Keeping the description close to the facts leaves room for information that the first impression did not include.
+
+The first feeling may arrive without invitation. Allow it to be noticed while its interpretation remains open to examination. What was observed directly? What has been assumed? Would another reasonable explanation fit the same facts? A useful pause can be brief and still change the response that follows.
+
+Where clarification is possible, seek it. Ask what was meant, check a detail or allow time for a fuller account. Where action cannot wait, make the best decision available while recognising what remains uncertain. A judgement can be provisional and still support a necessary response.
+
+### 3. Examine the weight added by judgement
+
+> Meet the burden without adding to it.
+
+The mind can add weight to a burden. A task may require an hour of work, while resentment about having to do it occupies the whole morning. A delay may interrupt a plan, while imagining everything it might ruin extends the interruption further. Examine what the difficulty requires and what judgement has added to it.
+
+Separate what is happening from the account being made of it. What does the situation actually require? Which difficulties are present, and which are being anticipated? The thought that something should never have happened may be understandable, yet repeating it can leave less attention for what needs doing now.
+
+Describe the demand plainly. A conversation needs to be held. A mistake needs correcting. A piece of work remains unfinished. A clear description can make the next action easier to see, especially when frustration has turned a particular problem into a judgement about the whole day.
+
+Some burdens remain substantial even when approached calmly. Pain, grief and exhaustion deserve care, support and practical relief. The useful question is whether a particular thought helps meet the difficulty or adds distress without helping the response. There is no need to deny the burden in order to examine that addition.
+
+Attend to the part that can be made lighter. Set aside an unhelpful prediction, ask for assistance or bring attention back to the next manageable action. Give the situation the effort it requires, with as little additional struggle as judgement can reasonably spare.
+
+### 4. A calm mind is a stronger fortress than anger
+
+> A calm mind is a stronger fortress than anger.
+
+Anger can feel protective, lending force to a reply and urgency to a grievance. Yet the strength of a response also depends on judgement: understanding what happened, deciding what matters and choosing words that serve a purpose beyond the moment.
+
+A provocation does not need an immediate answer. A pause leaves room to examine the first interpretation. Was the remark understood correctly? Does the situation require a response? What would that response accomplish? Give the facts enough attention before allowing an impression to determine the next action.
+
+Calmness leaves room for firmness. A boundary can be stated clearly, an unreasonable demand refused and a wrong addressed without adding an insult. The difficulty still receives an answer, with less chance of the manner of answering becoming another problem to resolve.
+
+Anger may arise before there is time to consider it. Its arrival need not settle what follows. When possible, allow enough time for a reply to become deliberate. A conversation can be resumed; words spoken in haste may be harder to repair.
+
+The fortress is the ability to keep judgement available under pressure. Let the response reflect the conduct worth practising, including when another person's conduct makes that difficult.
+
+### 5. Meet this moment with reason and good character
+
+> This moment can be met with reason and good character.
+
+A difficulty may arrive uninvited, with too little time, an unwelcome demand or another person's impatience. Begin with the situation as it stands and consider the response it calls for.
+
+Reason gives attention to what is known. What has actually happened? What remains uncertain? What can usefully be done now? A first impression deserves examination, especially when it brings a strong urge to blame, defend or assume the worst.
+
+Character gives direction to the action that follows. A reply can be honest and considerate. A mistake can be acknowledged. A boundary can be held with fairness. The available choices may be limited, but the manner of carrying them out still deserves care.
+
+There is no need to settle the whole future before taking the next step. Attend to the demand close enough to act upon: listen properly, establish a fact, fulfil a responsibility or ask for time to think. A difficult situation can be approached through one reasonable action at a time.
+
+### 6. Embody the philosophy
+
+> Let philosophy take shape in conduct.
+
+A principle becomes useful in the situation that calls for it: patience during an interruption, honesty when a mistake is discovered, restraint when a conversation turns towards gossip. Each is an occasion to practise what has been understood.
+
+Explaining a belief can bring clarity, but speaking convincingly about it can also feel like work already done. An account of patience is easier to compose than a patient response under pressure. Give the response the practice it needs.
+
+There is no need for every deliberate choice to be announced. A confidence can be kept without a speech about discretion. A commitment can be honoured without drawing attention to discipline. Let the action serve its purpose even when it receives no recognition.
+
+Where conduct falls short of a principle, attend to the gap. Acknowledge what happened, make a repair where possible and practise the better response at the next opportunity. Further explanation has limited value if the same behaviour continues unchanged.
+
+### 7. Seek mastery over desire
+
+> Seek to master desires rather than the world.
+
+A wish can quietly become a demand that other people agree, circumstances cooperate and every effort receive its expected reward. Notice when satisfaction begins to require an outcome that cannot be decided by effort alone.
+
+Examine what is being asked of the world. Is agreement necessary, or merely preferred? Does a useful effort lose its value without recognition? Must an inconvenience be removed before the day can contain anything worthwhile? A desire deserves attention before it becomes a condition placed on everything else.
+
+Work towards worthwhile ends with care. Prepare, speak clearly and make a reasonable effort to improve what can be improved. Allow other people their decisions and leave room for events to unfold differently. The wish for an outcome can guide action without claiming authority over all that follows.
+
+Approval may be welcome, yet an honest decision can stand without it. A plan may be preferred, yet remain open to revision. Hold the intention firmly enough to act and the expectation lightly enough to adapt.
+
+### 8. Keep appetite within the bounds of choice
+
+> No person is free who is a slave to appetite.
+
+A desire can become so familiar that satisfying it feels like the only available course. The freedom worth practising includes the ability to consider a want, decide its place and sometimes leave it unsatisfied.
+
+Appetite reaches beyond food. There can be a hunger for entertainment, approval or the next distraction. Notice the urge to continue after enough has been enjoyed: another episode, another look at the phone, another search for reassurance. Familiarity can make the response feel automatic.
+
+A pause allows a choice. Is this still enjoyable? Is there a reason to continue? What happens if the urge is left unanswered for a while? Practise allowing a want to be present without immediately arranging to satisfy it.
+
+Necessary needs deserve care, and pleasure has a place in a good life. Enjoy a meal, take rest and welcome an experience worth having. The useful limit is one that allows enjoyment without repeatedly surrendering other things that matter. Enough should remain a possible stopping point.
+
+### 9. Wanting less is often easier than acquiring more
+
+> Wanting less is often easier than acquiring more.
+
+Before giving a desire more time, money or effort, consider whether it deserves the place it has been given. Some wants become less important once their promise is examined closely.
+
+Work out what obtaining it would require. What would have to be given up to afford it? Would its value justify that exchange? Set the purchase beside the other purposes already chosen for that money.
+
+Ask what the addition would provide. Is there a need it would meet, an activity it would make possible or a lasting enjoyment it would bring? How much of the appeal comes from comparison, novelty or the sense that something more should be wanted? An answer worth acting on deserves some thought.
+
+There is room for worthwhile ambition and for improving difficult circumstances. Necessary needs still call for practical attention. The opportunity lies in recognising the wants that add demands without adding enough value. Letting one of those go can release resources for something that matters more.
+
+Give enough a clear meaning before the next comparison changes it. Something already useful need not become inadequate merely because a newer version exists.
+
+### 10. Find freedom from excess
+
+> A disciplined life is not deprivation; it is freedom from excess.
+
+A limit chosen with care can protect time, attention and energy for the things that matter. Enough can be enjoyed without the rest of the day being given over to more.
+
+Excess carries demands beyond the moment of enjoyment. More purchases require more money. More commitments require more time. An evening repeatedly given over to distraction leaves less room for whatever else was worth doing. Consider what an indulgence asks of the rest of life as well as what it offers now.
+
+Discipline gives competing wants some order. A budget reserves money for chosen purposes. A routine protects time for a commitment. A stopping point allows an enjoyable activity to end while there is still time for something else.
+
+Judge a limit by what it protects and makes possible. Rest, good food and an afternoon enjoyed for its own sake belong in that judgement too. Discipline should help give each worthwhile part of life its share.
+
+### 11. Simple living leaves more room for good living
+
+> Simple living leaves more room for good living.
+
+Every possession, commitment and recurring demand takes some share of the day. Consider whether what it brings is worth the attention it requires. A life can become crowded through choices that each seemed small when made.
+
+Look for the arrangements that create unnecessary work. Too many possessions can make a room difficult to use. Too many commitments can leave every free hour spoken for. Ask which demands can be removed, combined or allowed to end.
+
+Possessions deserve the same consideration. Something rarely used may still need storing, maintaining or paying for. A home should have room for the life taking place in it. Let usefulness and enjoyment have a say in what remains, with enough space for daily living to feel manageable.
+
+Simplicity can also mean leaving time uncommitted. A free evening allows rest, company or an unexpected opportunity without requiring something else to be displaced. There is value in having some capacity left after the day's responsibilities are met.
+
+Leave some of the space genuinely free. A cleared room need not be filled again, and an uncommitted evening need not acquire another obligation. Let the simpler arrangement be lived with long enough to enjoy it.
+
+### 12. Endurance is easier when the purpose is clear
+
+> Endurance is easier when the purpose is clear.
+
+An effort can be demanding and still feel worth continuing when its reason remains in view. Repetition, inconvenience and slow progress have a place in something that matters beyond the present moment.
+
+Make that reason specific enough to return to. What is the effort serving? What makes the result worth the time and discomfort involved? An ambition that sounded appealing at the beginning needs enough meaning to carry through the ordinary work that follows.
+
+During a difficult stretch, bring the purpose back to the scale of the next action. A training session serves the intention to become fitter. Keeping a commitment gives reliability substance. An honest conversation may involve discomfort in the service of a relationship worth caring for. The immediate demand becomes easier to understand when its connection to the larger intention is visible.
+
+Purpose also gives endurance something to answer to. If the effort no longer serves the intended end, its direction deserves examination. Continuing out of habit or pride can consume the same energy that a better approach would put to use. A worthwhile reason can support both persistence and a sensible change of course.
+
+### 13. Turn obstacles into opportunities
+
+> What stands in the way becomes the way.
+
+An obstacle can appear to be nothing more than an interruption to a plan. A difficult task, an unexpected setback or an uncomfortable conversation may seem to stand between the present and the intended destination.
+
+Yet the obstacle itself may provide an opportunity to practise the qualities needed to continue. A difficult task can develop perseverance. A disagreement can test patience and fairness. A failure can reveal a weakness in an approach that would otherwise remain unnoticed.
+
+This does not mean that every difficulty is a gift or that hardship should be welcomed without question. Some obstacles should be removed or avoided, and some losses must simply be acknowledged.
+
+The useful question is what remains possible in the circumstances that exist. When the original path becomes unavailable, consider whether the difficulty can teach something, strengthen a useful ability or reveal another way forward.
+
+Sometimes wisdom means persevering. Sometimes it means changing direction or walking away. The obstacle does not decide the response; reason and character guide how it is met.
+
+Progress is not always made by removing obstacles. Sometimes it is made through the way they are met.
+
+### 14. Make room for a new beginning
+
+> Every new beginning comes from some other beginning's end.
+
+Something once unfamiliar became part of ordinary life: a place, a relationship, a role or a routine. Its ending can be difficult precisely because it once offered a beginning worth welcoming.
+
+Allow an ending its proper weight. What was valuable can remain valuable after it is over. Gratitude for a period of life can coexist with sadness at its passing, and neither feeling needs to settle what should happen next.
+
+Some endings arrive without a choice. Others require a decision to leave a familiar arrangement that no longer fits. Consider what can still be cared for, what responsibilities remain and what is being held onto merely because it is known. A thoughtful ending deserves honesty and attention to the people affected.
+
+A new beginning needs room in daily life. A different commitment may require time released from an old one. A changed direction may require letting go of an earlier plan. Consider what must finish so that the next intention can be given a fair chance.
+
+The next stage may remain uncertain for a while. There is no need to force an immediate replacement for everything lost. Take what has been learnt, attend to the present responsibilities and allow a first step to be small. An ending can be acknowledged fully while life continues to open beyond it.
+
+### 15. Not everything that leaves is a loss
+
+> What is lost may also bring freedom.
+
+The absence of something familiar can feel like a loss, even when its presence brought little value.
+
+There is a tendency to hold onto things simply because they have been part of life, without considering whether they still deserve a place in it.
+
+An ending can bring peace, freedom, time or space for something more worthwhile.
+
+Rather than measuring only what has gone, consider what its absence makes possible.
+
+Sometimes, having less means gaining more.
+
+### 16. Allow the awkwardness of learning
+
+> Be willing to look foolish for a while.
+
+Improvement asks for a willingness to look foolish for a while. A new skill brings unfamiliar movements, elementary questions and mistakes that an experienced person might avoid. These belong to the beginning. Give the learning enough room to happen before expecting the appearance of competence.
+
+Protecting a reputation for already knowing can make useful practice difficult to begin. A question goes unasked, a correction is resisted or an unfamiliar task is left alone. Consider what is being preserved at the cost of the ability worth developing.
+
+Ask the question that would make the next step clearer. Accept a correction, try again and notice what changes. A mistake examined with care can give the next attempt a better direction. There is more to work with in an honest attempt than in a performance designed to hide every uncertainty.
+
+Choose whose judgement deserves weight. Helpful instruction and fair criticism can serve the work. Passing amusement need not decide whether it continues. A beginner deserves the chance to become more capable through practice.
+
+### 17. Remember what experience has taught
+
+> Let the lessons of experience speak louder than the feelings of the moment.
+
+A curious pattern emerges when considering the reluctance to run or read and the desire to eat something indulgent.
+
+Before a run or a period of reading, the immediate effort can seem unappealing. The satisfaction that so often follows is easily forgotten, while the difficulty of beginning receives all the attention.
+
+With certain foods, the opposite occurs. The pleasure of eating is remembered clearly, while the discomfort that has followed on previous occasions slips from mind. The consequences return to attention only after the pleasure has passed. Repeating the choice can also work against a longer-term intention to maintain a healthier weight.
+
+These experiences appear different, yet reveal the same weakness in judgement. A feeling in the present moment is allowed to outweigh knowledge already gained through experience. Something worthwhile is avoided despite the satisfaction it brings; something briefly pleasurable is pursued despite its familiar cost.
+
+Neither problem necessarily requires a new lesson. Experience has already supplied one. The work is to remember it at the moment when a choice remains open.
+
+Before avoiding something worthwhile, recall how it has felt afterwards. Before choosing a fleeting pleasure, remember the whole experience, including what followed. The aim is not to distrust every desire or force every difficult activity. Rest may be needed, and enjoyment has its place. But a passing feeling need not carry more authority than repeated observation.
+
+Experience becomes useful wisdom when its lessons begin to shape the next decision.
+
+**Two experiences, one lesson**
+
+| | Worthwhile effort 🟢 | Fleeting pleasure 🟠 |
+| :--- | :--- | :--- |
+| **Example** | Running or reading | Indulgent food |
+| **Before** | Reluctance takes centre stage | Desire takes centre stage |
+| **After** | Satisfaction is remembered | Discomfort is remembered |
+| **What gets overlooked** | The benefit of beginning | The cost that follows |
+
+> [!NOTE]
+> **The common thread:** A passing feeling can overshadow what experience has already taught. Remember the whole experience before deciding.
+
+### 18. The road not taken
+
+> The path not chosen is imagined; the path taken is lived.
+
+Every meaningful choice closes off other possibilities. It is natural to wonder what might have happened had a different direction been taken.
+
+Yet the life not lived exists only in imagination. Its opportunities are easy to picture, while its difficulties remain unknown.
+
+The path chosen is experienced in full, with its successes, disappointments and ordinary challenges. Comparing that reality with an imagined alternative can make the present seem poorer than it is.
+
+There is little value in measuring a life against possibilities that can never be known.
+
+Learn from past decisions without becoming attached to the lives they might have produced.
+
+The road not taken asks for imagination. The road ahead asks for attention.
+
+### 19. Let regret become wisdom
+
+> Regret should teach us how to live, not keep us living in the past.
+
+There will be decisions we wish we had made differently, words we wish we had not spoken and opportunities we wish we had taken.
+
+Regret can serve a useful purpose. It asks us to examine our actions, recognise where we fell short and consider what should change.
+
+Yet the past is often judged with wisdom gained only afterwards. We cannot expect our former selves to have possessed everything experience has since taught us.
+
+Where something can be put right, take responsibility and act. Where nothing can be changed, accept what happened and carry forward what has been learned.
+
+Once the lesson has been understood, returning endlessly to the mistake serves little purpose. Reflection should lead to better conduct, not become a habit of self-punishment.
+
+The past deserves an honest examination, but it does not deserve the rest of our lives.
+
+### 20. Wisdom comes with time
+
+> We cannot expect our younger selves to possess the wisdom that experience has yet to teach.
+
+Looking back, it is easy to see how life might have been lived differently. Decisions that once seemed sensible may now appear mistaken, while opportunities once overlooked seem obvious.
+
+Yet understanding often comes from experience. The mistakes, difficulties and passing years we might wish to undo have helped shape what we now know.
+
+There is little value in wishing to have known everything sooner. We can appreciate what experience has taught without resenting the time it took to learn.
+
+And just as we look back on our younger selves today, we may one day look back on who we are now with greater understanding.
+
+The wisdom we wish we had yesterday is the wisdom we have available to use today.
+
+### 21. Life is long enough when it is used well
+
+> Life is long enough when it is used well.
+
+Let that thought bring attention to the time available today. A wish for more years deserves consideration alongside the way an ordinary afternoon is spent.
+
+Notice where time goes without a deliberate choice. An intended few minutes can become an evening of distraction. A worthwhile conversation can be postponed repeatedly. A plan can remain waiting for a quieter period that never arrives. Examine which of these patterns leaves less room for what matters.
+
+Give worthwhile things a place in the present. A relationship needs time in which to be lived. Learning needs attention, and a commitment needs an occasion to be kept. A clear intention becomes part of life through the hours actually given to it.
+
+Rest, play and unhurried company can be good uses of time. An afternoon need not produce an achievement to have been well spent. Consider whether it was chosen and enjoyed, and whether the day made room for the people and activities worth caring about.
+
+Length of life is never assured. Give this day enough attention that some of what matters has a place in it.
+
+### 22. Know the destination
+
+> If a person knows no destination, no wind is favourable.
+
+An opportunity can only be judged as helpful in relation to somewhere worth going. Without that direction, novelty, praise or the urgency of another person's request can become the reason for the next decision.
+
+Give the destination enough substance to guide a choice. What kind of life is being built? Which qualities and commitments deserve a place in it? A direction grounded in these things can remain useful even when a particular plan needs changing.
+
+Consider an opportunity by where it leads. More responsibility may bring recognition while leaving less time for relationships or health. An attractive purchase may use money intended for something more important. The immediate benefit deserves consideration alongside its effect on the larger intention.
+
+A clear destination also gives a reason to decline. Something can be worthwhile in itself and still ask for time or effort needed elsewhere. Every available path need not be followed. Attention can remain with the one chosen deliberately.
+
+Review the direction as understanding grows, and adapt the route when circumstances require it. A setback may call for another approach; an unexpected opening may offer a better one. Keep the purpose clear enough to recognise when the wind can help.
+
+### 23. Speak with purpose, not compulsion
+
+> Speak honestly, listen fairly, and remain at peace with the outcome.
+
+In a discussion about politics, there can be value in listening for a while before entering the debate. Hearing the other views first allows time to understand what is being argued and whether a contribution would serve a purpose.
+
+Remaining calm does not require remaining silent. A strong opinion can be expressed without anger, and disagreement need not become a contest. Equally, having an opinion does not mean it must always be voiced. Before speaking, consider what is drawing the words forward: something worth sharing, a point worth clarifying, or simply an urge to correct someone and be seen to be right.
+
+A contribution need not change anyone's mind to have value. Giving a considered perspective can be worthwhile even when it settles nothing. The more useful measure afterwards is the conduct: was there honest expression, fair listening, respect for the others and a willingness to reconsider?
+
+Agreement lies beyond one person's control. Once a view has been offered with care, allow others to receive it as they choose. Neither silence nor speaking is always the wiser course; the judgement and character behind the choice matter more than winning the debate.
+
+### 24. Do not live in the minds of others
+
+> We often give more thought to what others think of us than they give to us at all.
+
+It is easy to become preoccupied with how we are perceived. We revisit conversations, question our words and imagine the judgements others might have made.
+
+Yet most people are occupied with their own lives. What remains in our thoughts for hours may have passed through theirs in moments.
+
+And even when others do think poorly of us, their opinions need not occupy our attention. Criticism may deserve consideration, but not every judgement deserves a response.
+
+There is a quiet freedom in the thought, “I don't think about you at all.” Not as an expression of contempt, but as a reminder that another person's opinion need not become a permanent concern.
+
+Give thought to your conduct, learn from what is useful and allow the rest to pass.
+
+We cannot control the place we hold in another person's mind, but we can choose how much space they occupy in ours.
+
 
 ---
 
 ## Character and Integrity
 
 > Let character be visible in conduct.
+
+Principles take their measure in conduct. Thoughtful decisions become character through the way we speak, act and treat others.
 
 ### 1. Speak about others with care
 
@@ -475,359 +837,79 @@ Still, fair compensation does not excuse disrespect, and what we need not demand
 
 Be measured in the recognition you expect, and generous in the recognition you give.
 
+
 ---
 
-## Stoic Wisdom
+## Mental Wellbeing
 
-> Give care to what can be governed.
+> A troubled moment need not rule the day.
 
-### 1. Find freedom from excess
+This chapter remains a place for future reflections on caring for the mind. Its themes already run through the reflections on judgement, calm and acceptance.
 
-> A disciplined life is not deprivation; it is freedom from excess.
+---
 
-A limit chosen with care can protect time, attention and energy for the things that matter. Enough can be enjoyed without the rest of the day being given over to more.
+## Exercise
 
-Excess carries demands beyond the moment of enjoyment. More purchases require more money. More commitments require more time. An evening repeatedly given over to distraction leaves less room for whatever else was worth doing. Consider what an indulgence asks of the rest of life as well as what it offers now.
+> Build patiently. Return consistently.
 
-Discipline gives competing wants some order. A budget reserves money for chosen purposes. A routine protects time for a commitment. A stopping point allows an enjoyable activity to end while there is still time for something else.
+Training offers a practical test of intention: prepare, work with purpose, accept appropriate difficulty and return consistently.
 
-Judge a limit by what it protects and makes possible. Rest, good food and an afternoon enjoyed for its own sake belong in that judgement too. Discipline should help give each worthwhile part of life its share.
+### 1. Build through progressive overload
 
-### 2. Endurance is easier when the purpose is clear
+> Let the next demand grow from present capacity.
 
-> Endurance is easier when the purpose is clear.
+Use progressive overload as a guiding principle for strength training: gradually increase the demands as capacity develops. It gives each session a place in a longer effort, with progress to work towards and a reason behind the work.
 
-An effort can be demanding and still feel worth continuing when its reason remains in view. Repetition, inconvenience and slow progress have a place in something that matters beyond the present moment.
+The useful question is what is being built across weeks and months. A single demanding session can feel like an achievement, but the longer view deserves attention. What has become possible that was previously beyond reach?
 
-Make that reason specific enough to return to. What is the effort serving? What makes the result worth the time and discomfort involved? An ambition that sounded appealing at the beginning needs enough meaning to carry through the ordinary work that follows.
+There is patience in the word progressive. An increase need not be dramatic to matter, and every session need not surpass the last. The intention is to build steadily, with enough attention to recognise when the next step is earned.
 
-During a difficult stretch, bring the purpose back to the scale of the next action. A training session serves the intention to become fitter. Keeping a commitment gives reliability substance. An honest conversation may involve discomfort in the service of a relationship worth caring for. The immediate demand becomes easier to understand when its connection to the larger intention is visible.
+### 2. Give aerobic fitness a central place
 
-Purpose also gives endurance something to answer to. If the effort no longer serves the intended end, its direction deserves examination. Continuing out of habit or pride can consume the same energy that a better approach would put to use. A worthwhile reason can support both persistence and a sensible change of course.
+> Train for the life still to be lived.
 
-### 3. A calm mind is a stronger fortress than anger
+Aerobic fitness deserves a central place in training for a long life. VO₂ max measures the greatest rate at which the body can use oxygen during intense exercise. It is a measure of cardiorespiratory fitness, which is strongly associated with longevity. Higher fitness is associated with a lower risk of early death, though no single measurement can promise a long life.
 
-> A calm mind is a stronger fortress than anger.
+That gives training a purpose beyond appearance or the achievement of a single session. Strength deserves attention; so does the capacity to sustain effort. A longer view of exercise makes room for both.
 
-Anger can feel protective, lending force to a reply and urgency to a grievance. Yet the strength of a response also depends on judgement: understanding what happened, deciding what matters and choosing words that serve a purpose beyond the moment.
+A fitness measurement provides a reference point. Use it to inform training, while keeping the wider purpose in view: the capacity to sustain effort and remain active over time.
 
-A provocation does not need an immediate answer. A pause leaves room to examine the first interpretation. Was the remark understood correctly? Does the situation require a response? What would that response accomplish? Give the facts enough attention before allowing an impression to determine the next action.
+### 3. Arrange training in advance
 
-Calmness leaves room for firmness. A boundary can be stated clearly, an unreasonable demand refused and a wrong addressed without adding an insult. The difficulty still receives an answer, with less chance of the manner of answering becoming another problem to resolve.
+> Prepare the session before the moment of effort.
 
-Anger may arise before there is time to consider it. Its arrival need not settle what follows. When possible, allow enough time for a reply to become deliberate. A conversation can be resumed; words spoken in haste may be harder to repair.
+Arrange training before the moment comes to do it. Give each session a time and place, decide its purpose and prepare the clothes or equipment it needs. Leave a clear plan for the exercises and the work to be done. The start of a session should not require the whole intention to be reconsidered.
 
-The fortress is the ability to keep judgement available under pressure. Let the response reflect the conduct worth practising, including when another person's conduct makes that difficult.
+Make these arrangements during a calm moment, when the week can be considered as a whole. A commitment that fits the actual day has a better place in the routine than one left waiting for spare time or enthusiasm. When the appointed time arrives, the next action should be clear.
 
-### 4. Embody the philosophy
+Allow for the predictable difficulties. A shorter session can be planned for a crowded day, and an alternative time can be identified when the usual one is unavailable. These choices can be settled in advance, with room to respond sensibly to illness, injury or a need for recovery.
 
-> Let philosophy take shape in conduct.
+Review the routine when there is time to think. If the same session keeps being missed, examine its timing, preparation and demands. Adjust what repeatedly gets in the way. Build an arrangement that supports showing up on an ordinary day, including a day with little motivation.
 
-A principle becomes useful in the situation that calls for it: patience during an interruption, honesty when a mistake is discovered, restraint when a conversation turns towards gossip. Each is an occasion to practise what has been understood.
+### 4. Train beyond comfort
 
-Explaining a belief can bring clarity, but speaking convincingly about it can also feel like work already done. An account of patience is easier to compose than a patient response under pressure. Give the response the practice it needs.
+> Difficulty is not always the limit. Sometimes it is where the work begins.
 
-There is no need for every deliberate choice to be announced. A confidence can be kept without a speech about discretion. A commitment can be honoured without drawing attention to discipline. Let the action serve its purpose even when it receives no recognition.
+There is a difference between exercising and truly challenging the body. Movement alone does not guarantee progress, and effort that never challenges existing ability may leave much of its potential unexplored.
 
-Where conduct falls short of a principle, attend to the gap. Acknowledge what happened, make a repair where possible and practise the better response at the next opportunity. Further explanation has limited value if the same behaviour continues unchanged.
+As training becomes demanding, the instinct is to slow down or stop. Yet the first feeling of discomfort is not necessarily the body's limit. There may be considerably more effort available than initially seems possible.
 
-### 5. Meet this moment with reason and good character
+Training hard requires mental discipline. It demands concentration, determination and a willingness to remain with physical discomfort rather than immediately seeking relief.
 
-> This moment can be met with reason and good character.
+Through repeated, progressive challenges, the body adapts and the mind learns what sustained effort feels like. What once seemed beyond reach can gradually become manageable.
 
-A difficulty may arrive uninvited, with too little time, an unwelcome demand or another person's impatience. Begin with the situation as it stands and consider the response it calls for.
+The purpose is not exhaustion for its own sake, but to provide enough challenge to produce meaningful improvement.
 
-Reason gives attention to what is known. What has actually happened? What remains uncertain? What can usefully be done now? A first impression deserves examination, especially when it brings a strong urge to blame, defend or assume the worst.
+The body grows stronger through appropriate demands. The mind grows stronger through the discipline of meeting them.
 
-Character gives direction to the action that follows. A reply can be honest and considerate. A mistake can be acknowledged. A boundary can be held with fairness. The available choices may be limited, but the manner of carrying them out still deserves care.
-
-There is no need to settle the whole future before taking the next step. Attend to the demand close enough to act upon: listen properly, establish a fact, fulfil a responsibility or ask for time to think. A difficult situation can be approached through one reasonable action at a time.
-
-### 6. Recognise what is up to us
-
-> Some things are up to us; some things are not.
-
-Effort, preparation and the care taken with a response deserve attention. Other people's decisions, events already past and the eventual outcome of an effort cannot be settled by wanting them to be different.
-
-Make that distinction clear within the difficulty at hand. What can be done now? What depends on someone else? What has already happened and needs to be dealt with? Separating these questions can reveal a useful action where the whole situation first seemed overwhelming.
-
-Influence still matters where control is incomplete. A conversation can be approached honestly without securing agreement. Work can be prepared carefully without guaranteeing recognition. Give the part open to effort its due care, while allowing the outcome to remain uncertain.
-
-Acceptance begins with recognising the conditions that actually exist. A missed opportunity cannot be made available again by resentment, but its lesson can inform the next choice. Another person's conduct may be disappointing, while a boundary or a decision about future contact remains possible.
-
-Return attention to the responsibility within reach. What response would be reasonable? What action would reflect good character? Enough work may already be waiting there, without taking on the impossible task of deciding everything that follows.
-
-### 7. Make room for a new beginning
-
-> Every new beginning comes from some other beginning's end.
-
-Something once unfamiliar became part of ordinary life: a place, a relationship, a role or a routine. Its ending can be difficult precisely because it once offered a beginning worth welcoming.
-
-Allow an ending its proper weight. What was valuable can remain valuable after it is over. Gratitude for a period of life can coexist with sadness at its passing, and neither feeling needs to settle what should happen next.
-
-Some endings arrive without a choice. Others require a decision to leave a familiar arrangement that no longer fits. Consider what can still be cared for, what responsibilities remain and what is being held onto merely because it is known. A thoughtful ending deserves honesty and attention to the people affected.
-
-A new beginning needs room in daily life. A different commitment may require time released from an old one. A changed direction may require letting go of an earlier plan. Consider what must finish so that the next intention can be given a fair chance.
-
-The next stage may remain uncertain for a while. There is no need to force an immediate replacement for everything lost. Take what has been learnt, attend to the present responsibilities and allow a first step to be small. An ending can be acknowledged fully while life continues to open beyond it.
-
-### 8. Keep appetite within the bounds of choice
-
-> No person is free who is a slave to appetite.
-
-A desire can become so familiar that satisfying it feels like the only available course. The freedom worth practising includes the ability to consider a want, decide its place and sometimes leave it unsatisfied.
-
-Appetite reaches beyond food. There can be a hunger for entertainment, approval or the next distraction. Notice the urge to continue after enough has been enjoyed: another episode, another look at the phone, another search for reassurance. Familiarity can make the response feel automatic.
-
-A pause allows a choice. Is this still enjoyable? Is there a reason to continue? What happens if the urge is left unanswered for a while? Practise allowing a want to be present without immediately arranging to satisfy it.
-
-Necessary needs deserve care, and pleasure has a place in a good life. Enjoy a meal, take rest and welcome an experience worth having. The useful limit is one that allows enjoyment without repeatedly surrendering other things that matter. Enough should remain a possible stopping point.
-
-### 9. Wanting less is often easier than acquiring more
-
-> Wanting less is often easier than acquiring more.
-
-Before giving a desire more time, money or effort, consider whether it deserves the place it has been given. Some wants become less important once their promise is examined closely.
-
-Work out what obtaining it would require. What would have to be given up to afford it? Would its value justify that exchange? Set the purchase beside the other purposes already chosen for that money.
-
-Ask what the addition would provide. Is there a need it would meet, an activity it would make possible or a lasting enjoyment it would bring? How much of the appeal comes from comparison, novelty or the sense that something more should be wanted? An answer worth acting on deserves some thought.
-
-There is room for worthwhile ambition and for improving difficult circumstances. Necessary needs still call for practical attention. The opportunity lies in recognising the wants that add demands without adding enough value. Letting one of those go can release resources for something that matters more.
-
-Give enough a clear meaning before the next comparison changes it. Something already useful need not become inadequate merely because a newer version exists.
-
-### 10. Examine the weight added by judgement
-
-> Meet the burden without adding to it.
-
-The mind can add weight to a burden. A task may require an hour of work, while resentment about having to do it occupies the whole morning. A delay may interrupt a plan, while imagining everything it might ruin extends the interruption further. Examine what the difficulty requires and what judgement has added to it.
-
-Separate what is happening from the account being made of it. What does the situation actually require? Which difficulties are present, and which are being anticipated? The thought that something should never have happened may be understandable, yet repeating it can leave less attention for what needs doing now.
-
-Describe the demand plainly. A conversation needs to be held. A mistake needs correcting. A piece of work remains unfinished. A clear description can make the next action easier to see, especially when frustration has turned a particular problem into a judgement about the whole day.
-
-Some burdens remain substantial even when approached calmly. Pain, grief and exhaustion deserve care, support and practical relief. The useful question is whether a particular thought helps meet the difficulty or adds distress without helping the response. There is no need to deny the burden in order to examine that addition.
-
-Attend to the part that can be made lighter. Set aside an unhelpful prediction, ask for assistance or bring attention back to the next manageable action. Give the situation the effort it requires, with as little additional struggle as judgement can reasonably spare.
-
-### 11. Pause between the event and the judgement
-
-> Pause between the event and the judgement of it.
-
-A remark is made, a message goes unanswered or a plan changes. An explanation can arrive almost as quickly: disrespect, rejection, failure. Before accepting it, consider how much is actually known.
-
-Describe the event plainly. A reply has not arrived. The reason may still be unknown. A short answer was given. Its tone may have been misunderstood. Keeping the description close to the facts leaves room for information that the first impression did not include.
-
-The first feeling may arrive without invitation. Allow it to be noticed while its interpretation remains open to examination. What was observed directly? What has been assumed? Would another reasonable explanation fit the same facts? A useful pause can be brief and still change the response that follows.
-
-Where clarification is possible, seek it. Ask what was meant, check a detail or allow time for a fuller account. Where action cannot wait, make the best decision available while recognising what remains uncertain. A judgement can be provisional and still support a necessary response.
-
-### 12. Seek mastery over desire
-
-> Seek to master desires rather than the world.
-
-A wish can quietly become a demand that other people agree, circumstances cooperate and every effort receive its expected reward. Notice when satisfaction begins to require an outcome that cannot be decided by effort alone.
-
-Examine what is being asked of the world. Is agreement necessary, or merely preferred? Does a useful effort lose its value without recognition? Must an inconvenience be removed before the day can contain anything worthwhile? A desire deserves attention before it becomes a condition placed on everything else.
-
-Work towards worthwhile ends with care. Prepare, speak clearly and make a reasonable effort to improve what can be improved. Allow other people their decisions and leave room for events to unfold differently. The wish for an outcome can guide action without claiming authority over all that follows.
-
-Approval may be welcome, yet an honest decision can stand without it. A plan may be preferred, yet remain open to revision. Hold the intention firmly enough to act and the expectation lightly enough to adapt.
-
-### 13. Allow the awkwardness of learning
-
-> Be willing to look foolish for a while.
-
-Improvement asks for a willingness to look foolish for a while. A new skill brings unfamiliar movements, elementary questions and mistakes that an experienced person might avoid. These belong to the beginning. Give the learning enough room to happen before expecting the appearance of competence.
-
-Protecting a reputation for already knowing can make useful practice difficult to begin. A question goes unasked, a correction is resisted or an unfamiliar task is left alone. Consider what is being preserved at the cost of the ability worth developing.
-
-Ask the question that would make the next step clearer. Accept a correction, try again and notice what changes. A mistake examined with care can give the next attempt a better direction. There is more to work with in an honest attempt than in a performance designed to hide every uncertainty.
-
-Choose whose judgement deserves weight. Helpful instruction and fair criticism can serve the work. Passing amusement need not decide whether it continues. A beginner deserves the chance to become more capable through practice.
-
-### 14. Life is long enough when it is used well
-
-> Life is long enough when it is used well.
-
-Let that thought bring attention to the time available today. A wish for more years deserves consideration alongside the way an ordinary afternoon is spent.
-
-Notice where time goes without a deliberate choice. An intended few minutes can become an evening of distraction. A worthwhile conversation can be postponed repeatedly. A plan can remain waiting for a quieter period that never arrives. Examine which of these patterns leaves less room for what matters.
-
-Give worthwhile things a place in the present. A relationship needs time in which to be lived. Learning needs attention, and a commitment needs an occasion to be kept. A clear intention becomes part of life through the hours actually given to it.
-
-Rest, play and unhurried company can be good uses of time. An afternoon need not produce an achievement to have been well spent. Consider whether it was chosen and enjoyed, and whether the day made room for the people and activities worth caring about.
-
-Length of life is never assured. Give this day enough attention that some of what matters has a place in it.
-
-### 15. Simple living leaves more room for good living
-
-> Simple living leaves more room for good living.
-
-Every possession, commitment and recurring demand takes some share of the day. Consider whether what it brings is worth the attention it requires. A life can become crowded through choices that each seemed small when made.
-
-Look for the arrangements that create unnecessary work. Too many possessions can make a room difficult to use. Too many commitments can leave every free hour spoken for. Ask which demands can be removed, combined or allowed to end.
-
-Possessions deserve the same consideration. Something rarely used may still need storing, maintaining or paying for. A home should have room for the life taking place in it. Let usefulness and enjoyment have a say in what remains, with enough space for daily living to feel manageable.
-
-Simplicity can also mean leaving time uncommitted. A free evening allows rest, company or an unexpected opportunity without requiring something else to be displaced. There is value in having some capacity left after the day's responsibilities are met.
-
-Leave some of the space genuinely free. A cleared room need not be filled again, and an uncommitted evening need not acquire another obligation. Let the simpler arrangement be lived with long enough to enjoy it.
-
-### 16. Know the destination
-
-> If a person knows no destination, no wind is favourable.
-
-An opportunity can only be judged as helpful in relation to somewhere worth going. Without that direction, novelty, praise or the urgency of another person's request can become the reason for the next decision.
-
-Give the destination enough substance to guide a choice. What kind of life is being built? Which qualities and commitments deserve a place in it? A direction grounded in these things can remain useful even when a particular plan needs changing.
-
-Consider an opportunity by where it leads. More responsibility may bring recognition while leaving less time for relationships or health. An attractive purchase may use money intended for something more important. The immediate benefit deserves consideration alongside its effect on the larger intention.
-
-A clear destination also gives a reason to decline. Something can be worthwhile in itself and still ask for time or effort needed elsewhere. Every available path need not be followed. Attention can remain with the one chosen deliberately.
-
-Review the direction as understanding grows, and adapt the route when circumstances require it. A setback may call for another approach; an unexpected opening may offer a better one. Keep the purpose clear enough to recognise when the wind can help.
-
-### 17. Not everything that leaves is a loss
-
-> What is lost may also bring freedom.
-
-The absence of something familiar can feel like a loss, even when its presence brought little value.
-
-There is a tendency to hold onto things simply because they have been part of life, without considering whether they still deserve a place in it.
-
-An ending can bring peace, freedom, time or space for something more worthwhile.
-
-Rather than measuring only what has gone, consider what its absence makes possible.
-
-Sometimes, having less means gaining more.
-
-### 18. Speak with purpose, not compulsion
-
-> Speak honestly, listen fairly, and remain at peace with the outcome.
-
-In a discussion about politics, there can be value in listening for a while before entering the debate. Hearing the other views first allows time to understand what is being argued and whether a contribution would serve a purpose.
-
-Remaining calm does not require remaining silent. A strong opinion can be expressed without anger, and disagreement need not become a contest. Equally, having an opinion does not mean it must always be voiced. Before speaking, consider what is drawing the words forward: something worth sharing, a point worth clarifying, or simply an urge to correct someone and be seen to be right.
-
-A contribution need not change anyone's mind to have value. Giving a considered perspective can be worthwhile even when it settles nothing. The more useful measure afterwards is the conduct: was there honest expression, fair listening, respect for the others and a willingness to reconsider?
-
-Agreement lies beyond one person's control. Once a view has been offered with care, allow others to receive it as they choose. Neither silence nor speaking is always the wiser course; the judgement and character behind the choice matter more than winning the debate.
-
-### 19. Remember what experience has taught
-
-> Let the lessons of experience speak louder than the feelings of the moment.
-
-A curious pattern emerges when considering the reluctance to run or read and the desire to eat something indulgent.
-
-Before a run or a period of reading, the immediate effort can seem unappealing. The satisfaction that so often follows is easily forgotten, while the difficulty of beginning receives all the attention.
-
-With certain foods, the opposite occurs. The pleasure of eating is remembered clearly, while the discomfort that has followed on previous occasions slips from mind. The consequences return to attention only after the pleasure has passed. Repeating the choice can also work against a longer-term intention to maintain a healthier weight.
-
-These experiences appear different, yet reveal the same weakness in judgement. A feeling in the present moment is allowed to outweigh knowledge already gained through experience. Something worthwhile is avoided despite the satisfaction it brings; something briefly pleasurable is pursued despite its familiar cost.
-
-Neither problem necessarily requires a new lesson. Experience has already supplied one. The work is to remember it at the moment when a choice remains open.
-
-Before avoiding something worthwhile, recall how it has felt afterwards. Before choosing a fleeting pleasure, remember the whole experience, including what followed. The aim is not to distrust every desire or force every difficult activity. Rest may be needed, and enjoyment has its place. But a passing feeling need not carry more authority than repeated observation.
-
-Experience becomes useful wisdom when its lessons begin to shape the next decision.
-
-**Two experiences, one lesson**
-
-| | Worthwhile effort 🟢 | Fleeting pleasure 🟠 |
-| :--- | :--- | :--- |
-| **Example** | Running or reading | Indulgent food |
-| **Before** | Reluctance takes centre stage | Desire takes centre stage |
-| **After** | Satisfaction is remembered | Discomfort is remembered |
-| **What gets overlooked** | The benefit of beginning | The cost that follows |
-
-> [!NOTE]
-> **The common thread:** A passing feeling can overshadow what experience has already taught. Remember the whole experience before deciding.
-
-### 20. Turn obstacles into opportunities
-
-> What stands in the way becomes the way.
-
-An obstacle can appear to be nothing more than an interruption to a plan. A difficult task, an unexpected setback or an uncomfortable conversation may seem to stand between the present and the intended destination.
-
-Yet the obstacle itself may provide an opportunity to practise the qualities needed to continue. A difficult task can develop perseverance. A disagreement can test patience and fairness. A failure can reveal a weakness in an approach that would otherwise remain unnoticed.
-
-This does not mean that every difficulty is a gift or that hardship should be welcomed without question. Some obstacles should be removed or avoided, and some losses must simply be acknowledged.
-
-The useful question is what remains possible in the circumstances that exist. When the original path becomes unavailable, consider whether the difficulty can teach something, strengthen a useful ability or reveal another way forward.
-
-Sometimes wisdom means persevering. Sometimes it means changing direction or walking away. The obstacle does not decide the response; reason and character guide how it is met.
-
-Progress is not always made by removing obstacles. Sometimes it is made through the way they are met.
-
-### 21. The road not taken
-
-> The path not chosen is imagined; the path taken is lived.
-
-Every meaningful choice closes off other possibilities. It is natural to wonder what might have happened had a different direction been taken.
-
-Yet the life not lived exists only in imagination. Its opportunities are easy to picture, while its difficulties remain unknown.
-
-The path chosen is experienced in full, with its successes, disappointments and ordinary challenges. Comparing that reality with an imagined alternative can make the present seem poorer than it is.
-
-There is little value in measuring a life against possibilities that can never be known.
-
-Learn from past decisions without becoming attached to the lives they might have produced.
-
-The road not taken asks for imagination. The road ahead asks for attention.
-
-### 22. Let regret become wisdom
-
-> Regret should teach us how to live, not keep us living in the past.
-
-There will be decisions we wish we had made differently, words we wish we had not spoken and opportunities we wish we had taken.
-
-Regret can serve a useful purpose. It asks us to examine our actions, recognise where we fell short and consider what should change.
-
-Yet the past is often judged with wisdom gained only afterwards. We cannot expect our former selves to have possessed everything experience has since taught us.
-
-Where something can be put right, take responsibility and act. Where nothing can be changed, accept what happened and carry forward what has been learned.
-
-Once the lesson has been understood, returning endlessly to the mistake serves little purpose. Reflection should lead to better conduct, not become a habit of self-punishment.
-
-The past deserves an honest examination, but it does not deserve the rest of our lives.
-
-### 23. Wisdom comes with time
-
-> We cannot expect our younger selves to possess the wisdom that experience has yet to teach.
-
-Looking back, it is easy to see how life might have been lived differently. Decisions that once seemed sensible may now appear mistaken, while opportunities once overlooked seem obvious.
-
-Yet understanding often comes from experience. The mistakes, difficulties and passing years we might wish to undo have helped shape what we now know.
-
-There is little value in wishing to have known everything sooner. We can appreciate what experience has taught without resenting the time it took to learn.
-
-And just as we look back on our younger selves today, we may one day look back on who we are now with greater understanding.
-
-The wisdom we wish we had yesterday is the wisdom we have available to use today.
-
-### 24. Do not live in the minds of others
-
-> We often give more thought to what others think of us than they give to us at all.
-
-It is easy to become preoccupied with how we are perceived. We revisit conversations, question our words and imagine the judgements others might have made.
-
-Yet most people are occupied with their own lives. What remains in our thoughts for hours may have passed through theirs in moments.
-
-And even when others do think poorly of us, their opinions need not occupy our attention. Criticism may deserve consideration, but not every judgement deserves a response.
-
-There is a quiet freedom in the thought, “I don't think about you at all.” Not as an expression of contempt, but as a reminder that another person's opinion need not become a permanent concern.
-
-Give thought to your conduct, learn from what is useful and allow the rest to pass.
-
-We cannot control the place we hold in another person's mind, but we can choose how much space they occupy in ours.
 
 ---
 
 ## Food and Nutrition
 
 > Choose with the whole day in mind.
+
+What is chosen in calm moments shapes what happens when appetite and convenience press for an answer.
 
 ### 1. Give weight to what has worked
 
@@ -917,65 +999,14 @@ Bring the intentions for health and [the budget](#1-begin-with-a-budget) into th
 
 A small shop can still fill a genuine gap. Keep it specific: buy what is missing, then return to the arrangement already chosen. Make the regular shop thoughtful enough that everyday eating can be straightforward.
 
----
-
-## Exercise
-
-> Build patiently. Return consistently.
-
-### 1. Build through progressive overload
-
-> Let the next demand grow from present capacity.
-
-Use progressive overload as a guiding principle for strength training: gradually increase the demands as capacity develops. It gives each session a place in a longer effort, with progress to work towards and a reason behind the work.
-
-The useful question is what is being built across weeks and months. A single demanding session can feel like an achievement, but the longer view deserves attention. What has become possible that was previously beyond reach?
-
-There is patience in the word progressive. An increase need not be dramatic to matter, and every session need not surpass the last. The intention is to build steadily, with enough attention to recognise when the next step is earned.
-
-### 2. Give aerobic fitness a central place
-
-> Train for the life still to be lived.
-
-Aerobic fitness deserves a central place in training for a long life. VO₂ max measures the greatest rate at which the body can use oxygen during intense exercise. It is a measure of cardiorespiratory fitness, which is strongly associated with longevity. Higher fitness is associated with a lower risk of early death, though no single measurement can promise a long life.
-
-That gives training a purpose beyond appearance or the achievement of a single session. Strength deserves attention; so does the capacity to sustain effort. A longer view of exercise makes room for both.
-
-A fitness measurement provides a reference point. Use it to inform training, while keeping the wider purpose in view: the capacity to sustain effort and remain active over time.
-
-### 3. Arrange training in advance
-
-> Prepare the session before the moment of effort.
-
-Arrange training before the moment comes to do it. Give each session a time and place, decide its purpose and prepare the clothes or equipment it needs. Leave a clear plan for the exercises and the work to be done. The start of a session should not require the whole intention to be reconsidered.
-
-Make these arrangements during a calm moment, when the week can be considered as a whole. A commitment that fits the actual day has a better place in the routine than one left waiting for spare time or enthusiasm. When the appointed time arrives, the next action should be clear.
-
-Allow for the predictable difficulties. A shorter session can be planned for a crowded day, and an alternative time can be identified when the usual one is unavailable. These choices can be settled in advance, with room to respond sensibly to illness, injury or a need for recovery.
-
-Review the routine when there is time to think. If the same session keeps being missed, examine its timing, preparation and demands. Adjust what repeatedly gets in the way. Build an arrangement that supports showing up on an ordinary day, including a day with little motivation.
-
-### 4. Train beyond comfort
-
-> Difficulty is not always the limit. Sometimes it is where the work begins.
-
-There is a difference between exercising and truly challenging the body. Movement alone does not guarantee progress, and effort that never challenges existing ability may leave much of its potential unexplored.
-
-As training becomes demanding, the instinct is to slow down or stop. Yet the first feeling of discomfort is not necessarily the body's limit. There may be considerably more effort available than initially seems possible.
-
-Training hard requires mental discipline. It demands concentration, determination and a willingness to remain with physical discomfort rather than immediately seeking relief.
-
-Through repeated, progressive challenges, the body adapts and the mind learns what sustained effort feels like. What once seemed beyond reach can gradually become manageable.
-
-The purpose is not exhaustion for its own sake, but to provide enough challenge to produce meaningful improvement.
-
-The body grows stronger through appropriate demands. The mind grows stronger through the discipline of meeting them.
 
 ---
 
 ## Sleep and Recovery
 
 > The quality of tomorrow begins with the choices made tonight.
+
+Effort and rest belong to the same deliberate life. Recovery makes continued attention and worthwhile effort possible.
 
 ### 1. Give sleep the priority it deserves
 
@@ -1027,7 +1058,6 @@ Pay attention to recurring patterns rather than relying on a single good or bad 
 
 Make adjustments that are practical to sustain. A useful routine considers both the hours awake and the hours asleep, leaving room for enjoyment while giving the body a fair opportunity to recover.
 
----
 
 ### 6. Rest is not wasted time
 
@@ -1045,15 +1075,13 @@ There is a difference between avoiding something worthwhile through ordinary rel
 
 A well-lived life is not measured by how many hours are spent being productive, but by how wisely those hours are used.
 
-## Mental Wellbeing
-
-> A troubled moment need not rule the day.
-
 ---
 
 ## Money
 
 > Give every euro a purpose.
+
+Money is a resource to direct, not a final measure of a good life. Give it purpose while remembering what it is meant to support.
 
 ### 1. Begin with a budget
 
@@ -1068,3 +1096,4 @@ Look at what actually happens. Regular bills may be familiar while subscriptions
 Use that understanding to give every euro a purpose. Some money meets present needs, some allows enjoyment and some remains set aside for later. Accounting for every euro includes money deliberately kept. The budget should make those choices visible before spending makes them by default.
 
 Return to the record and compare the plan with the result. Where did the money go differently from what was intended? What was forgotten? What needs changing? A budget becomes useful through this continued attention. Knowing where the money goes is the first step towards deciding where it should go next.
+
