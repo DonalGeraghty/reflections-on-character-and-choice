@@ -70,6 +70,7 @@ These principles give the reflections a shared direction, while leaving each exp
   - [11. Let leisure be leisure](#11-let-leisure-be-leisure)
   - [12. Avoid the space between work and rest](#12-avoid-the-space-between-work-and-rest)
   - [13. Choose how far to pursue mastery](#13-choose-how-far-to-pursue-mastery)
+  - [14. Live while life is yours](#14-live-while-life-is-yours)
 - [Character and Integrity](#character-and-integrity)
   - [1. Speak about others with care](#1-speak-about-others-with-care)
   - [2. Let repeated actions define identity](#2-let-repeated-actions-define-identity)
@@ -340,6 +341,24 @@ Some pursuits deserve years of dedication. Others may have already provided what
 Time devoted to one ambition is time unavailable for other worthwhile experiences. Recognising when enough has been achieved allows attention to turn towards something new.
 
 Knowing when to stop does not diminish the value of how far one has come.
+
+### 14. Live while life is yours
+
+> We do not know how much life remains, only that the life before us is ours to use.
+
+It is easy to live as though time were guaranteed. We make plans for distant years, postpone worthwhile experiences and assume there will always be another opportunity.
+
+Yet life does not promise us a particular length of time. Some lives end before their possibilities have had the chance to unfold. Others reach old age, but no number of years can make the future certain.
+
+Remembering this need not bring fear or sadness into every day. It can instead bring clarity about what deserves our attention.
+
+There is work worth doing, love worth expressing, experiences worth having and ordinary moments worth appreciating. These things need not be postponed until some imagined future when life is less busy or more complete.
+
+Living purposefully does not mean filling every hour with achievement. Rest, enjoyment and time with others are themselves part of a good life.
+
+We cannot determine how long our story will be, but we have some say in how we live the pages given to us.
+
+The uncertainty of life's length is a reason to live deliberately, not fearfully.
 
 ---
 
