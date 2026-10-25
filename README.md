@@ -2,6 +2,10 @@
 
 *Reflections on character, choice, and the daily practice of living well.*
 
+**[Read the interactive website](https://donalgeraghty.github.io/reflections-on-character-and-choice/)**
+
+*The website link will become available once GitHub Pages is enabled and deployment succeeds.*
+
 > [!TIP]
 > **Read slowly. Practise deliberately.** These are reminders to return to, not rules to complete.
 
