@@ -7,62 +7,62 @@ const reveal = (title, prompt, label, text) => ({ type: 'reveal', title, prompt,
 const choices = (title, prompt, ...items) => ({ type: 'choices', title, prompt, items });
 
 export const explorerDefinitions = {
-  'living-with-intention/1-if-nothing-changes-nothing-changes': steps(
+  'living-with-intention/2-if-nothing-changes-nothing-changes': steps(
     'Bring a wish into the day', 'Follow an intention until it has something practical to change.',
     ['Wish', 'A different result', 'Recognising the need for change gives a direction. The next meal, session or conversation still needs a different action.'],
     ['Action', 'One visible difference', 'Choose a small adjustment that can actually happen at the next opportunity.'],
     ['Review', 'Something to learn from', 'Notice what changed. An unsatisfactory result calls for another look at the approach.']),
 
-  'living-with-intention/2-do-things-with-intention': choices(
+  'living-with-intention/3-do-things-with-intention': choices(
     'Give the action a purpose', 'Choose an ordinary activity and bring its purpose into view.',
     ['Conversation', 'Make room to understand', 'An intention to listen becomes visible in the space allowed for another person’s words.'],
     ['Training', 'Give the session a direction', 'Decide what the session is for before beginning the work.'],
     ['Rest', 'Allow the pause', 'Time chosen for rest deserves the same attention as time chosen for work.']),
 
-  'living-with-intention/3-make-decisions-in-moments-of-clarity': compare(
+  'living-with-intention/5-make-decisions-in-moments-of-clarity': compare(
     'Move a decision to a clearer moment', 'Compare where the work of deciding falls.',
     ['Leave it late', 'Decide under pressure', 'Hunger, fatigue and urgency arrive alongside a choice still waiting to be made.'],
     ['Prepare earlier', 'Leave a simpler next step', 'Meals, training or bedtime can be considered while rested, with room to revise when circumstances change.']),
 
-  'living-with-intention/4-begin-with-intention-end-with-reflection': steps(
+  'living-with-intention/6-begin-with-intention-end-with-reflection': steps(
     'A day with room to reflect', 'Move through the day without turning it into a trial.',
     ['Morning', 'Prepare', 'What matters today, and what predictable difficulty can be prepared for?'],
     ['During the day', 'Pause', 'Does the next action still serve the intention?'],
     ['Evening', 'Learn', 'Notice what went well and carry one useful lesson forward. Allow the day to end.']),
 
-  'living-with-intention/5-create-a-vision-of-the-future-self': steps(
+  'living-with-intention/4-create-a-vision-of-the-future-self': steps(
     'Bring the future closer', 'Translate a hoped-for quality into ordinary practice.',
     ['Quality', 'Name what is worth becoming', 'Consider the qualities that would be visible in a worthwhile future life.'],
     ['Practice', 'Find what the quality asks', 'Fitness asks for training time; integrity asks for honesty when it is inconvenient.'],
     ['Today', 'Give it a place', 'Choose one ordinary occasion to practise that quality before the whole vision feels within reach.']),
 
-  'living-with-intention/6-give-ambitious-goals-a-realistic-pace': compare(
+  'living-with-intention/7-give-ambitious-goals-a-realistic-pace': compare(
     'Size the next commitment', 'Keep the ambition in view while examining the next step.',
     ['The distant goal', 'A direction worth keeping', 'A large ambition can remain meaningful even when the present ability is modest.'],
     ['The ordinary day', 'A commitment that fits', 'Choose a demand that can be repeated with the time and energy actually available. Let evidence guide an increase.']),
 
-  'living-with-intention/7-build-systems-that-support-the-intention': checks(
+  'living-with-intention/8-build-systems-that-support-the-intention': checks(
     'Prepare for an unmotivated day', 'Tap an arrangement to see how it supports beginning. These checks are temporary.',
     ['A reliable cue', 'A familiar time, place or existing routine gives the action somewhere to begin.'],
     ['Materials ready', 'Clothes, food or equipment prepared earlier remove a decision from the difficult moment.'],
     ['An obvious first step', 'A small, clear beginning asks less of a tired mind than an intention still needing a plan.']),
 
-  'living-with-intention/8-prepare-the-environment': compare(
+  'living-with-intention/9-prepare-the-environment': compare(
     'Change what is within reach', 'The surroundings can add effort or remove it.',
     ['An obstacle nearby', 'The beginning asks for more', 'Missing equipment, a cluttered work space or a ready distraction makes the same intention harder to follow.'],
     ['A useful cue nearby', 'The beginning becomes clearer', 'Set out what the task needs and put distractions a little further away.']),
 
-  'living-with-intention/9-prepare-for-obstacles': choices(
+  'living-with-intention/10-prepare-for-obstacles': choices(
     'Give a likely obstacle an answer', 'Choose an interruption and examine the preparation it calls for.',
     ['A late finish', 'Keep an alternative ready', 'A prepared frozen meal can leave dinner available when there is no time to cook.'],
     ['Less time', 'Plan a smaller version', 'Decide what remains worthwhile when the full commitment no longer fits.'],
     ['A needed pause', 'Leave a way to resume', 'Illness or urgent responsibilities may call for stopping. The next suitable opportunity can provide a beginning again.']),
 
-  'living-with-intention/11-let-leisure-be-leisure': reveal(
+  'living-with-intention/12-let-leisure-be-leisure': reveal(
     'Let enjoyment be sufficient', 'A game, a novel or an unhurried afternoon need not earn its place through another benefit.',
     'Remove the need to justify it', 'Was the time chosen and enjoyed, with room left for the other things that matter? That is a more useful question than what it produced.'),
 
-  'living-with-intention/13-choose-how-far-to-pursue-mastery': compare(
+  'living-with-intention/14-choose-how-far-to-pursue-mastery': compare(
     'Consider the next stretch', 'Further progress is possible. Whether it is worthwhile remains a choice.',
     ['Continue', 'Give depth its due', 'Further practice may offer enough meaning and satisfaction to deserve the time it asks.'],
     ['Stop here', 'Make room for something else', 'A skill may already have provided what was sought. Its value remains even when attention moves elsewhere.']),
@@ -90,30 +90,30 @@ export const explorerDefinitions = {
     ['What needs attention', 'Name the real problem', 'A concern can inform, expose a wrong or lead to useful action.'],
     ['What deserves notice', 'Remember what is improving', 'An act of kindness, an improvement or a problem being solved can add perspective without denying the concern.']),
 
-  'character-and-integrity/5-let-a-decision-stand-on-its-own': compare(
+  'character-and-integrity/6-let-a-decision-stand-on-its-own': compare(
     'Notice what an explanation is doing', 'The same reason can be shared freely or offered under pressure.',
     ['Share a reason', 'An explanation with a purpose', 'Offer context when it helps understanding or serves a responsibility.'],
     ['Seek permission', 'A settled choice becomes a defence', 'Repeated justification can invite negotiation where the decision has already received enough consideration.']),
 
-  'stoic-wisdom/1-find-freedom-from-excess': choices(
+  'stoic-wisdom/10-find-freedom-from-excess': choices(
     'See what a limit protects', 'Choose a limit and look beyond what it declines.',
     ['A spending limit', 'Money for chosen purposes', 'Enough remains for the needs, enjoyment and future uses already judged worthwhile.'],
     ['A stopping time', 'Room in the evening', 'An enjoyable activity can end while other worthwhile parts of life still have time.'],
     ['Fewer commitments', 'Attention available', 'Leaving some capacity free can give existing responsibilities the care they deserve.']),
 
-  'stoic-wisdom/2-endurance-is-easier-when-the-purpose-is-clear': steps(
+  'stoic-wisdom/12-endurance-is-easier-when-the-purpose-is-clear': steps(
     'Reconnect effort with purpose', 'Bring a distant reason down to the next action.',
     ['The demand', 'What is difficult now?', 'Repetition, inconvenience or slow progress may be the immediate experience.'],
     ['The purpose', 'What makes it worthwhile?', 'Name what the effort serves beyond this difficult stretch.'],
     ['The next step', 'Does this still serve it?', 'A clear purpose can support persistence or reveal a reason to change the approach.']),
 
-  'stoic-wisdom/3-a-calm-mind-is-a-stronger-fortress-than-anger': steps(
+  'stoic-wisdom/4-a-calm-mind-is-a-stronger-fortress-than-anger': steps(
     'Keep judgement available', 'A provocation can be met in more than one moment.',
     ['Notice', 'Anger has arrived', 'A strong first feeling need not decide the reply.'],
     ['Pause', 'Establish what happened', 'Was the remark understood correctly, and what would a response accomplish?'],
     ['Respond', 'Be clear and firm', 'A boundary can be stated without an insult. The difficulty still receives an answer.']),
 
-  'stoic-wisdom/4-embody-the-philosophy': choices(
+  'stoic-wisdom/6-embody-the-philosophy': choices(
     'Give a principle somewhere to live', 'Choose an ordinary occasion for practice.',
     ['An interruption', 'Patience in the reply', 'Allow the manner of responding to give patience its substance.'],
     ['A mistake', 'Honesty in the acknowledgement', 'Admit what happened and make a repair where possible.'],
@@ -125,7 +125,7 @@ export const explorerDefinitions = {
     ['Choose the manner', 'Honesty, fairness and care can guide the way an action is carried out.'],
     ['Meet the next demand', 'Listen, correct a mistake, fulfil a responsibility or ask for time to think. The whole future need not be settled first.']),
 
-  'stoic-wisdom/7-make-room-for-a-new-beginning': steps(
+  'stoic-wisdom/14-make-room-for-a-new-beginning': steps(
     'Allow a transition its space', 'An ending need not be rushed into a replacement.',
     ['Acknowledge', 'Let the past have its value', 'Something can have been worthwhile and still come to an end.'],
     ['Make room', 'Attend to what must finish', 'Consider the responsibilities and honesty that a thoughtful ending requires.'],
@@ -143,59 +143,59 @@ export const explorerDefinitions = {
     ['What it asks', 'Consider the money, work and other purposes that would have to be given up.'],
     ['What is already enough', 'A useful possession need not become inadequate because a newer version exists.']),
 
-  'stoic-wisdom/10-examine-the-weight-added-by-judgement': compare(
+  'stoic-wisdom/3-examine-the-weight-added-by-judgement': compare(
     'Separate the demand from the addition', 'Consider a task that still needs an hour of work.',
     ['The demand', 'An hour of work remains', 'The task can be described plainly and approached through a manageable beginning.'],
     ['The addition', 'Resentment occupies the morning', 'Repeating that it should not need doing can consume attention without moving the task forward.']),
 
-  'stoic-wisdom/11-pause-between-the-event-and-the-judgement': compare(
+  'stoic-wisdom/2-pause-between-the-event-and-the-judgement': compare(
     'Read the same event twice', 'A reply has not arrived.',
     ['First interpretation', 'Rejection or disrespect', 'An explanation may appear quickly while its evidence remains incomplete.'],
     ['Plain observation', 'A message is unanswered', 'The reason remains unknown. Allow time or seek clarification before treating an assumption as a fact.']),
 
-  'stoic-wisdom/12-seek-mastery-over-desire': compare(
+  'stoic-wisdom/7-seek-mastery-over-desire': compare(
     'Hold an outcome more lightly', 'A preference can guide effort without becoming a demand.',
     ['Demand', 'Agreement must follow', 'Satisfaction becomes dependent on a decision that belongs to someone else.'],
     ['Preference', 'Agreement would be welcome', 'Prepare and speak with care while leaving another person room to decide.']),
 
-  'stoic-wisdom/13-allow-the-awkwardness-of-learning': steps(
+  'stoic-wisdom/16-allow-the-awkwardness-of-learning': steps(
     'Give a beginner room', 'An unfamiliar task offers something a polished appearance cannot.',
     ['Ask', 'Make uncertainty visible', 'An elementary question can reveal the next useful step.'],
     ['Attempt', 'Allow an imperfect beginning', 'An honest attempt gives instruction and correction something to work with.'],
     ['Adjust', 'Let the correction help', 'Notice what changes on the next attempt. Competence needs occasions to develop.']),
 
-  'stoic-wisdom/14-life-is-long-enough-when-it-is-used-well': choices(
+  'stoic-wisdom/21-life-is-long-enough-when-it-is-used-well': choices(
     'Give today something worthwhile', 'Different uses of time can each deserve a place.',
     ['Connection', 'A conversation given time', 'Make room for a relationship to be lived rather than repeatedly postponed.'],
     ['Practice', 'An intention given an occasion', 'Learning or a commitment becomes part of life through time actually given to it.'],
     ['Enjoyment', 'An afternoon worth choosing', 'Rest, play and unhurried company can be good uses of the day without producing an achievement.']),
 
-  'stoic-wisdom/15-simple-living-leaves-more-room-for-good-living': reveal(
+  'stoic-wisdom/11-simple-living-leaves-more-room-for-good-living': reveal(
     'Leave some space unclaimed', 'A cleared room or an uncommitted evening offers capacity.',
     'Leave the space open', 'Nothing needs to be added immediately. Live with the simpler arrangement long enough to enjoy the room it creates.'),
 
-  'stoic-wisdom/16-know-the-destination': checks(
+  'stoic-wisdom/22-know-the-destination': checks(
     'Give an opportunity a direction', 'Consider where an appealing path would actually lead.',
     ['The purpose', 'Which quality or commitment would this opportunity serve?'],
     ['The exchange', 'What time, money or care would become unavailable elsewhere?'],
     ['The direction', 'Does this bring life closer to what matters, or mainly offer novelty, praise or urgency?']),
 
-  'stoic-wisdom/17-not-everything-that-leaves-is-a-loss': reveal(
+  'stoic-wisdom/15-not-everything-that-leaves-is-a-loss': reveal(
     'Look at the space that remains', 'Something familiar is no longer present.',
     'Consider what becomes possible', 'Its absence may leave peace, freedom, time or space. What has gone is only one part of the change.'),
 
-  'stoic-wisdom/18-speak-with-purpose-not-compulsion': choices(
+  'stoic-wisdom/23-speak-with-purpose-not-compulsion': choices(
     'Choose a contribution', 'A discussion does not require the same response every time.',
     ['Listen', 'Understand before entering', 'Allow other views time to become clear before deciding what would be useful to add.'],
     ['Speak', 'Offer a considered perspective', 'A view can be expressed honestly and calmly without needing to win agreement.'],
     ['Let it rest', 'An opinion need not become a reply', 'An urge to correct or be seen as right can pass without determining the next words.']),
 
-  'stoic-wisdom/19-remember-what-experience-has-taught': compare(
+  'stoic-wisdom/17-remember-what-experience-has-taught': compare(
     'Recall the part that slips from mind', 'Two different attractions can hide the same gap in attention.',
     ['Worthwhile effort', 'The beginning looms largest', 'Reluctance to run or read can eclipse the satisfaction familiar from afterwards.'],
     ['Fleeting pleasure', 'The enjoyment looms largest', 'Anticipated taste can eclipse discomfort that followed on previous occasions. Recall the whole experience.']),
 
-  'stoic-wisdom/20-turn-obstacles-into-opportunities': choices(
+  'stoic-wisdom/13-turn-obstacles-into-opportunities': choices(
     'Find what remains possible', 'A difficulty does not require one fixed response.',
     ['Practise', 'Use the occasion', 'A disagreement may offer practice in patience and fairness.'],
     ['Adapt', 'Learn from the interruption', 'A failed approach may reveal a different way forward.'],
