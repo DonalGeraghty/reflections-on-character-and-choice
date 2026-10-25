@@ -101,6 +101,7 @@ These principles give the reflections a shared direction, while leaving each exp
   - [21. The road not taken](#21-the-road-not-taken)
   - [22. Let regret become wisdom](#22-let-regret-become-wisdom)
   - [23. Wisdom comes with time](#23-wisdom-comes-with-time)
+  - [24. Do not live in the minds of others](#24-do-not-live-in-the-minds-of-others)
 - [Food and Nutrition](#food-and-nutrition)
   - [1. Give weight to what has worked](#1-give-weight-to-what-has-worked)
   - [2. Make eating well easier to sustain](#2-make-eating-well-easier-to-sustain)
@@ -769,6 +770,22 @@ There is little value in wishing to have known everything sooner. We can appreci
 And just as we look back on our younger selves today, we may one day look back on who we are now with greater understanding.
 
 The wisdom we wish we had yesterday is the wisdom we have available to use today.
+
+### 24. Do not live in the minds of others
+
+> We often give more thought to what others think of us than they give to us at all.
+
+It is easy to become preoccupied with how we are perceived. We revisit conversations, question our words and imagine the judgements others might have made.
+
+Yet most people are occupied with their own lives. What remains in our thoughts for hours may have passed through theirs in moments.
+
+And even when others do think poorly of us, their opinions need not occupy our attention. Criticism may deserve consideration, but not every judgement deserves a response.
+
+There is a quiet freedom in the thought, “I don't think about you at all.” Not as an expression of contempt, but as a reminder that another person's opinion need not become a permanent concern.
+
+Give thought to your conduct, learn from what is useful and allow the rest to pass.
+
+We cannot control the place we hold in another person's mind, but we can choose how much space they occupy in ours.
 
 ---
 
