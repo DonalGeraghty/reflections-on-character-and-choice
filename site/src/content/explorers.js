@@ -7,6 +7,38 @@ const reveal = (title, prompt, label, text) => ({ type: 'reveal', title, prompt,
 const choices = (title, prompt, ...items) => ({ type: 'choices', title, prompt, items });
 
 export const explorerDefinitions = {
+  'living-with-intention/1-live-while-life-is-yours': reveal(
+    "Remember the opportunity of today", "Consider what deserves attention while time is available.",
+    "Consider the day ahead", "Life's uncertainty need not cause fear. It can help direct attention towards people, purposes and moments worth living."),
+
+  'stoic-wisdom/18-the-road-not-taken': reveal(
+    "Turn towards the road ahead", "Consider the comparison between a lived life and an imagined alternative.",
+    "Return to what is known", "The path not taken can be imagined but not experienced. Attention can return to the choices still available."),
+
+  'stoic-wisdom/19-let-regret-become-wisdom': reveal(
+    "Carry the lesson forward", "Distinguish what can be repaired from what must be accepted.",
+    "Choose the next useful action", "Where possible, make amends. Otherwise, learn what can be learned without repeating the same self-punishment."),
+
+  'stoic-wisdom/20-wisdom-comes-with-time': reveal(
+    "Use what experience has taught", "Consider what your younger self could not yet have known.",
+    "Apply today's understanding", "What was learned later was not necessarily available earlier. The lesson has value in the choices made now."),
+
+  'stoic-wisdom/24-do-not-live-in-the-minds-of-others': reveal(
+    "Give attention back to your own conduct", "Consider whether an imagined judgement deserves your attention.",
+    "Return to your own choices", "Consider useful criticism, but do not let speculation about another person's opinion govern your day."),
+
+  'character-and-integrity/5-take-time-before-responding': reveal(
+    "Give thought its proper space", "Not every question needs an answer in the moment.",
+    "Allow a considered reply", "Acknowledging a request without answering immediately can create the space needed for sound judgement."),
+
+  'character-and-integrity/7-do-not-depend-on-recognition': reveal(
+    "Work without requiring applause", "Consider the difference between fulfilling an obligation and seeking approval.",
+    "Offer what you need not demand", "Take pride in careful work. Acknowledge others generously without making recognition a condition of your own effort."),
+
+  'exercise/4-train-beyond-comfort': reveal(
+    "Distinguish challenge from mere duration", "Consider the purpose and appropriate demands of a training session.",
+    "Meet appropriate difficulty", "Training for improvement calls for sufficient challenge, sound technique and recovery, not exhaustion for its own sake."),
+
   'living-with-intention/2-if-nothing-changes-nothing-changes': steps(
     'Bring a wish into the day', 'Follow an intention until it has something practical to change.',
     ['Wish', 'A different result', 'Recognising the need for change gives a direction. The next meal, session or conversation still needs a different action.'],
