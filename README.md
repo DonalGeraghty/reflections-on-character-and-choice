@@ -114,6 +114,7 @@ The chapters follow this path, while each reflection remains a reminder that can
   - [5. Take time before responding](#5-take-time-before-responding)
   - [6. Let a decision stand on its own](#6-let-a-decision-stand-on-its-own)
   - [7. Do not depend on recognition](#7-do-not-depend-on-recognition)
+  - [8. Never arrive empty-handed](#8-never-arrive-empty-handed)
 - [Mental Wellbeing](#mental-wellbeing)
 - [Exercise](#exercise)
   - [1. Build through progressive overload](#1-build-through-progressive-overload)
@@ -841,6 +842,20 @@ Still, fair compensation does not excuse disrespect, and what we need not demand
 
 Be measured in the recognition you expect, and generous in the recognition you give.
 
+
+### 8. Never arrive empty-handed
+
+> Receive hospitality with gratitude, and offer something in return.
+
+Being invited into someone's home is an act of hospitality. Time, effort and care may have gone into preparing for our visit, often without any expectation of something in return.
+
+A thoughtful guest recognises this generosity. Bringing a small gift, something to share or something the host might enjoy is a simple way of expressing appreciation.
+
+The gesture need not be elaborate or costly. Its value lies in the consideration behind it, rather than the price of what is brought.
+
+Good manners are not merely rules of etiquette. They are ways of showing others that their kindness has been noticed and appreciated.
+
+Arrive not only ready to receive hospitality, but prepared to show gratitude for it.
 
 ---
 
