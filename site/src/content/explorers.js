@@ -7,6 +7,10 @@ const reveal = (title, prompt, label, text) => ({ type: 'reveal', title, prompt,
 const choices = (title, prompt, ...items) => ({ type: 'choices', title, prompt, items });
 
 export const explorerDefinitions = {
+  'character-and-integrity/8-never-arrive-empty-handed': reveal(
+    'Bring gratitude into the visit', 'Consider how to acknowledge hospitality with a thoughtful gesture.',
+    'What might you offer?', 'A small gift, something to share or help offered willingly can express gratitude. The cost matters less than the consideration behind it.'),
+
   'living-with-intention/1-live-while-life-is-yours': reveal(
     "Remember the opportunity of today", "Consider what deserves attention while time is available.",
     "Consider the day ahead", "Life's uncertainty need not cause fear. It can help direct attention towards people, purposes and moments worth living."),
