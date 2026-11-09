@@ -7,6 +7,10 @@ const reveal = (title, prompt, label, text) => ({ type: 'reveal', title, prompt,
 const choices = (title, prompt, ...items) => ({ type: 'choices', title, prompt, items });
 
 export const explorerDefinitions = {
+  'stoic-wisdom/20-accept-that-time-moves-forward': reveal(
+    'Remember without trying to return', 'Consider how memory can honour the past without displacing the present.',
+    'What remains within reach?', 'Like Oisín returning from Tír na nÓg, we may find that the world has moved on. Cherish what was, and give the present the attention it deserves.'),
+
   'stoic-wisdom/2-do-not-carry-the-weight-of-the-world': reveal(
     'Give care where it can help', 'Consider which concerns invite useful action and which lie beyond your responsibility.',
     'What deserves attention now?', 'Support others where possible, fulfil the responsibilities within reach and leave room to care for your own life without carrying every burden.'),
@@ -23,15 +27,15 @@ export const explorerDefinitions = {
     "Turn towards the road ahead", "Consider the comparison between a lived life and an imagined alternative.",
     "Return to what is known", "The path not taken can be imagined but not experienced. Attention can return to the choices still available."),
 
-  'stoic-wisdom/20-let-regret-become-wisdom': reveal(
+  'stoic-wisdom/21-let-regret-become-wisdom': reveal(
     "Carry the lesson forward", "Distinguish what can be repaired from what must be accepted.",
     "Choose the next useful action", "Where possible, make amends. Otherwise, learn what can be learned without repeating the same self-punishment."),
 
-  'stoic-wisdom/21-wisdom-comes-with-time': reveal(
+  'stoic-wisdom/22-wisdom-comes-with-time': reveal(
     "Use what experience has taught", "Consider what your younger self could not yet have known.",
     "Apply today's understanding", "What was learned later was not necessarily available earlier. The lesson has value in the choices made now."),
 
-  'stoic-wisdom/25-do-not-live-in-the-minds-of-others': reveal(
+  'stoic-wisdom/26-do-not-live-in-the-minds-of-others': reveal(
     "Give attention back to your own conduct", "Consider whether an imagined judgement deserves your attention.",
     "Return to your own choices", "Consider useful criticism, but do not let speculation about another person's opinion govern your day."),
 
@@ -204,7 +208,7 @@ export const explorerDefinitions = {
     ['Attempt', 'Allow an imperfect beginning', 'An honest attempt gives instruction and correction something to work with.'],
     ['Adjust', 'Let the correction help', 'Notice what changes on the next attempt. Competence needs occasions to develop.']),
 
-  'stoic-wisdom/22-life-is-long-enough-when-it-is-used-well': choices(
+  'stoic-wisdom/23-life-is-long-enough-when-it-is-used-well': choices(
     'Give today something worthwhile', 'Different uses of time can each deserve a place.',
     ['Connection', 'A conversation given time', 'Make room for a relationship to be lived rather than repeatedly postponed.'],
     ['Practice', 'An intention given an occasion', 'Learning or a commitment becomes part of life through time actually given to it.'],
@@ -214,7 +218,7 @@ export const explorerDefinitions = {
     'Leave some space unclaimed', 'A cleared room or an uncommitted evening offers capacity.',
     'Leave the space open', 'Nothing needs to be added immediately. Live with the simpler arrangement long enough to enjoy the room it creates.'),
 
-  'stoic-wisdom/23-know-the-destination': checks(
+  'stoic-wisdom/24-know-the-destination': checks(
     'Give an opportunity a direction', 'Consider where an appealing path would actually lead.',
     ['The purpose', 'Which quality or commitment would this opportunity serve?'],
     ['The exchange', 'What time, money or care would become unavailable elsewhere?'],
@@ -224,7 +228,7 @@ export const explorerDefinitions = {
     'Look at the space that remains', 'Something familiar is no longer present.',
     'Consider what becomes possible', 'Its absence may leave peace, freedom, time or space. What has gone is only one part of the change.'),
 
-  'stoic-wisdom/24-speak-with-purpose-not-compulsion': choices(
+  'stoic-wisdom/25-speak-with-purpose-not-compulsion': choices(
     'Choose a contribution', 'A discussion does not require the same response every time.',
     ['Listen', 'Understand before entering', 'Allow other views time to become clear before deciding what would be useful to add.'],
     ['Speak', 'Offer a considered perspective', 'A view can be expressed honestly and calmly without needing to win agreement.'],
