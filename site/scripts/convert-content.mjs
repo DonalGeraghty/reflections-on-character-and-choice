@@ -75,6 +75,17 @@ function parseBlocks(body) {
   while (j < body.length) {
     const line = body[j];
     if (!line.trim()) { flushPara(); j++; continue; }
+    const image = line.match(/^!\[([^\]]*)\]\((site\/public\/images\/[^)]+)\)$/);
+    if (image) {
+      flushPara();
+      let caption = '';
+      const next = body[j + 1]?.trim() ? j + 1 : j + 2;
+      const captionMatch = body[next]?.match(/^\*([^*]+)\*$/);
+      if (captionMatch) caption = captionMatch[1];
+      blocks.push({ type: 'image', alt: image[1], src: image[2].replace(/^site\/public\//, ''), caption });
+      j = captionMatch ? next + 1 : j + 1;
+      continue;
+    }
     if (line.startsWith('> [!')) {
       flushPara();
       const variant = line.match(/^> \[!(\w+)\]/)?.[1].toLowerCase();
