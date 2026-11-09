@@ -39,7 +39,7 @@ Make decisions while calm and rested. Plans, routines and a prepared environment
 
 Honesty, fairness, patience and care remain worth practising even when agreement, recognition or a preferred outcome cannot be secured.
 
-*Explore:* [Recognise what is up to us](#1-recognise-what-is-up-to-us) · [Speak with purpose, not compulsion](#24-speak-with-purpose-not-compulsion)
+*Explore:* [Recognise what is up to us](#1-recognise-what-is-up-to-us) · [Speak with purpose, not compulsion](#25-speak-with-purpose-not-compulsion)
 
 ### 🌿 Make room for enjoyment and recovery
 
@@ -101,12 +101,13 @@ The chapters follow this path, while each reflection remains a reminder that can
   - [17. Allow the awkwardness of learning](#17-allow-the-awkwardness-of-learning)
   - [18. Remember what experience has taught](#18-remember-what-experience-has-taught)
   - [19. The road not taken](#19-the-road-not-taken)
-  - [20. Let regret become wisdom](#20-let-regret-become-wisdom)
-  - [21. Wisdom comes with time](#21-wisdom-comes-with-time)
-  - [22. Life is long enough when it is used well](#22-life-is-long-enough-when-it-is-used-well)
-  - [23. Know the destination](#23-know-the-destination)
-  - [24. Speak with purpose, not compulsion](#24-speak-with-purpose-not-compulsion)
-  - [25. Do not live in the minds of others](#25-do-not-live-in-the-minds-of-others)
+  - [20. Accept that time moves forward](#20-accept-that-time-moves-forward)
+  - [21. Let regret become wisdom](#21-let-regret-become-wisdom)
+  - [22. Wisdom comes with time](#22-wisdom-comes-with-time)
+  - [23. Life is long enough when it is used well](#23-life-is-long-enough-when-it-is-used-well)
+  - [24. Know the destination](#24-know-the-destination)
+  - [25. Speak with purpose, not compulsion](#25-speak-with-purpose-not-compulsion)
+  - [26. Do not live in the minds of others](#26-do-not-live-in-the-minds-of-others)
 - [Character and Integrity](#character-and-integrity)
   - [1. Speak about others with care](#1-speak-about-others-with-care)
   - [2. Let repeated actions define identity](#2-let-repeated-actions-define-identity)
@@ -656,7 +657,21 @@ Learn from past decisions without becoming attached to the lives they might have
 
 The road not taken asks for imagination. The road ahead asks for attention.
 
-### 20. Let regret become wisdom
+### 20. Accept that time moves forward
+
+> The past may be remembered, but it cannot be returned to.
+
+There are people, places and periods of life we may wish to experience again. Memory can preserve their importance, but it cannot preserve the circumstances that made them possible.
+
+In the Irish legend of Oisín and Tír na nÓg, Oisín returns to Ireland after centuries away, only to discover that everyone and everything he once knew has passed. Even in a land of eternal youth, he could not prevent the world he loved from changing.
+
+Time changes the world around us, just as experience changes who we are. To long for what has passed is natural, but to expect its return is to ask of life something it cannot give.
+
+Appreciate what was good without allowing its absence to diminish what remains.
+
+The past deserves remembrance. The present deserves our attention.
+
+### 21. Let regret become wisdom
 
 > Regret should teach us how to live, not keep us living in the past.
 
@@ -672,7 +687,7 @@ Once the lesson has been understood, returning endlessly to the mistake serves l
 
 The past deserves an honest examination, but it does not deserve the rest of our lives.
 
-### 21. Wisdom comes with time
+### 22. Wisdom comes with time
 
 > We cannot expect our younger selves to possess the wisdom that experience has yet to teach.
 
@@ -686,7 +701,7 @@ And just as we look back on our younger selves today, we may one day look back o
 
 The wisdom we wish we had yesterday is the wisdom we have available to use today.
 
-### 22. Life is long enough when it is used well
+### 23. Life is long enough when it is used well
 
 > Life is long enough when it is used well.
 
@@ -700,7 +715,7 @@ Rest, play and unhurried company can be good uses of time. An afternoon need not
 
 Length of life is never assured. Give this day enough attention that some of what matters has a place in it.
 
-### 23. Know the destination
+### 24. Know the destination
 
 > If a person knows no destination, no wind is favourable.
 
@@ -714,7 +729,7 @@ A clear destination also gives a reason to decline. Something can be worthwhile 
 
 Review the direction as understanding grows, and adapt the route when circumstances require it. A setback may call for another approach; an unexpected opening may offer a better one. Keep the purpose clear enough to recognise when the wind can help.
 
-### 24. Speak with purpose, not compulsion
+### 25. Speak with purpose, not compulsion
 
 > Speak honestly, listen fairly, and remain at peace with the outcome.
 
@@ -726,7 +741,7 @@ A contribution need not change anyone's mind to have value. Giving a considered 
 
 Agreement lies beyond one person's control. Once a view has been offered with care, allow others to receive it as they choose. Neither silence nor speaking is always the wiser course; the judgement and character behind the choice matter more than winning the debate.
 
-### 25. Do not live in the minds of others
+### 26. Do not live in the minds of others
 
 > We often give more thought to what others think of us than they give to us at all.
 
