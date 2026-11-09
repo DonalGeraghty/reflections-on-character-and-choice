@@ -27,7 +27,7 @@ Give time and attention a purpose. Choose how to work, learn, rest and enjoy lif
 
 A present feeling does not always provide a complete account of what follows. Recall the satisfaction after worthwhile effort and the cost after fleeting pleasure before making the next choice.
 
-*Explore:* [Remember how it feels afterwards](#11-remember-how-it-feels-afterwards) · [Remember what experience has taught](#17-remember-what-experience-has-taught)
+*Explore:* [Remember how it feels afterwards](#11-remember-how-it-feels-afterwards) · [Remember what experience has taught](#18-remember-what-experience-has-taught)
 
 ### 📅 Prepare when circumstances are favourable
 
@@ -39,7 +39,7 @@ Make decisions while calm and rested. Plans, routines and a prepared environment
 
 Honesty, fairness, patience and care remain worth practising even when agreement, recognition or a preferred outcome cannot be secured.
 
-*Explore:* [Recognise what is up to us](#1-recognise-what-is-up-to-us) · [Speak with purpose, not compulsion](#23-speak-with-purpose-not-compulsion)
+*Explore:* [Recognise what is up to us](#1-recognise-what-is-up-to-us) · [Speak with purpose, not compulsion](#24-speak-with-purpose-not-compulsion)
 
 ### 🌿 Make room for enjoyment and recovery
 
@@ -83,29 +83,30 @@ The chapters follow this path, while each reflection remains a reminder that can
   - [14. Choose how far to pursue mastery](#14-choose-how-far-to-pursue-mastery)
 - [Stoic Wisdom](#stoic-wisdom)
   - [1. Recognise what is up to us](#1-recognise-what-is-up-to-us)
-  - [2. Pause between the event and the judgement](#2-pause-between-the-event-and-the-judgement)
-  - [3. Examine the weight added by judgement](#3-examine-the-weight-added-by-judgement)
-  - [4. A calm mind is a stronger fortress than anger](#4-a-calm-mind-is-a-stronger-fortress-than-anger)
-  - [5. Meet this moment with reason and good character](#5-meet-this-moment-with-reason-and-good-character)
-  - [6. Embody the philosophy](#6-embody-the-philosophy)
-  - [7. Seek mastery over desire](#7-seek-mastery-over-desire)
-  - [8. Keep appetite within the bounds of choice](#8-keep-appetite-within-the-bounds-of-choice)
-  - [9. Wanting less is often easier than acquiring more](#9-wanting-less-is-often-easier-than-acquiring-more)
-  - [10. Find freedom from excess](#10-find-freedom-from-excess)
-  - [11. Simple living leaves more room for good living](#11-simple-living-leaves-more-room-for-good-living)
-  - [12. Endurance is easier when the purpose is clear](#12-endurance-is-easier-when-the-purpose-is-clear)
-  - [13. Turn obstacles into opportunities](#13-turn-obstacles-into-opportunities)
-  - [14. Make room for a new beginning](#14-make-room-for-a-new-beginning)
-  - [15. Not everything that leaves is a loss](#15-not-everything-that-leaves-is-a-loss)
-  - [16. Allow the awkwardness of learning](#16-allow-the-awkwardness-of-learning)
-  - [17. Remember what experience has taught](#17-remember-what-experience-has-taught)
-  - [18. The road not taken](#18-the-road-not-taken)
-  - [19. Let regret become wisdom](#19-let-regret-become-wisdom)
-  - [20. Wisdom comes with time](#20-wisdom-comes-with-time)
-  - [21. Life is long enough when it is used well](#21-life-is-long-enough-when-it-is-used-well)
-  - [22. Know the destination](#22-know-the-destination)
-  - [23. Speak with purpose, not compulsion](#23-speak-with-purpose-not-compulsion)
-  - [24. Do not live in the minds of others](#24-do-not-live-in-the-minds-of-others)
+  - [2. Do not carry the weight of the world](#2-do-not-carry-the-weight-of-the-world)
+  - [3. Pause between the event and the judgement](#3-pause-between-the-event-and-the-judgement)
+  - [4. Examine the weight added by judgement](#4-examine-the-weight-added-by-judgement)
+  - [5. A calm mind is a stronger fortress than anger](#5-a-calm-mind-is-a-stronger-fortress-than-anger)
+  - [6. Meet this moment with reason and good character](#6-meet-this-moment-with-reason-and-good-character)
+  - [7. Embody the philosophy](#7-embody-the-philosophy)
+  - [8. Seek mastery over desire](#8-seek-mastery-over-desire)
+  - [9. Keep appetite within the bounds of choice](#9-keep-appetite-within-the-bounds-of-choice)
+  - [10. Wanting less is often easier than acquiring more](#10-wanting-less-is-often-easier-than-acquiring-more)
+  - [11. Find freedom from excess](#11-find-freedom-from-excess)
+  - [12. Simple living leaves more room for good living](#12-simple-living-leaves-more-room-for-good-living)
+  - [13. Endurance is easier when the purpose is clear](#13-endurance-is-easier-when-the-purpose-is-clear)
+  - [14. Turn obstacles into opportunities](#14-turn-obstacles-into-opportunities)
+  - [15. Make room for a new beginning](#15-make-room-for-a-new-beginning)
+  - [16. Not everything that leaves is a loss](#16-not-everything-that-leaves-is-a-loss)
+  - [17. Allow the awkwardness of learning](#17-allow-the-awkwardness-of-learning)
+  - [18. Remember what experience has taught](#18-remember-what-experience-has-taught)
+  - [19. The road not taken](#19-the-road-not-taken)
+  - [20. Let regret become wisdom](#20-let-regret-become-wisdom)
+  - [21. Wisdom comes with time](#21-wisdom-comes-with-time)
+  - [22. Life is long enough when it is used well](#22-life-is-long-enough-when-it-is-used-well)
+  - [23. Know the destination](#23-know-the-destination)
+  - [24. Speak with purpose, not compulsion](#24-speak-with-purpose-not-compulsion)
+  - [25. Do not live in the minds of others](#25-do-not-live-in-the-minds-of-others)
 - [Character and Integrity](#character-and-integrity)
   - [1. Speak about others with care](#1-speak-about-others-with-care)
   - [2. Let repeated actions define identity](#2-let-repeated-actions-define-identity)
@@ -397,7 +398,23 @@ Acceptance begins with recognising the conditions that actually exist. A missed 
 
 Return attention to the responsibility within reach. What response would be reasonable? What action would reflect good character? Enough work may already be waiting there, without taking on the impossible task of deciding everything that follows.
 
-### 2. Pause between the event and the judgement
+### 2. Do not carry the weight of the world
+
+> The troubles of the world are not ours alone to bear.
+
+There will always be suffering, injustice and difficulties beyond our immediate lives. Awareness of these problems can bring concern, even when there is little we can do to change them.
+
+Compassion is a virtue, but it does not require us to carry every burden. Concern that leads to useful action has value; worry that merely consumes our attention may serve no one.
+
+Give care where it can make a difference. Fulfil the responsibilities within reach, support others where possible and accept that much of the world will remain beyond our influence.
+
+Our own lives deserve attention too. There is character to develop, health to maintain, relationships to nurture and worthwhile experiences to pursue. These responsibilities are not diminished by the existence of greater problems elsewhere.
+
+We can acknowledge the difficulties of the world without allowing them to govern our peace of mind.
+
+Caring about everything does not mean carrying everything.
+
+### 3. Pause between the event and the judgement
 
 > Pause between the event and the judgement of it.
 
@@ -409,7 +426,7 @@ The first feeling may arrive without invitation. Allow it to be noticed while it
 
 Where clarification is possible, seek it. Ask what was meant, check a detail or allow time for a fuller account. Where action cannot wait, make the best decision available while recognising what remains uncertain. A judgement can be provisional and still support a necessary response.
 
-### 3. Examine the weight added by judgement
+### 4. Examine the weight added by judgement
 
 > Meet the burden without adding to it.
 
@@ -423,7 +440,7 @@ Some burdens remain substantial even when approached calmly. Pain, grief and exh
 
 Attend to the part that can be made lighter. Set aside an unhelpful prediction, ask for assistance or bring attention back to the next manageable action. Give the situation the effort it requires, with as little additional struggle as judgement can reasonably spare.
 
-### 4. A calm mind is a stronger fortress than anger
+### 5. A calm mind is a stronger fortress than anger
 
 > A calm mind is a stronger fortress than anger.
 
@@ -437,7 +454,7 @@ Anger may arise before there is time to consider it. Its arrival need not settle
 
 The fortress is the ability to keep judgement available under pressure. Let the response reflect the conduct worth practising, including when another person's conduct makes that difficult.
 
-### 5. Meet this moment with reason and good character
+### 6. Meet this moment with reason and good character
 
 > This moment can be met with reason and good character.
 
@@ -449,7 +466,7 @@ Character gives direction to the action that follows. A reply can be honest and 
 
 There is no need to settle the whole future before taking the next step. Attend to the demand close enough to act upon: listen properly, establish a fact, fulfil a responsibility or ask for time to think. A difficult situation can be approached through one reasonable action at a time.
 
-### 6. Embody the philosophy
+### 7. Embody the philosophy
 
 > Let philosophy take shape in conduct.
 
@@ -461,7 +478,7 @@ There is no need for every deliberate choice to be announced. A confidence can b
 
 Where conduct falls short of a principle, attend to the gap. Acknowledge what happened, make a repair where possible and practise the better response at the next opportunity. Further explanation has limited value if the same behaviour continues unchanged.
 
-### 7. Seek mastery over desire
+### 8. Seek mastery over desire
 
 > Seek to master desires rather than the world.
 
@@ -473,7 +490,7 @@ Work towards worthwhile ends with care. Prepare, speak clearly and make a reason
 
 Approval may be welcome, yet an honest decision can stand without it. A plan may be preferred, yet remain open to revision. Hold the intention firmly enough to act and the expectation lightly enough to adapt.
 
-### 8. Keep appetite within the bounds of choice
+### 9. Keep appetite within the bounds of choice
 
 > No person is free who is a slave to appetite.
 
@@ -485,7 +502,7 @@ A pause allows a choice. Is this still enjoyable? Is there a reason to continue?
 
 Necessary needs deserve care, and pleasure has a place in a good life. Enjoy a meal, take rest and welcome an experience worth having. The useful limit is one that allows enjoyment without repeatedly surrendering other things that matter. Enough should remain a possible stopping point.
 
-### 9. Wanting less is often easier than acquiring more
+### 10. Wanting less is often easier than acquiring more
 
 > Wanting less is often easier than acquiring more.
 
@@ -499,7 +516,7 @@ There is room for worthwhile ambition and for improving difficult circumstances.
 
 Give enough a clear meaning before the next comparison changes it. Something already useful need not become inadequate merely because a newer version exists.
 
-### 10. Find freedom from excess
+### 11. Find freedom from excess
 
 > A disciplined life is not deprivation; it is freedom from excess.
 
@@ -511,7 +528,7 @@ Discipline gives competing wants some order. A budget reserves money for chosen 
 
 Judge a limit by what it protects and makes possible. Rest, good food and an afternoon enjoyed for its own sake belong in that judgement too. Discipline should help give each worthwhile part of life its share.
 
-### 11. Simple living leaves more room for good living
+### 12. Simple living leaves more room for good living
 
 > Simple living leaves more room for good living.
 
@@ -525,7 +542,7 @@ Simplicity can also mean leaving time uncommitted. A free evening allows rest, c
 
 Leave some of the space genuinely free. A cleared room need not be filled again, and an uncommitted evening need not acquire another obligation. Let the simpler arrangement be lived with long enough to enjoy it.
 
-### 12. Endurance is easier when the purpose is clear
+### 13. Endurance is easier when the purpose is clear
 
 > Endurance is easier when the purpose is clear.
 
@@ -537,7 +554,7 @@ During a difficult stretch, bring the purpose back to the scale of the next acti
 
 Purpose also gives endurance something to answer to. If the effort no longer serves the intended end, its direction deserves examination. Continuing out of habit or pride can consume the same energy that a better approach would put to use. A worthwhile reason can support both persistence and a sensible change of course.
 
-### 13. Turn obstacles into opportunities
+### 14. Turn obstacles into opportunities
 
 > What stands in the way becomes the way.
 
@@ -553,7 +570,7 @@ Sometimes wisdom means persevering. Sometimes it means changing direction or wal
 
 Progress is not always made by removing obstacles. Sometimes it is made through the way they are met.
 
-### 14. Make room for a new beginning
+### 15. Make room for a new beginning
 
 > Every new beginning comes from some other beginning's end.
 
@@ -567,7 +584,7 @@ A new beginning needs room in daily life. A different commitment may require tim
 
 The next stage may remain uncertain for a while. There is no need to force an immediate replacement for everything lost. Take what has been learnt, attend to the present responsibilities and allow a first step to be small. An ending can be acknowledged fully while life continues to open beyond it.
 
-### 15. Not everything that leaves is a loss
+### 16. Not everything that leaves is a loss
 
 > What is lost may also bring freedom.
 
@@ -581,7 +598,7 @@ Rather than measuring only what has gone, consider what its absence makes possib
 
 Sometimes, having less means gaining more.
 
-### 16. Allow the awkwardness of learning
+### 17. Allow the awkwardness of learning
 
 > Be willing to look foolish for a while.
 
@@ -593,7 +610,7 @@ Ask the question that would make the next step clearer. Accept a correction, try
 
 Choose whose judgement deserves weight. Helpful instruction and fair criticism can serve the work. Passing amusement need not decide whether it continues. A beginner deserves the chance to become more capable through practice.
 
-### 17. Remember what experience has taught
+### 18. Remember what experience has taught
 
 > Let the lessons of experience speak louder than the feelings of the moment.
 
@@ -623,7 +640,7 @@ Experience becomes useful wisdom when its lessons begin to shape the next decisi
 > [!NOTE]
 > **The common thread:** A passing feeling can overshadow what experience has already taught. Remember the whole experience before deciding.
 
-### 18. The road not taken
+### 19. The road not taken
 
 > The path not chosen is imagined; the path taken is lived.
 
@@ -639,7 +656,7 @@ Learn from past decisions without becoming attached to the lives they might have
 
 The road not taken asks for imagination. The road ahead asks for attention.
 
-### 19. Let regret become wisdom
+### 20. Let regret become wisdom
 
 > Regret should teach us how to live, not keep us living in the past.
 
@@ -655,7 +672,7 @@ Once the lesson has been understood, returning endlessly to the mistake serves l
 
 The past deserves an honest examination, but it does not deserve the rest of our lives.
 
-### 20. Wisdom comes with time
+### 21. Wisdom comes with time
 
 > We cannot expect our younger selves to possess the wisdom that experience has yet to teach.
 
@@ -669,7 +686,7 @@ And just as we look back on our younger selves today, we may one day look back o
 
 The wisdom we wish we had yesterday is the wisdom we have available to use today.
 
-### 21. Life is long enough when it is used well
+### 22. Life is long enough when it is used well
 
 > Life is long enough when it is used well.
 
@@ -683,7 +700,7 @@ Rest, play and unhurried company can be good uses of time. An afternoon need not
 
 Length of life is never assured. Give this day enough attention that some of what matters has a place in it.
 
-### 22. Know the destination
+### 23. Know the destination
 
 > If a person knows no destination, no wind is favourable.
 
@@ -697,7 +714,7 @@ A clear destination also gives a reason to decline. Something can be worthwhile 
 
 Review the direction as understanding grows, and adapt the route when circumstances require it. A setback may call for another approach; an unexpected opening may offer a better one. Keep the purpose clear enough to recognise when the wind can help.
 
-### 23. Speak with purpose, not compulsion
+### 24. Speak with purpose, not compulsion
 
 > Speak honestly, listen fairly, and remain at peace with the outcome.
 
@@ -709,7 +726,7 @@ A contribution need not change anyone's mind to have value. Giving a considered 
 
 Agreement lies beyond one person's control. Once a view has been offered with care, allow others to receive it as they choose. Neither silence nor speaking is always the wiser course; the judgement and character behind the choice matter more than winning the debate.
 
-### 24. Do not live in the minds of others
+### 25. Do not live in the minds of others
 
 > We often give more thought to what others think of us than they give to us at all.
 
