@@ -665,6 +665,10 @@ There are people, places and periods of life we may wish to experience again. Me
 
 In the Irish legend of Oisín and Tír na nÓg, Oisín returns to Ireland after centuries away, only to discover that everyone and everything he once knew has passed. Even in a land of eternal youth, he could not prevent the world he loved from changing.
 
+![Oisín and Niamh on a white horse overlooking the distant shores of Tír na nÓg, in a classical Irish illustrated-book style.](site/public/images/illustrations/oisin-tir-na-nog.svg)
+
+*Oisín and Niamh look towards Tír na nÓg, the land of eternal youth.*
+
 Time changes the world around us, just as experience changes who we are. To long for what has passed is natural, but to expect its return is to ask of life something it cannot give.
 
 Appreciate what was good without allowing its absence to diminish what remains.
