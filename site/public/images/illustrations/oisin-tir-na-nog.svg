@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+<title id="title">Oisín and Niamh looking towards Tír na nÓg</title>
+<desc id="desc">A classical Irish storybook illustration: Oisín and Niamh on a white horse overlooking a golden island across the sea at twilight.</desc>
+<defs>
+ <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#607993"/><stop offset=".48" stop-color="#a5a1a0"/><stop offset=".8" stop-color="#d8b48c"/><stop offset="1" stop-color="#f2d6a2"/></linearGradient>
+ <linearGradient id="sea" x2="0" y2="1"><stop stop-color="#738da0"/><stop offset=".52" stop-color="#4b6982"/><stop offset="1" stop-color="#344e67"/></linearGradient>
+ <linearGradient id="land" x2="0" y2="1"><stop stop-color="#8d9778"/><stop offset="1" stop-color="#49594e"/></linearGradient>
+ <linearGradient id="robe" x2="1" y2="1"><stop stop-color="#eee5cf"/><stop offset="1" stop-color="#c6a77c"/></linearGradient>
+ <linearGradient id="horse" x2=".2" y2="0" x1=".7" y1="1"><stop stop-color="#f5efe0"/><stop offset=".65" stop-color="#d2d1bf"/><stop offset="1" stop-color="#979d97"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#ffe7a4" stop-opacity=".85"/><stop offset="1" stop-color="#ffe7a4" stop-opacity="0"/></radialGradient>
+ <pattern id="paper" width="37" height="43" patternUnits="userSpaceOnUse"><circle cx="6" cy="9" r="1.3" fill="#f1dcc0" opacity=".25"/><path d="M7 29l12-5m8 13 6-8" stroke="#e3c69d" opacity=".12"/></pattern>
+ <filter id="soft"><feGaussianBlur stdDeviation="2"/></filter>
+</defs>
+<rect width="1200" height="760" fill="#d9c5a4"/>
+<rect x="19" y="19" width="1162" height="722" fill="#f0e1c7" stroke="#99794b" stroke-width="4"/>
+<rect x="33" y="33" width="1134" height="694" fill="url(#sky)" stroke="#c6a36a" stroke-width="2"/>
+<path d="M33 400Q185 365 325 402T604 398T873 401T1167 400V727H33Z" fill="url(#sea)"/>
+<ellipse cx="928" cy="344" rx="275" ry="172" fill="url(#glow)"/>
+<circle cx="930" cy="304" r="56" fill="#f7e1a5" opacity=".78" filter="url(#soft)"/>
+<path d="M615 403q62-45 115-38t106-41q32-17 63-8l57-17q34-3 75 40l98 65Z" fill="#647d71"/>
+<path d="M641 401q67-33 132-28t123-33q52-29 109-1l110 64Z" fill="#9d9b77"/>
+<path d="M765 371l16-81 10 81m37-5 18-98 13 97m52-24 14-87 12 93m65 18 11-104 12 106" stroke="#485f50" stroke-width="16" stroke-linecap="round"/>
+<path d="M740 376q28-75 46-61 29 8 49 50m-24 2q30-98 51-78 27 7 46 63m-13 0q34-85 56-61 29 13 40 63m-7 5q37-80 66-48 22 12 34 55" stroke="#506d54" fill="none" stroke-width="28" stroke-linecap="round"/>
+<path d="M33 469q194-27 396 9t378-1q184-45 360-4M33 535q233-49 468-6t426-4q135-23 240-9M33 633q192-30 356-7t374-3q203-47 404-9" fill="none" stroke="#a6b3af" stroke-width="4" opacity=".52"/>
+<path d="M33 587Q170 521 306 554q68 28 137 57l112 116H33Z" fill="#5d6b59"/>
+<path d="M33 625q122-70 256-42l126 144H33Z" fill="url(#land)"/>
+<path d="M145 584q39-95 96-123 42-17 64 30 30 40 15 105l-67 94-104-10Z" fill="url(#horse)" stroke="#89908a" stroke-width="6"/>
+<path d="M291 472q39-48 85-32l37 46-5 86-46 23-68-44Z" fill="url(#horse)" stroke="#929a95" stroke-width="5"/>
+<path d="M366 452q25-29 51-12l31 23-23 18-35 3" fill="#d8d8c8" stroke="#8c9693" stroke-width="5"/>
+<path d="M412 469l20 7-19 8" fill="#b8b7ad"/>
+<circle cx="412" cy="455" r="5" fill="#394448"/>
+<path d="M322 472q-42-49-65-78-31 18-24 52l16 63" fill="none" stroke="#c9c7b3" stroke-width="23" stroke-linecap="round"/>
+<path d="M161 599l-28 128m98-123 8 123m53-139 54 139m-23-128 87 128" stroke="#d2d1c0" stroke-width="25" stroke-linecap="round"/>
+<path d="M159 555q-46-44-92-54 42 67 92 85" fill="#c8c8b7"/>
+<!-- Niamh, golden hair and embroidered ivory cloak -->
+<path d="M142 302q-26 2-37 36-4 36 29 58l45-19 5-47q-12-28-42-28" fill="#b98750"/>
+<path d="M128 321q-49 23-58 80-11 30-25 36 43-2 70-47l34-33" fill="#bf8b4e"/>
+<path d="M116 374q8-35 37-37 39-5 52 43l-14 77-53 47-74-15 40-84" fill="url(#robe)" stroke="#a99169" stroke-width="4"/>
+<path d="M132 388l-31 94m54-94-22 111" stroke="#b6a06f" stroke-width="5" opacity=".8"/>
+<path d="M176 418q47 6 84 29" fill="none" stroke="#e4ceaa" stroke-width="14" stroke-linecap="round"/>
+<circle cx="151" cy="321" r="28" fill="#ead1ad"/>
+<path d="M121 314q4-36 32-35 35 4 31 36-23-18-36-12-12 13-27 11" fill="#aa7744"/>
+<path d="M117 300q33-43 69-2" stroke="#b18c50" stroke-width="8" fill="none"/>
+<!-- Oisín, dark cloak -->
+<path d="M225 302q11-35 43-35 35 10 37 42l-21 34-47-8" fill="#5f4d3e"/>
+<path d="M243 315q-25 34-34 83l-18 71 90 29 60-29-26-93-30-56" fill="#41564c" stroke="#39493f" stroke-width="5"/>
+<path d="M265 318q-12-14-9-37 6-25 30-23 32 6 30 35l-8 31" fill="#d2ad87"/>
+<path d="M251 286q15-55 48-39 34 10 26 50l-23-18-29 15" fill="#493c34"/>
+<path d="M241 373q27 34 53 33l39 16" stroke="#45594e" stroke-width="17" fill="none" stroke-linecap="round"/>
+<circle cx="303" cy="350" r="15" fill="#aa925c" stroke="#d4bd80" stroke-width="4"/>
+<path d="M33 33H1167V727H33Z" fill="url(#paper)" opacity=".5"/>
+<path d="M52 85q0-28 28-28h49M1148 85q0-28-28-28h-49M52 675q0 28 28 28h49M1148 675q0 28-28 28h-49" fill="none" stroke="#b08a55" stroke-width="4"/>
+<rect x="19" y="19" width="1162" height="722" fill="none" stroke="#987846" stroke-width="3"/>
+</svg>
