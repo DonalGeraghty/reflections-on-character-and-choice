@@ -27,6 +27,12 @@ try {
   const { chapters, principles, meta } = await server.ssrLoadModule('/src/utils.js');
   const { explorerKeys } = await server.ssrLoadModule('/src/components/ReflectionExplorer.jsx');
   const expectedExplorerKeys = chapters.flatMap(ch => ch.reflections.map(r => `${ch.slug}/${r.slug}`));
+  const illustrated = chapters.find(ch => ch.slug === 'stoic-wisdom')
+    ?.reflections.find(r => r.slug === '20-accept-that-time-moves-forward');
+  const illustration = illustrated?.blocks.find(b => b.type === 'image');
+  assert.ok(illustration, 'Oisín illustration should be parsed from README');
+  assert.equal(illustration.src, 'images/illustrations/oisin-tir-na-nog.svg');
+  assert.ok(illustration.caption?.includes('Tír na nÓg'), 'image caption should be parsed');
   assert.deepEqual([...explorerKeys].sort(), [...expectedExplorerKeys].sort(),
     'every reflection must have exactly one reading aid, with no stale routes');
 
