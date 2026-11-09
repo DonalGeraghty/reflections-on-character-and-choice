@@ -35,6 +35,18 @@ export function Blocks({ blocks }) {
     <>
       {blocks.map((b, i) => {
         if (b.type === 'p') return <p key={i}><Inline text={b.text} /></p>;
+        if (b.type === 'image') {
+          const src = b.src.startsWith('images/')
+            ? `${import.meta.env.BASE_URL}${b.src}`
+            : b.src;
+          return (
+            <figure key={i} className="reflection-illustration">
+              <img className="reflection-illustration__image" src={src} alt={b.alt || ''}
+                loading="lazy" decoding="async" />
+              {b.caption && <figcaption className="reflection-illustration__caption">{b.caption}</figcaption>}
+            </figure>
+          );
+        }
         if (b.type === 'subtitle')
           return (
             <h4 key={i} className="block-subtitle">
