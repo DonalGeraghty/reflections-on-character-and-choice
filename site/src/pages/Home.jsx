@@ -2,6 +2,7 @@ import { useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { Callout, Phrase } from '../components/Blocks.jsx';
 import { chapters, meta, principles, reflectionUrl } from '../utils.js';
+import '../components/ThoughtCard.css';
 
 export default function Home() {
   useEffect(() => {
@@ -57,6 +58,13 @@ export default function Home() {
             {p}
           </p>
         ))}
+      </section>
+
+      <section className="cabinet-teaser" aria-labelledby="cabinet-teaser-heading">
+        <span className="thought-card-kicker">The Thought Cabinet</span>
+        <h2 id="cabinet-teaser-heading">Ideas are meant to be lived.</h2>
+        <p>Each reflection has a second side: what it cultivates and what can happen when the principle is carried too far. Keep the thoughts you wish to revisit, without mistaking a saved thought for a practised virtue.</p>
+        <Link to="/cabinet">Open your Thought Cabinet</Link>
       </section>
 
       <section className="chapter-index" aria-labelledby="chapters-heading">
