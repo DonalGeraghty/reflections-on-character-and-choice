@@ -4,6 +4,7 @@ import Sidebar from './components/Sidebar.jsx';
 import TopBar from './components/TopBar.jsx';
 import Home from './pages/Home.jsx';
 import ChapterPage from './pages/ChapterPage.jsx';
+import CabinetPage from './pages/CabinetPage.jsx';
 
 export default function App() {
   const [theme, setTheme] = useState(() => document.documentElement.dataset.theme || 'light');
@@ -29,6 +30,7 @@ export default function App() {
         <main className="content">
           <Routes>
             <Route path="/" element={<Home />} />
+            <Route path="/cabinet" element={<CabinetPage />} />
             <Route path="/:chapterSlug/:reflectionSlug" element={<ChapterPage />} />
             <Route path="/:chapterSlug" element={<ChapterPage />} />
             <Route path="*" element={<Navigate to="/" replace />} />
