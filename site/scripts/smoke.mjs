@@ -24,9 +24,16 @@ try {
   const { default: Home } = await server.ssrLoadModule('/src/pages/Home.jsx');
   const { default: ChapterPage } = await server.ssrLoadModule('/src/pages/ChapterPage.jsx');
   const { default: Sidebar } = await server.ssrLoadModule('/src/components/Sidebar.jsx');
+  const { default: CabinetPage } = await server.ssrLoadModule('/src/pages/CabinetPage.jsx');
+  const { thoughts, thoughtId } = await server.ssrLoadModule('/src/content/cabinet.js');
   const { chapters, principles, meta } = await server.ssrLoadModule('/src/utils.js');
   const { explorerKeys } = await server.ssrLoadModule('/src/components/ReflectionExplorer.jsx');
   const expectedExplorerKeys = chapters.flatMap(ch => ch.reflections.map(r => `${ch.slug}/${r.slug}`));
+  assert.equal(Object.keys(thoughts).length, 67, 'every reflection has its own cabinet thought');
+  for (const ch of chapters) for (const r of ch.reflections) {
+    assert.ok(thoughts[thoughtId(r.title)]?.cultivates, `missing strength: ${r.title}`);
+    assert.ok(thoughts[thoughtId(r.title)]?.caution, `missing caution: ${r.title}`);
+  }
   assert.equal(chapters.length, 9, 'nine thematic chapters expected');
   assert.ok(chapters.every(ch => ch.reflections.length >= 7 && ch.reflections.length <= 8), 'chapters should be balanced');
   const illustrated = chapters.find(ch => ch.slug === 'change-and-learning')
@@ -60,6 +67,10 @@ try {
     assert.ok(includes(home, t.title), `home: theme "${t.title}" missing`);
   }
   assert.ok(includes(home, 'Chapters'), 'home: chapter index missing');
+  assert.ok(includes(home, 'Open your Thought Cabinet'), 'home: cabinet entry missing');
+  const cabinetPage = render(h(CabinetPage), '/cabinet');
+  assert.ok(includes(cabinetPage, 'The Thought Cabinet'), 'cabinet: title missing');
+  assert.ok(includes(cabinetPage, 'Draw a reflection'), 'cabinet: draw action missing');
 
   // --- sidebar ---
   const sidebar = render(h(Sidebar, { open: false, onClose: () => {} }), '/');
@@ -85,6 +96,7 @@ try {
       assert.ok(includes(html, r.phrase), `chapter ${ch.slug}: phrase of "${r.title}" missing`);
       const section = html.split(`id="${r.slug}"`)[1]?.split('</section>')[0];
       assert.ok(section?.includes('reflection-explorer'), `reflection ${r.slug}: reading aid missing`);
+      assert.ok(section?.includes('thought-card'), `reflection ${r.slug}: thought cabinet card missing`);
     }
   }
 
