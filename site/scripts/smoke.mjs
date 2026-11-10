@@ -27,8 +27,10 @@ try {
   const { chapters, principles, meta } = await server.ssrLoadModule('/src/utils.js');
   const { explorerKeys } = await server.ssrLoadModule('/src/components/ReflectionExplorer.jsx');
   const expectedExplorerKeys = chapters.flatMap(ch => ch.reflections.map(r => `${ch.slug}/${r.slug}`));
-  const illustrated = chapters.find(ch => ch.slug === 'stoic-wisdom')
-    ?.reflections.find(r => r.slug === '20-accept-that-time-moves-forward');
+  assert.equal(chapters.length, 9, 'nine thematic chapters expected');
+  assert.ok(chapters.every(ch => ch.reflections.length >= 7 && ch.reflections.length <= 8), 'chapters should be balanced');
+  const illustrated = chapters.find(ch => ch.slug === 'change-and-learning')
+    ?.reflections.find(r => r.slug === '6-accept-that-time-moves-forward');
   const illustration = illustrated?.blocks.find(b => b.type === 'image');
   assert.ok(illustration, 'Oisín illustration should be parsed from README');
   assert.equal(illustration.src, 'images/illustrations/oisin-tir-na-nog.svg');
@@ -87,8 +89,10 @@ try {
   }
 
   // --- deep link route renders the same page ---
-  const deep = render(routes, '/stoic-wisdom/16-not-everything-that-leaves-is-a-loss');
+  const deep = render(routes, '/change-and-learning/2-not-everything-that-leaves-is-a-loss');
   assert.ok(includes(deep, 'Not everything that leaves is a loss'), 'deep link target missing');
+  const previous = render(routes, '/stoic-wisdom/20-accept-that-time-moves-forward');
+  assert.ok(previous.includes('change-and-learning/6-accept-that-time-moves-forward'), 'old reflection links should redirect');
 
   console.log(`smoke: home, sidebar and all ${chapters.length} chapter pages render with expected content`);
 } finally {
