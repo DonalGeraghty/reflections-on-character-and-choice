@@ -103,8 +103,9 @@ try {
   // --- deep link route renders the same page ---
   const deep = render(routes, '/change-and-learning/2-not-everything-that-leaves-is-a-loss');
   assert.ok(includes(deep, 'Not everything that leaves is a loss'), 'deep link target missing');
-  const previous = render(routes, '/stoic-wisdom/20-accept-that-time-moves-forward');
-  assert.ok(previous.includes('change-and-learning/6-accept-that-time-moves-forward'), 'old reflection links should redirect');
+  const { legacyRoutes } = await server.ssrLoadModule('/src/content/legacy-routes.js');
+  assert.equal(legacyRoutes['/stoic-wisdom/20-accept-that-time-moves-forward'],
+    '/change-and-learning/6-accept-that-time-moves-forward', 'old reflection links should redirect');
 
   console.log(`smoke: home, sidebar and all ${chapters.length} chapter pages render with expected content`);
 } finally {
