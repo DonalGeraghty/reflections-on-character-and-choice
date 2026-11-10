@@ -2,6 +2,8 @@ import { useMemo } from 'react';
 import { Link, useLocation, useNavigate } from 'react-router-dom';
 import BranchedMenu from './BranchedMenu.jsx';
 import { chapters, meta, reflectionIndex } from '../utils.js';
+import { useCabinet } from './CabinetContext.jsx';
+import './ThoughtCard.css';
 
 const HOME = '__home';
 
@@ -11,6 +13,7 @@ const THEME_COLORS = {
 };
 
 export default function Sidebar({ open, onClose, theme = 'light' }) {
+  const { saved } = useCabinet();
   const navigate = useNavigate();
   const location = useLocation();
   const [, chapterSlug, reflectionSlug] = location.pathname.split('/');
@@ -60,6 +63,9 @@ export default function Sidebar({ open, onClose, theme = 'light' }) {
         &amp; Choice
       </Link>
       <p className="sidebar-subtitle">{meta.subtitle}</p>
+      <Link to="/cabinet" className="sidebar-cabinet-link" onClick={onClose}>
+        ✧ Thought Cabinet{saved.length > 0 ? ` · ${saved.length} kept` : ''}
+      </Link>
       <BranchedMenu
         key={location.pathname}
         items={items}
