@@ -19,7 +19,10 @@ const headings = lines.flatMap((line, index) => {
   const match = line.match(/^(#{1,3}) (.+)$/);
   return match ? [{ level: match[1].length, text: match[2], index }] : [];
 });
-const anchors = new Set(headings.map(({ text }) => slugify(text)));
+const anchors = new Set([
+  ...headings.map(({ text }) => slugify(text)),
+  ...[...source.matchAll(/^<a id="([^"]+)"><\/a>$/gm)].map(([, id]) => id),
+]);
 for (const [, label, anchor] of source.matchAll(/\[([^\]]+)\]\(#([^)]+)\)/g)) {
   if (!anchors.has(anchor)) throw new Error(`Broken manuscript link: ${label} (#${anchor})`);
 }
