@@ -75,6 +75,7 @@ function parseBlocks(body) {
   while (j < body.length) {
     const line = body[j];
     if (!line.trim()) { flushPara(); j++; continue; }
+    if (/^<a id="[^"]+"><\/a>$/.test(line.trim())) { flushPara(); j++; continue; }
     const image = line.match(/^!\[([^\]]*)\]\((site\/public\/images\/[^)]+)\)$/);
     if (image) {
       flushPara();
