@@ -3,6 +3,7 @@ import { Navigate, useParams } from 'react-router-dom';
 import { Blocks, Phrase } from '../components/Blocks.jsx';
 import { chapters, meta } from '../utils.js';
 import ReflectionExplorer from '../components/ReflectionExplorer.jsx';
+import ThoughtCard from '../components/ThoughtCard.jsx';
 import { legacyRoutes } from '../content/legacy-routes.js';
 
 export default function ChapterPage() {
@@ -54,6 +55,7 @@ export default function ChapterPage() {
           <div className="reflection-body">
             <Blocks blocks={r.blocks} />
           </div>
+          <ThoughtCard reflection={r} />
           <ReflectionExplorer chapterSlug={chapter.slug} reflectionSlug={r.slug} />
         </section>
       ))}
