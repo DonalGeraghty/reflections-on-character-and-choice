@@ -3,6 +3,7 @@ import { Navigate, useParams } from 'react-router-dom';
 import { Blocks, Phrase } from '../components/Blocks.jsx';
 import { chapters, meta } from '../utils.js';
 import ReflectionExplorer from '../components/ReflectionExplorer.jsx';
+import { legacyRoutes } from '../content/legacy-routes.js';
 
 export default function ChapterPage() {
   const { chapterSlug, reflectionSlug } = useParams();
@@ -28,6 +29,8 @@ export default function ChapterPage() {
     window.scrollTo(0, 0);
   }, [chapterSlug, reflectionSlug]);
 
+  const requested = `/${chapterSlug}${reflectionSlug ? `/${reflectionSlug}` : ''}`;
+  if (legacyRoutes[requested]) return <Navigate to={legacyRoutes[requested]} replace />;
   if (!chapter) return <Navigate to="/" replace />;
 
   return (
