@@ -7,6 +7,10 @@ const reveal = (title, prompt, label, text) => ({ type: 'reveal', title, prompt,
 const choices = (title, prompt, ...items) => ({ type: 'choices', title, prompt, items });
 
 export const explorerDefinitions = {
+  'judgement-and-inner-freedom/8-above-the-clouds': reveal(
+    'Find perspective without abandoning responsibility', 'Think of a difficulty that has followed you longer than the event itself.',
+    'What might rising above it mean?', 'Separate what needs action from the meaning and resentment added afterwards. Meet any necessary responsibility, but do not let a passing storm decide the state of your mind.'),
+
   'change-and-learning/6-accept-that-time-moves-forward': reveal(
     'Remember without trying to return', 'Consider how memory can honour the past without displacing the present.',
     'What remains within reach?', 'Like Oisín returning from Tír na nÓg, we may find that the world has moved on. Cherish what was, and give the present the attention it deserves.'),
