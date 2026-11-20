@@ -91,6 +91,7 @@ On the interactive website, the **Thought Cabinet** invites a second reading of 
   - [5. A calm mind is a stronger fortress than anger](#5-a-calm-mind-is-a-stronger-fortress-than-anger)
   - [6. Meet this moment with reason and good character](#6-meet-this-moment-with-reason-and-good-character)
   - [7. Do not live in the minds of others](#7-do-not-live-in-the-minds-of-others)
+  - [8. Above the clouds](#8-above-the-clouds)
 - [Change and Learning](#change-and-learning)
   - [1. Make room for a new beginning](#1-make-room-for-a-new-beginning)
   - [2. Not everything that leaves is a loss](#2-not-everything-that-leaves-is-a-loss)
@@ -525,6 +526,22 @@ There is a quiet freedom in the thought, “I don't think about you at all.” N
 Give thought to your conduct, learn from what is useful and allow the rest to pass.
 
 We cannot control the place we hold in another person's mind, but we can choose how much space they occupy in ours.
+
+### 8. Above the clouds
+
+> A bird that flies above the clouds never feels the rain.
+
+Life brings storms we cannot prevent. Disappointment, conflict and uncertainty are inevitable, and circumstances will not always unfold according to our wishes.
+
+Yet there is a difference between experiencing difficulty and allowing it to disturb our inner peace. Often, it is not the event alone that troubles us, but the meaning we attach to it, the attention we give it and the resentment we allow to remain.
+
+Perspective offers a form of freedom. What feels overwhelming in the moment may become less significant when viewed from a greater distance. A criticism need not become an injury to our character. A setback need not become a judgement on our lives. A passing difficulty need not occupy the mind long after the event itself has ended.
+
+The bird does not command the clouds to part or the rain to cease. It simply rises beyond the storm.
+
+We cannot remain above every difficulty. Some storms must be entered, responsibilities met and hardships endured. But even then, we need not surrender our judgement or allow circumstances to determine the condition of our minds.
+
+**We cannot always choose the weather, but we can learn when to rise above it.**
 
 ---
 
