@@ -4,6 +4,11 @@ export const thoughtId = (title) => title.toLowerCase().replace(/[^\w\s-]/g, '')
 
 const entries = [
   [
+    "Above the clouds",
+    "Perspective that preserves composure during difficulty",
+    "Using detachment to evade genuine hardship or responsibility"
+  ],
+  [
     "Live while life is yours",
     "Attention to the finite time available",
     "Treating every quiet hour as a failure of ambition"
