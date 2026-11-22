@@ -4,6 +4,11 @@ export const thoughtId = (title) => title.toLowerCase().replace(/[^\w\s-]/g, '')
 
 const entries = [
   [
+    "Let kindness be the baseline",
+    "Goodwill as a practised starting disposition",
+    "Mistaking kindness for compliance or abandoning necessary boundaries"
+  ],
+  [
     "Above the clouds",
     "Perspective that preserves composure during difficulty",
     "Using detachment to evade genuine hardship or responsibility"
