@@ -29,14 +29,14 @@ try {
   const { chapters, principles, meta } = await server.ssrLoadModule('/src/utils.js');
   const { explorerKeys } = await server.ssrLoadModule('/src/components/ReflectionExplorer.jsx');
   const expectedExplorerKeys = chapters.flatMap(ch => ch.reflections.map(r => `${ch.slug}/${r.slug}`));
-  assert.equal(Object.keys(thoughts).length, 68, 'every reflection has its own cabinet thought');
+  assert.equal(Object.keys(thoughts).length, 69, 'every reflection has its own cabinet thought');
   for (const ch of chapters) for (const r of ch.reflections) {
     assert.ok(thoughts[thoughtId(r.title)]?.cultivates, `missing strength: ${r.title}`);
     assert.ok(thoughts[thoughtId(r.title)]?.caution, `missing caution: ${r.title}`);
   }
   assert.equal(chapters.length, 9, 'nine thematic chapters expected');
-  assert.equal(chapters.reduce((total, ch) => total + ch.reflections.length, 0), 68, 'all reflections should remain present');
-  assert.ok(chapters.every(ch => ch.reflections.length >= 7 && ch.reflections.length <= 8), 'chapters should be balanced');
+  assert.equal(chapters.reduce((total, ch) => total + ch.reflections.length, 0), 69, 'all reflections should remain present');
+  assert.ok(chapters.every(ch => ch.reflections.length >= 7 && ch.reflections.length <= 9), 'chapters should be balanced');
   const illustrated = chapters.find(ch => ch.slug === 'change-and-learning')
     ?.reflections.find(r => r.slug === '6-accept-that-time-moves-forward');
   const illustration = illustrated?.blocks.find(b => b.type === 'image');
