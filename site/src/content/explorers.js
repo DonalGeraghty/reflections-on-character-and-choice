@@ -7,6 +7,10 @@ const reveal = (title, prompt, label, text) => ({ type: 'reveal', title, prompt,
 const choices = (title, prompt, ...items) => ({ type: 'choices', title, prompt, items });
 
 export const explorerDefinitions = {
+  'character-and-relationships/9-let-kindness-be-the-baseline': reveal(
+    'Begin with goodwill', 'Consider the disposition you bring to an ordinary encounter before the other person has done anything to earn it.',
+    'What would kindness as a baseline look like?', 'Offer patience and consideration first, while remaining willing to set a clear boundary. Kindness can be a practised default without becoming naivety.'),
+
   'judgement-and-inner-freedom/8-above-the-clouds': reveal(
     'Find perspective without abandoning responsibility', 'Think of a difficulty that has followed you longer than the event itself.',
     'What might rising above it mean?', 'Separate what needs action from the meaning and resentment added afterwards. Meet any necessary responsibility, but do not let a passing storm decide the state of your mind.'),
