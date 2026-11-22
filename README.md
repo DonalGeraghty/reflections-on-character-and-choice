@@ -110,6 +110,7 @@ On the interactive website, the **Thought Cabinet** invites a second reading of 
   - [6. Let a decision stand on its own](#6-let-a-decision-stand-on-its-own)
   - [7. Do not depend on recognition](#7-do-not-depend-on-recognition)
   - [8. Never arrive empty-handed](#8-never-arrive-empty-handed)
+  - [9. Let kindness be the baseline](#9-let-kindness-be-the-baseline)
 - [Simplicity and Restraint](#simplicity-and-restraint)
   - [1. Seek mastery over desire](#1-seek-mastery-over-desire)
   - [2. Keep appetite within the bounds of choice](#2-keep-appetite-within-the-bounds-of-choice)
@@ -831,6 +832,22 @@ The gesture need not be elaborate or costly. Its value lies in the consideration
 Good manners are not merely rules of etiquette. They are ways of showing others that their kindness has been noticed and appreciated.
 
 Arrive not only ready to receive hospitality, but prepared to show gratitude for it.
+
+### 9. Let kindness be the baseline
+
+> Let kindness be your first instinct, not a favour others must earn.
+
+Kindness should not be reserved for those who have pleased us, helped us or proven themselves deserving of it. It should be the disposition with which we approach others.
+
+In ordinary encounters, we have a choice in how we meet the world. We can begin with suspicion, impatience or indifference, or we can offer goodwill before there is any reason to withhold it.
+
+This does not require naivety. Kindness is not the absence of judgement, nor does it demand that we tolerate dishonesty, disrespect or mistreatment. We can establish boundaries, disagree firmly and refuse unreasonable requests without surrendering our goodwill.
+
+There will be moments when kindness requires conscious effort, particularly when we are tired, frustrated or disappointed. Yet what begins as a deliberate choice can, through repetition, become part of our character.
+
+The aspiration is not merely to perform occasional acts of kindness, but to become the kind of person for whom kindness is the natural response.
+
+**Let kindness be the rule, and unkindness the exception we strive to overcome.**
 
 ---
 
